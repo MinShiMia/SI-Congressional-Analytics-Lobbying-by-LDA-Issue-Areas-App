@@ -19,8 +19,8 @@ st.set_page_config(layout="wide")
 
 # Load the data from GitHub
 # ssl._create_default_https_context = ssl._create_unverified_context  # Disable SSL verification
-df_frequency_path = "https://raw.githubusercontent.com/MinShiMia/SI-Congressional-Analytics-Lobbying-by-Issue-Areas-App/main/lda_frequency_by_LDA_issue_area_over_time.csv"
-df_expenses_path = "https://raw.githubusercontent.com/MinShiMia/SI-Congressional-Analytics-Lobbying-by-Issue-Areas-App/main/lda_quarterly_total_lobbying_expenses_by_LDA_issue_area_over_time.csv"
+df_frequency_path = "https://raw.githubusercontent.com/MinShiMia/SI-Congressional-Analytics-Lobbying-by-LDA-Issue-Areas-App/main/lda_frequency_by_LDA_issue_area_over_time.csv"
+df_expenses_path = "https://raw.githubusercontent.com/MinShiMia/SI-Congressional-Analytics-Lobbying-by-LDA-Issue-Areas-App/main/lda_quarterly_total_lobbying_expenses_by_LDA_issue_area_over_time.csv"
 
 
 response1 = requests.get(df_frequency_path)
