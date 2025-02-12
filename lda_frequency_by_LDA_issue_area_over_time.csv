@@ -1,0 +1,4741 @@
+lobby_issue_id,issue_name,issue_description,Year,Quarter,LDA_frequency
+833,WEL,Welfare,2024,2,56
+829,VET,Veterans,2013,1,221
+788,CAW,Clean Air & Water (Quality),2011,1,509
+810,EDU,Education,2023,1,1076
+828,GAM,Gaming/Gambling/Casino,2023,4,82
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2023,2,270
+761,IMM,Immigration,2015,2,447
+806,DIS,Disaster Planning/Emergencies,2015,3,140
+792,COM,Communications/Broadcasting/Radio/TV,2012,3,259
+768,APP,Apparel/Clothing Industry/Textiles,2018,1,18
+778,BNK,Bankruptcy,2023,4,33
+792,COM,Communications/Broadcasting/Radio/TV,2016,2,260
+780,BEV,Beverage Industry,2015,2,39
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2019,3,226
+803,SMB,Small Business,2016,3,175
+779,MED,Medical/Disease Research/Clinical Labs,2010,1,283
+768,APP,Apparel/Clothing Industry/Textiles,2014,2,20
+797,RET,Retirement,2017,3,270
+821,TRU,Trucking/Shipping,2018,1,73
+798,CON,Constitution,2023,3,51
+771,LAW,Law Enforcement/Crime/Criminal Justice,2024,4,430
+830,GOV,Government Issues,2018,2,696
+790,CDT,Commodities (Big Ticket),2024,4,35
+791,RRR,Railroads,2014,1,124
+785,NAT,Natural Resources,2013,3,632
+791,RRR,Railroads,2018,3,133
+765,INS,Insurance,2022,1,339
+766,ANI,Animals,2019,1,123
+797,RET,Retirement,2013,4,255
+768,APP,Apparel/Clothing Industry/Textiles,2010,3,25
+777,MIA,Media (Information/Publishing),2023,1,39
+815,TRD,Trade (Domestic & Foreign),2019,1,1532
+767,INT,Intelligence and Surveillance,2013,3,67
+759,HOU,Housing,2014,4,288
+783,MON,Minting/Money/Gold Standard,2022,4,8
+797,RET,Retirement,2018,2,274
+786,CIV,Civil Rights/Civil Liberties,2017,2,110
+798,CON,Constitution,2014,3,49
+791,RRR,Railroads,2014,4,131
+830,GOV,Government Issues,2014,3,526
+783,MON,Minting/Money/Gold Standard,2022,1,12
+799,ROD,Roads/Highway,2010,3,127
+827,UTI,Utilities,2022,2,163
+761,IMM,Immigration,2010,4,313
+830,GOV,Government Issues,2010,4,525
+772,AUT,Automotive Industry,2024,1,207
+789,POS,Postal,2018,4,99
+797,RET,Retirement,2022,1,249
+826,FUE,Fuel/Gas/Oil,2010,1,168
+779,MED,Medical/Disease Research/Clinical Labs,2018,2,254
+812,ENG,Energy/Nuclear,2014,3,1338
+805,SPO,Sports/Athletics,2010,2,41
+818,FIR,Firearms/Guns/Ammunition,2016,3,47
+777,MIA,Media (Information/Publishing),2019,2,32
+759,HOU,Housing,2018,3,340
+823,URB,Urban Development/Municipalities,2011,1,192
+794,CPI,Computer Industry,2010,4,148
+798,CON,Constitution,2015,2,38
+759,HOU,Housing,2022,2,425
+782,BUD,Budget/Appropriations,2010,3,4866
+816,FAM,Family Issues/Abortion/Adoption,2022,4,86
+823,URB,Urban Development/Municipalities,2010,2,202
+762,AGR,Agriculture,2019,1,856
+803,SMB,Small Business,2024,1,287
+756,ACC,Accounting,2017,1,62
+827,UTI,Utilities,2018,3,144
+772,AUT,Automotive Industry,2020,2,148
+815,TRD,Trade (Domestic & Foreign),2018,2,1460
+817,TRA,Transportation,2012,1,1623
+824,FOR,Foreign Relations,2020,1,376
+773,MAN,Manufacturing,2014,4,198
+818,FIR,Firearms/Guns/Ammunition,2012,4,35
+810,EDU,Education,2019,2,955
+815,TRD,Trade (Domestic & Foreign),2014,3,1005
+774,AVI,Aviation/Aircraft/Airlines,2018,4,436
+777,MIA,Media (Information/Publishing),2020,3,39
+788,CAW,Clean Air & Water (Quality),2024,2,447
+772,AUT,Automotive Industry,2016,3,119
+787,PHA,Pharmacy,2011,4,196
+818,FIR,Firearms/Guns/Ammunition,2019,1,56
+777,MIA,Media (Information/Publishing),2016,4,26
+819,TOU,Travel/Tourism,2011,1,66
+833,WEL,Welfare,2021,4,57
+823,URB,Urban Development/Municipalities,2023,4,250
+764,ALC,Alcohol & Drug Abuse,2023,4,57
+808,ECN,Economics/Economic Development,2021,1,426
+757,HOM,Homeland Security,2024,3,620
+791,RRR,Railroads,2022,2,124
+818,FIR,Firearms/Guns/Ammunition,2011,3,29
+274245,TAR,Tariff Bills,2012,1,76
+787,PHA,Pharmacy,2019,2,277
+817,TRA,Transportation,2010,2,1582
+788,CAW,Clean Air & Water (Quality),2020,3,376
+786,CIV,Civil Rights/Civil Liberties,2019,4,162
+796,CSP,Consumer Issues/Safety/Protection,2023,1,476
+829,VET,Veterans,2010,3,207
+816,FAM,Family Issues/Abortion/Adoption,2010,4,62
+821,TRU,Trucking/Shipping,2011,4,64
+796,CSP,Consumer Issues/Safety/Protection,2019,2,450
+789,POS,Postal,2020,1,104
+804,DOC,District of Columbia,2015,1,12
+775,MAR,Marine/Maritime/Boating/Fisheries,2013,4,285
+807,TAX,Taxation/Internal Revenue Code,2010,1,2325
+774,AVI,Aviation/Aircraft/Airlines,2022,3,439
+799,ROD,Roads/Highway,2014,2,119
+829,VET,Veterans,2014,2,297
+772,AUT,Automotive Industry,2015,4,115
+765,INS,Insurance,2019,3,352
+757,HOM,Homeland Security,2020,4,644
+801,SCI,Science/Technology,2018,4,398
+828,GAM,Gaming/Gambling/Casino,2015,3,110
+775,MAR,Marine/Maritime/Boating/Fisheries,2013,1,272
+765,INS,Insurance,2015,1,357
+767,INT,Intelligence and Surveillance,2017,2,94
+813,TOR,Torts,2023,3,50
+829,VET,Veterans,2015,1,275
+764,ALC,Alcohol & Drug Abuse,2015,3,57
+832,HCR,Health Issues,2023,4,3188
+821,TRU,Trucking/Shipping,2015,3,76
+813,TOR,Torts,2019,4,49
+828,GAM,Gaming/Gambling/Casino,2011,4,106
+808,ECN,Economics/Economic Development,2016,3,275
+794,CPI,Computer Industry,2013,2,182
+784,CHM,Chemicals/Chemical Industry,2018,2,130
+769,LBR,Labor Issues/Antitrust/Workplace,2023,2,971
+811,TOB,Tobacco,2017,3,94
+809,TEC,Telecommunications,2016,1,579
+812,ENG,Energy/Nuclear,2024,4,1623
+774,AVI,Aviation/Aircraft/Airlines,2014,2,297
+762,AGR,Agriculture,2017,4,766
+828,GAM,Gaming/Gambling/Casino,2019,2,105
+763,IND,Indian/Native American Affairs,2013,3,306
+785,NAT,Natural Resources,2014,1,608
+763,IND,Indian/Native American Affairs,2017,2,317
+767,INT,Intelligence and Surveillance,2021,1,99
+787,PHA,Pharmacy,2015,3,213
+809,TEC,Telecommunications,2012,2,574
+760,AER,Aerospace,2016,2,120
+764,ALC,Alcohol & Drug Abuse,2024,3,59
+797,RET,Retirement,2015,4,239
+784,CHM,Chemicals/Chemical Industry,2014,3,144
+818,FIR,Firearms/Guns/Ammunition,2015,2,40
+776,BAN,Banking,2021,1,573
+782,BUD,Budget/Appropriations,2013,1,3391
+820,FIN,Financial Institutions/Investments/Securities,2016,4,783
+794,CPI,Computer Industry,2017,1,211
+274245,TAR,Tariff Bills,2019,4,169
+824,FOR,Foreign Relations,2022,3,404
+805,SPO,Sports/Athletics,2022,2,81
+758,ADV,Advertising,2020,2,40
+795,REL,Religion,2024,2,13
+807,TAX,Taxation/Internal Revenue Code,2021,3,3047
+809,TEC,Telecommunications,2023,4,713
+771,LAW,Law Enforcement/Crime/Criminal Justice,2013,2,345
+804,DOC,District of Columbia,2022,4,13
+776,BAN,Banking,2014,1,423
+819,TOU,Travel/Tourism,2021,4,118
+761,IMM,Immigration,2019,1,637
+825,UNM,Unemployment,2018,2,9
+824,FOR,Foreign Relations,2018,4,383
+759,HOU,Housing,2016,1,285
+771,LAW,Law Enforcement/Crime/Criminal Justice,2017,1,343
+758,ADV,Advertising,2024,1,34
+833,WEL,Welfare,2011,1,43
+758,ADV,Advertising,2016,3,40
+815,TRD,Trade (Domestic & Foreign),2020,2,1544
+795,REL,Religion,2023,3,13
+814,ENV,Environmental/Superfund,2023,4,1207
+815,TRD,Trade (Domestic & Foreign),2016,3,1093
+830,GOV,Government Issues,2010,1,506
+770,ART,Arts/Entertainment,2018,2,53
+814,ENV,Environmental/Superfund,2015,3,977
+776,BAN,Banking,2010,2,588
+826,FUE,Fuel/Gas/Oil,2023,2,196
+795,REL,Religion,2019,4,18
+798,CON,Constitution,2010,4,47
+810,EDU,Education,2011,4,928
+823,URB,Urban Development/Municipalities,2012,2,180
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2015,4,294
+274245,TAR,Tariff Bills,2023,3,95
+817,TRA,Transportation,2021,1,1698
+812,ENG,Energy/Nuclear,2017,1,1186
+781,MMM,Medicare/Medicaid,2013,3,1153
+814,ENV,Environmental/Superfund,2019,2,947
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2015,1,275
+816,FAM,Family Issues/Abortion/Adoption,2021,3,87
+770,ART,Arts/Entertainment,2022,4,71
+756,ACC,Accounting,2019,3,66
+768,APP,Apparel/Clothing Industry/Textiles,2013,1,23
+780,BEV,Beverage Industry,2017,4,39
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2024,2,50
+790,CDT,Commodities (Big Ticket),2015,4,44
+832,HCR,Health Issues,2016,1,2368
+814,ENV,Environmental/Superfund,2023,1,1133
+827,UTI,Utilities,2019,4,144
+801,SCI,Science/Technology,2012,3,351
+783,MON,Minting/Money/Gold Standard,2019,3,14
+778,BNK,Bankruptcy,2011,1,42
+815,TRD,Trade (Domestic & Foreign),2012,4,897
+825,UNM,Unemployment,2010,4,33
+781,MMM,Medicare/Medicaid,2017,2,1306
+810,EDU,Education,2015,3,974
+756,ACC,Accounting,2015,4,59
+803,SMB,Small Business,2017,4,179
+825,UNM,Unemployment,2014,3,18
+782,BUD,Budget/Appropriations,2023,4,4768
+792,COM,Communications/Broadcasting/Radio/TV,2023,2,267
+764,ALC,Alcohol & Drug Abuse,2013,1,46
+761,IMM,Immigration,2019,4,610
+819,TOU,Travel/Tourism,2022,3,108
+826,FUE,Fuel/Gas/Oil,2024,1,201
+783,MON,Minting/Money/Gold Standard,2023,2,5
+761,IMM,Immigration,2023,3,498
+812,ENG,Energy/Nuclear,2013,2,1406
+768,APP,Apparel/Clothing Industry/Textiles,2012,2,18
+775,MAR,Marine/Maritime/Boating/Fisheries,2024,3,368
+833,WEL,Welfare,2010,2,60
+794,CPI,Computer Industry,2024,4,374
+800,CPT,Copyright/Patent/Trademark,2016,4,524
+785,NAT,Natural Resources,2021,4,747
+765,INS,Insurance,2010,1,319
+814,ENV,Environmental/Superfund,2014,2,976
+801,SCI,Science/Technology,2021,2,622
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2010,1,311
+763,IND,Indian/Native American Affairs,2014,4,324
+813,TOR,Torts,2018,3,71
+820,FIN,Financial Institutions/Investments/Securities,2014,4,742
+821,TRU,Trucking/Shipping,2010,3,63
+813,TOR,Torts,2014,4,68
+764,ALC,Alcohol & Drug Abuse,2010,3,50
+832,HCR,Health Issues,2021,1,3191
+814,ENV,Environmental/Superfund,2018,1,909
+815,TRD,Trade (Domestic & Foreign),2010,1,786
+801,SCI,Science/Technology,2017,3,370
+790,CDT,Commodities (Big Ticket),2010,4,61
+783,MON,Minting/Money/Gold Standard,2014,3,12
+827,UTI,Utilities,2014,4,131
+821,TRU,Trucking/Shipping,2014,2,57
+770,ART,Arts/Entertainment,2020,1,70
+825,UNM,Unemployment,2015,4,11
+794,CPI,Computer Industry,2018,2,234
+795,REL,Religion,2010,2,17
+807,TAX,Taxation/Internal Revenue Code,2024,1,2831
+757,HOM,Homeland Security,2023,2,622
+799,ROD,Roads/Highway,2023,1,116
+806,DIS,Disaster Planning/Emergencies,2019,2,225
+825,UNM,Unemployment,2019,3,10
+761,IMM,Immigration,2024,4,438
+782,BUD,Budget/Appropriations,2018,4,3263
+819,TOU,Travel/Tourism,2024,2,104
+764,ALC,Alcohol & Drug Abuse,2018,1,84
+813,TOR,Torts,2022,2,55
+763,IND,Indian/Native American Affairs,2018,3,313
+812,ENG,Energy/Nuclear,2022,4,1543
+818,FIR,Firearms/Guns/Ammunition,2024,4,48
+783,MON,Minting/Money/Gold Standard,2018,2,11
+820,FIN,Financial Institutions/Investments/Securities,2018,3,843
+805,SPO,Sports/Athletics,2023,3,96
+809,TEC,Telecommunications,2011,4,592
+775,MAR,Marine/Maritime/Boating/Fisheries,2019,3,328
+767,INT,Intelligence and Surveillance,2023,4,114
+806,DIS,Disaster Planning/Emergencies,2023,1,258
+833,WEL,Welfare,2012,2,40
+778,BNK,Bankruptcy,2010,3,60
+800,CPT,Copyright/Patent/Trademark,2021,4,427
+806,DIS,Disaster Planning/Emergencies,2023,4,264
+758,ADV,Advertising,2010,1,67
+808,ECN,Economics/Economic Development,2019,1,316
+777,MIA,Media (Information/Publishing),2015,3,26
+774,AVI,Aviation/Aircraft/Airlines,2023,4,574
+820,FIN,Financial Institutions/Investments/Securities,2019,2,843
+793,RES,Real Estate/Land Use/Conservation,2020,2,154
+832,HCR,Health Issues,2013,3,2280
+775,MAR,Marine/Maritime/Boating/Fisheries,2023,2,360
+787,PHA,Pharmacy,2016,4,226
+770,ART,Arts/Entertainment,2012,3,64
+799,ROD,Roads/Highway,2023,4,105
+782,BUD,Budget/Appropriations,2022,3,4654
+793,RES,Real Estate/Land Use/Conservation,2024,1,163
+776,BAN,Banking,2019,4,556
+819,TOU,Travel/Tourism,2016,1,68
+771,LAW,Law Enforcement/Crime/Criminal Justice,2012,1,341
+777,MIA,Media (Information/Publishing),2011,4,34
+807,TAX,Taxation/Internal Revenue Code,2019,3,2586
+792,COM,Communications/Broadcasting/Radio/TV,2024,3,266
+833,WEL,Welfare,2016,4,41
+769,LBR,Labor Issues/Antitrust/Workplace,2022,1,1030
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2023,1,50
+813,TOR,Torts,2014,1,76
+757,HOM,Homeland Security,2015,1,669
+807,TAX,Taxation/Internal Revenue Code,2011,2,2282
+786,CIV,Civil Rights/Civil Liberties,2022,2,245
+826,FUE,Fuel/Gas/Oil,2011,2,195
+782,BUD,Budget/Appropriations,2011,1,4298
+776,BAN,Banking,2024,2,606
+816,FAM,Family Issues/Abortion/Adoption,2013,2,58
+781,MMM,Medicare/Medicaid,2021,4,1572
+779,MED,Medical/Disease Research/Clinical Labs,2019,3,273
+789,POS,Postal,2017,3,93
+791,RRR,Railroads,2019,4,122
+760,AER,Aerospace,2019,3,135
+799,ROD,Roads/Highway,2015,3,120
+825,UNM,Unemployment,2022,1,38
+828,GAM,Gaming/Gambling/Casino,2013,3,101
+813,TOR,Torts,2021,1,64
+770,ART,Arts/Entertainment,2013,4,57
+789,POS,Postal,2013,4,137
+760,AER,Aerospace,2015,4,120
+779,MED,Medical/Disease Research/Clinical Labs,2015,4,235
+826,FUE,Fuel/Gas/Oil,2015,1,202
+779,MED,Medical/Disease Research/Clinical Labs,2023,2,288
+809,TEC,Telecommunications,2013,3,540
+816,FAM,Family Issues/Abortion/Adoption,2017,1,63
+823,URB,Urban Development/Municipalities,2016,1,158
+769,LBR,Labor Issues/Antitrust/Workplace,2020,4,782
+762,AGR,Agriculture,2024,1,1245
+772,AUT,Automotive Industry,2022,1,199
+792,COM,Communications/Broadcasting/Radio/TV,2015,1,263
+811,TOB,Tobacco,2015,1,74
+789,POS,Postal,2021,2,121
+274245,TAR,Tariff Bills,2010,2,148
+799,ROD,Roads/Highway,2011,4,119
+772,AUT,Automotive Industry,2018,2,149
+810,EDU,Education,2024,2,1159
+770,ART,Arts/Entertainment,2014,3,53
+828,GAM,Gaming/Gambling/Casino,2017,2,91
+830,GOV,Government Issues,2024,1,703
+769,LBR,Labor Issues/Antitrust/Workplace,2024,3,968
+764,ALC,Alcohol & Drug Abuse,2022,3,76
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2011,1,64
+793,RES,Real Estate/Land Use/Conservation,2022,4,155
+833,WEL,Welfare,2019,2,60
+804,DOC,District of Columbia,2014,3,8
+801,SCI,Science/Technology,2016,2,385
+830,GOV,Government Issues,2024,4,669
+758,ADV,Advertising,2012,1,65
+823,URB,Urban Development/Municipalities,2024,2,273
+798,CON,Constitution,2024,4,48
+762,AGR,Agriculture,2016,3,686
+806,DIS,Disaster Planning/Emergencies,2020,3,506
+820,FIN,Financial Institutions/Investments/Securities,2023,1,1008
+792,COM,Communications/Broadcasting/Radio/TV,2011,2,309
+799,ROD,Roads/Highway,2011,1,114
+804,DOC,District of Columbia,2010,4,12
+803,SMB,Small Business,2021,3,376
+767,INT,Intelligence and Surveillance,2014,4,76
+796,CSP,Consumer Issues/Safety/Protection,2022,3,495
+804,DOC,District of Columbia,2018,2,9
+806,DIS,Disaster Planning/Emergencies,2024,2,257
+823,URB,Urban Development/Municipalities,2020,3,200
+760,AER,Aerospace,2015,1,118
+801,SCI,Science/Technology,2020,1,474
+815,TRD,Trade (Domestic & Foreign),2024,4,1367
+828,GAM,Gaming/Gambling/Casino,2018,1,92
+791,RRR,Railroads,2019,1,122
+792,COM,Communications/Broadcasting/Radio/TV,2010,3,316
+762,AGR,Agriculture,2020,2,858
+784,CHM,Chemicals/Chemical Industry,2017,1,120
+786,CIV,Civil Rights/Civil Liberties,2018,3,119
+819,TOU,Travel/Tourism,2012,2,81
+785,NAT,Natural Resources,2011,3,530
+769,LBR,Labor Issues/Antitrust/Workplace,2011,2,616
+778,BNK,Bankruptcy,2013,1,37
+802,DEF,Defense,2010,3,1851
+817,TRA,Transportation,2019,4,1597
+826,FUE,Fuel/Gas/Oil,2021,3,180
+820,FIN,Financial Institutions/Investments/Securities,2021,1,835
+790,CDT,Commodities (Big Ticket),2013,2,51
+782,BUD,Budget/Appropriations,2021,2,4406
+762,AGR,Agriculture,2021,3,869
+790,CDT,Commodities (Big Ticket),2017,1,36
+784,CHM,Chemicals/Chemical Industry,2016,3,141
+782,BUD,Budget/Appropriations,2017,3,3428
+788,CAW,Clean Air & Water (Quality),2021,4,389
+820,FIN,Financial Institutions/Investments/Securities,2017,2,822
+826,FUE,Fuel/Gas/Oil,2017,4,174
+793,RES,Real Estate/Land Use/Conservation,2021,3,144
+760,AER,Aerospace,2010,1,110
+828,GAM,Gaming/Gambling/Casino,2016,1,102
+800,CPT,Copyright/Patent/Trademark,2024,2,398
+817,TRA,Transportation,2023,3,1780
+812,ENG,Energy/Nuclear,2021,3,1432
+781,MMM,Medicare/Medicaid,2024,2,1541
+802,DEF,Defense,2011,2,1665
+829,VET,Veterans,2024,3,428
+807,TAX,Taxation/Internal Revenue Code,2017,4,4081
+802,DEF,Defense,2015,1,1285
+808,ECN,Economics/Economic Development,2014,4,256
+796,CSP,Consumer Issues/Safety/Protection,2016,4,360
+758,ADV,Advertising,2017,4,41
+757,HOM,Homeland Security,2012,3,691
+763,IND,Indian/Native American Affairs,2016,1,343
+825,UNM,Unemployment,2017,1,7
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2020,3,45
+825,UNM,Unemployment,2013,2,23
+800,CPT,Copyright/Patent/Trademark,2020,3,396
+823,URB,Urban Development/Municipalities,2021,4,231
+770,ART,Arts/Entertainment,2015,1,62
+796,CSP,Consumer Issues/Safety/Protection,2012,2,346
+795,REL,Religion,2015,2,16
+776,BAN,Banking,2022,2,597
+819,TOU,Travel/Tourism,2013,3,62
+802,DEF,Defense,2019,3,1599
+758,ADV,Advertising,2021,3,36
+776,BAN,Banking,2018,3,506
+778,BNK,Bankruptcy,2012,2,42
+811,TOB,Tobacco,2020,1,140
+769,LBR,Labor Issues/Antitrust/Workplace,2015,4,687
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2016,4,40
+814,ENV,Environmental/Superfund,2020,3,1004
+805,SPO,Sports/Athletics,2024,4,103
+788,CAW,Clean Air & Water (Quality),2022,3,421
+765,INS,Insurance,2011,2,294
+795,REL,Religion,2011,3,19
+816,FAM,Family Issues/Abortion/Adoption,2011,2,61
+785,NAT,Natural Resources,2024,2,868
+769,LBR,Labor Issues/Antitrust/Workplace,2019,3,735
+781,MMM,Medicare/Medicaid,2016,1,1230
+787,PHA,Pharmacy,2018,1,261
+793,RES,Real Estate/Land Use/Conservation,2017,4,129
+794,CPI,Computer Industry,2021,3,346
+808,ECN,Economics/Economic Development,2014,1,276
+787,PHA,Pharmacy,2018,4,266
+806,DIS,Disaster Planning/Emergencies,2021,4,351
+758,ADV,Advertising,2017,1,37
+788,CAW,Clean Air & Water (Quality),2018,1,404
+758,ADV,Advertising,2013,2,54
+776,BAN,Banking,2014,4,404
+832,HCR,Health Issues,2024,2,3226
+783,MON,Minting/Money/Gold Standard,2011,2,10
+819,TOU,Travel/Tourism,2018,1,80
+813,TOR,Torts,2011,3,107
+764,ALC,Alcohol & Drug Abuse,2013,4,49
+807,TAX,Taxation/Internal Revenue Code,2017,1,3026
+802,DEF,Defense,2020,4,1734
+763,IND,Indian/Native American Affairs,2021,1,299
+765,INS,Insurance,2023,2,326
+775,MAR,Marine/Maritime/Boating/Fisheries,2021,2,323
+793,RES,Real Estate/Land Use/Conservation,2012,1,149
+773,MAN,Manufacturing,2019,1,180
+756,ACC,Accounting,2018,2,78
+784,CHM,Chemicals/Chemical Industry,2010,1,124
+827,UTI,Utilities,2021,1,139
+756,ACC,Accounting,2014,3,51
+771,LAW,Law Enforcement/Crime/Criminal Justice,2010,4,365
+761,IMM,Immigration,2012,4,332
+832,HCR,Health Issues,2014,4,2237
+821,TRU,Trucking/Shipping,2024,3,87
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2022,3,58
+802,DEF,Defense,2024,3,2404
+759,HOU,Housing,2013,3,323
+829,VET,Veterans,2023,2,395
+759,HOU,Housing,2017,2,293
+781,MMM,Medicare/Medicaid,2014,1,1179
+756,ACC,Accounting,2022,1,71
+780,BEV,Beverage Industry,2024,4,48
+790,CDT,Commodities (Big Ticket),2014,3,49
+805,SPO,Sports/Athletics,2019,4,50
+827,UTI,Utilities,2016,3,130
+798,CON,Constitution,2017,1,56
+775,MAR,Marine/Maritime/Boating/Fisheries,2022,1,341
+769,LBR,Labor Issues/Antitrust/Workplace,2010,1,744
+798,CON,Constitution,2013,2,36
+773,MAN,Manufacturing,2015,2,191
+827,UTI,Utilities,2020,2,146
+787,PHA,Pharmacy,2023,1,265
+788,CAW,Clean Air & Water (Quality),2016,1,449
+824,FOR,Foreign Relations,2017,3,365
+768,APP,Apparel/Clothing Industry/Textiles,2023,4,24
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2018,2,266
+274245,TAR,Tariff Bills,2021,1,126
+817,TRA,Transportation,2014,4,1310
+810,EDU,Education,2018,1,969
+774,AVI,Aviation/Aircraft/Airlines,2010,3,343
+800,CPT,Copyright/Patent/Trademark,2023,1,381
+790,CDT,Commodities (Big Ticket),2018,2,31
+790,CDT,Commodities (Big Ticket),2022,1,35
+826,FUE,Fuel/Gas/Oil,2022,4,186
+778,BNK,Bankruptcy,2018,4,37
+827,UTI,Utilities,2012,1,160
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2014,3,265
+780,BEV,Beverage Industry,2020,2,42
+819,TOU,Travel/Tourism,2023,4,100
+793,RES,Real Estate/Land Use/Conservation,2016,3,147
+766,ANI,Animals,2017,4,111
+807,TAX,Taxation/Internal Revenue Code,2022,1,2992
+814,ENV,Environmental/Superfund,2018,4,887
+805,SPO,Sports/Athletics,2011,3,27
+800,CPT,Copyright/Patent/Trademark,2019,2,449
+778,BNK,Bankruptcy,2022,3,35
+830,GOV,Government Issues,2013,2,522
+764,ALC,Alcohol & Drug Abuse,2011,4,46
+817,TRA,Transportation,2018,3,1579
+757,HOM,Homeland Security,2011,2,622
+824,FOR,Foreign Relations,2021,2,376
+817,TRA,Transportation,2022,2,1883
+813,TOR,Torts,2010,2,120
+788,CAW,Clean Air & Water (Quality),2012,2,482
+807,TAX,Taxation/Internal Revenue Code,2018,2,2911
+795,REL,Religion,2021,4,17
+808,ECN,Economics/Economic Development,2012,4,277
+803,SMB,Small Business,2010,1,168
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2010,4,336
+796,CSP,Consumer Issues/Safety/Protection,2011,1,331
+797,RET,Retirement,2023,2,231
+809,TEC,Telecommunications,2020,3,783
+783,MON,Minting/Money/Gold Standard,2020,4,9
+758,ADV,Advertising,2023,3,32
+796,CSP,Consumer Issues/Safety/Protection,2020,3,442
+767,INT,Intelligence and Surveillance,2012,2,56
+812,ENG,Energy/Nuclear,2012,1,1542
+771,LAW,Law Enforcement/Crime/Criminal Justice,2023,3,423
+784,CHM,Chemicals/Chemical Industry,2020,2,145
+797,RET,Retirement,2020,1,286
+797,RET,Retirement,2016,2,242
+805,SPO,Sports/Athletics,2012,1,32
+830,GOV,Government Issues,2015,4,534
+780,BEV,Beverage Industry,2012,4,43
+823,URB,Urban Development/Municipalities,2013,3,171
+815,TRD,Trade (Domestic & Foreign),2017,4,1244
+781,MMM,Medicare/Medicaid,2012,2,1076
+762,AGR,Agriculture,2012,1,734
+274245,TAR,Tariff Bills,2022,2,121
+768,APP,Apparel/Clothing Industry/Textiles,2011,4,19
+810,EDU,Education,2020,3,947
+766,ANI,Animals,2012,4,88
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2012,2,65
+824,FOR,Foreign Relations,2013,1,318
+811,TOB,Tobacco,2012,3,76
+765,INS,Insurance,2020,4,347
+804,DOC,District of Columbia,2013,2,10
+756,ACC,Accounting,2010,4,37
+829,VET,Veterans,2020,4,351
+766,ANI,Animals,2020,2,127
+774,AVI,Aviation/Aircraft/Airlines,2016,1,451
+760,AER,Aerospace,2018,2,125
+767,INT,Intelligence and Surveillance,2016,1,103
+803,SMB,Small Business,2022,1,360
+774,AVI,Aviation/Aircraft/Airlines,2012,2,337
+804,DOC,District of Columbia,2012,3,10
+800,CPT,Copyright/Patent/Trademark,2011,1,605
+787,PHA,Pharmacy,2010,3,171
+781,MMM,Medicare/Medicaid,2011,3,1134
+773,MAN,Manufacturing,2012,4,156
+766,ANI,Animals,2016,3,106
+761,IMM,Immigration,2017,1,516
+274245,TAR,Tariff Bills,2014,4,75
+773,MAN,Manufacturing,2017,2,196
+760,AER,Aerospace,2014,3,103
+816,FAM,Family Issues/Abortion/Adoption,2015,1,59
+772,AUT,Automotive Industry,2021,3,191
+772,AUT,Automotive Industry,2017,4,140
+779,MED,Medical/Disease Research/Clinical Labs,2020,4,315
+773,MAN,Manufacturing,2021,1,350
+818,FIR,Firearms/Guns/Ammunition,2014,1,57
+759,HOU,Housing,2021,1,370
+824,FOR,Foreign Relations,2013,4,331
+778,BNK,Bankruptcy,2021,2,27
+785,NAT,Natural Resources,2015,2,644
+791,RRR,Railroads,2017,2,122
+796,CSP,Consumer Issues/Safety/Protection,2021,2,424
+787,PHA,Pharmacy,2014,2,216
+816,FAM,Family Issues/Abortion/Adoption,2024,1,92
+829,VET,Veterans,2012,3,228
+780,BEV,Beverage Industry,2016,3,44
+773,MAN,Manufacturing,2013,3,180
+786,CIV,Civil Rights/Civil Liberties,2014,4,85
+771,LAW,Law Enforcement/Crime/Criminal Justice,2019,4,399
+830,GOV,Government Issues,2012,1,552
+760,AER,Aerospace,2013,4,110
+833,WEL,Welfare,2023,1,48
+809,TEC,Telecommunications,2022,3,779
+766,ANI,Animals,2024,1,161
+811,TOB,Tobacco,2016,2,82
+761,IMM,Immigration,2013,2,733
+765,INS,Insurance,2021,3,341
+792,COM,Communications/Broadcasting/Radio/TV,2013,1,256
+810,EDU,Education,2016,4,885
+798,CON,Constitution,2012,4,30
+802,DEF,Defense,2023,2,2204
+804,DOC,District of Columbia,2017,1,11
+274245,TAR,Tariff Bills,2018,3,174
+784,CHM,Chemicals/Chemical Industry,2024,4,164
+785,NAT,Natural Resources,2019,4,751
+833,WEL,Welfare,2020,3,56
+812,ENG,Energy/Nuclear,2010,4,1721
+793,RES,Real Estate/Land Use/Conservation,2010,1,144
+805,SPO,Sports/Athletics,2014,1,30
+811,TOB,Tobacco,2013,4,83
+806,DIS,Disaster Planning/Emergencies,2011,1,114
+803,SMB,Small Business,2020,2,570
+786,CIV,Civil Rights/Civil Liberties,2021,1,230
+792,COM,Communications/Broadcasting/Radio/TV,2020,4,265
+780,BEV,Beverage Industry,2019,1,42
+778,BNK,Bankruptcy,2023,1,30
+766,ANI,Animals,2019,4,134
+818,FIR,Firearms/Guns/Ammunition,2012,1,32
+804,DOC,District of Columbia,2019,3,13
+771,LAW,Law Enforcement/Crime/Criminal Justice,2020,2,462
+774,AVI,Aviation/Aircraft/Airlines,2015,3,359
+817,TRA,Transportation,2012,4,1288
+777,MIA,Media (Information/Publishing),2023,4,40
+774,AVI,Aviation/Aircraft/Airlines,2011,4,357
+762,AGR,Agriculture,2011,3,684
+829,VET,Veterans,2013,4,249
+788,CAW,Clean Air & Water (Quality),2011,4,483
+274245,TAR,Tariff Bills,2019,1,144
+798,CON,Constitution,2019,1,63
+804,DOC,District of Columbia,2015,4,14
+809,TEC,Telecommunications,2023,1,726
+789,POS,Postal,2023,2,89
+804,DOC,District of Columbia,2023,2,13
+760,AER,Aerospace,2020,1,166
+784,CHM,Chemicals/Chemical Industry,2022,4,145
+765,INS,Insurance,2022,4,332
+774,AVI,Aviation/Aircraft/Airlines,2019,2,411
+829,VET,Veterans,2017,3,330
+771,LAW,Law Enforcement/Crime/Criminal Justice,2024,1,443
+828,GAM,Gaming/Gambling/Casino,2023,1,78
+824,FOR,Foreign Relations,2016,2,358
+808,ECN,Economics/Economic Development,2024,4,396
+762,AGR,Agriculture,2015,2,665
+766,ANI,Animals,2023,3,156
+786,CIV,Civil Rights/Civil Liberties,2013,3,86
+796,CSP,Consumer Issues/Safety/Protection,2023,4,506
+790,CDT,Commodities (Big Ticket),2024,1,35
+797,RET,Retirement,2013,1,228
+821,TRU,Trucking/Shipping,2018,4,86
+816,FAM,Family Issues/Abortion/Adoption,2018,2,60
+823,URB,Urban Development/Municipalities,2014,4,151
+772,AUT,Automotive Industry,2024,4,192
+760,AER,Aerospace,2024,3,210
+765,INS,Insurance,2018,2,331
+785,NAT,Natural Resources,2021,1,708
+809,TEC,Telecommunications,2015,3,566
+773,MAN,Manufacturing,2014,1,200
+812,ENG,Energy/Nuclear,2010,1,1865
+274245,TAR,Tariff Bills,2011,3,65
+800,CPT,Copyright/Patent/Trademark,2013,3,518
+795,REL,Religion,2022,2,15
+760,AER,Aerospace,2020,4,156
+815,TRD,Trade (Domestic & Foreign),2022,4,1378
+756,ACC,Accounting,2012,3,42
+821,TRU,Trucking/Shipping,2022,3,91
+779,MED,Medical/Disease Research/Clinical Labs,2013,4,205
+816,FAM,Family Issues/Abortion/Adoption,2022,1,85
+780,BEV,Beverage Industry,2010,4,50
+824,FOR,Foreign Relations,2011,4,332
+792,COM,Communications/Broadcasting/Radio/TV,2020,1,279
+762,AGR,Agriculture,2010,4,682
+774,AVI,Aviation/Aircraft/Airlines,2011,1,352
+780,BEV,Beverage Industry,2019,4,43
+791,RRR,Railroads,2010,2,145
+811,TOB,Tobacco,2013,1,77
+787,PHA,Pharmacy,2011,1,184
+785,NAT,Natural Resources,2017,2,690
+810,EDU,Education,2023,4,1105
+830,GOV,Government Issues,2022,1,782
+779,MED,Medical/Disease Research/Clinical Labs,2022,1,316
+761,IMM,Immigration,2012,1,306
+820,FIN,Financial Institutions/Investments/Securities,2024,2,1061
+789,POS,Postal,2020,4,106
+779,MED,Medical/Disease Research/Clinical Labs,2022,4,296
+799,ROD,Roads/Highway,2022,3,124
+760,AER,Aerospace,2012,3,109
+823,URB,Urban Development/Municipalities,2023,1,243
+816,FAM,Family Issues/Abortion/Adoption,2010,1,70
+823,URB,Urban Development/Municipalities,2019,2,181
+819,TOU,Travel/Tourism,2011,4,70
+774,AVI,Aviation/Aircraft/Airlines,2018,1,420
+821,TRU,Trucking/Shipping,2020,1,86
+799,ROD,Roads/Highway,2018,4,108
+819,TOU,Travel/Tourism,2015,3,67
+784,CHM,Chemicals/Chemical Industry,2010,4,143
+274245,TAR,Tariff Bills,2012,4,141
+820,FIN,Financial Institutions/Investments/Securities,2020,3,905
+833,WEL,Welfare,2021,1,56
+766,ANI,Animals,2022,2,146
+807,TAX,Taxation/Internal Revenue Code,2014,3,2811
+785,NAT,Natural Resources,2010,2,536
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2022,4,265
+772,AUT,Automotive Industry,2012,1,113
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2018,1,45
+770,ART,Arts/Entertainment,2011,2,70
+830,GOV,Government Issues,2017,1,626
+830,GOV,Government Issues,2021,3,784
+811,TOB,Tobacco,2021,2,115
+764,ALC,Alcohol & Drug Abuse,2019,2,75
+789,POS,Postal,2024,3,83
+826,FUE,Fuel/Gas/Oil,2013,2,198
+810,EDU,Education,2021,4,1035
+798,CON,Constitution,2017,4,50
+807,TAX,Taxation/Internal Revenue Code,2010,4,2450
+796,CSP,Consumer Issues/Safety/Protection,2015,3,372
+785,NAT,Natural Resources,2014,4,605
+806,DIS,Disaster Planning/Emergencies,2013,3,135
+830,GOV,Government Issues,2017,4,658
+801,SCI,Science/Technology,2019,3,471
+832,HCR,Health Issues,2023,1,3132
+804,DOC,District of Columbia,2011,2,10
+797,RET,Retirement,2015,1,221
+800,CPT,Copyright/Patent/Trademark,2023,4,389
+797,RET,Retirement,2011,2,207
+786,CIV,Civil Rights/Civil Liberties,2024,2,198
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2014,2,56
+816,FAM,Family Issues/Abortion/Adoption,2014,3,60
+762,AGR,Agriculture,2017,1,700
+765,INS,Insurance,2015,4,298
+798,CON,Constitution,2021,3,54
+806,DIS,Disaster Planning/Emergencies,2017,2,111
+773,MAN,Manufacturing,2011,3,153
+828,GAM,Gaming/Gambling/Casino,2011,1,106
+777,MIA,Media (Information/Publishing),2021,2,43
+767,INT,Intelligence and Surveillance,2021,4,111
+799,ROD,Roads/Highway,2018,1,112
+782,BUD,Budget/Appropriations,2013,4,3264
+789,POS,Postal,2016,2,98
+810,EDU,Education,2022,3,1090
+776,BAN,Banking,2021,4,570
+775,MAR,Marine/Maritime/Boating/Fisheries,2017,3,308
+818,FIR,Firearms/Guns/Ammunition,2019,4,53
+803,SMB,Small Business,2024,4,280
+809,TEC,Telecommunications,2016,4,539
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2013,3,61
+801,SCI,Science/Technology,2023,2,761
+764,ALC,Alcohol & Drug Abuse,2020,1,73
+833,WEL,Welfare,2017,2,41
+796,CSP,Consumer Issues/Safety/Protection,2011,4,344
+762,AGR,Agriculture,2013,2,842
+772,AUT,Automotive Industry,2010,1,138
+770,ART,Arts/Entertainment,2016,2,59
+832,HCR,Health Issues,2017,2,2705
+764,ALC,Alcohol & Drug Abuse,2014,2,58
+808,ECN,Economics/Economic Development,2015,2,254
+794,CPI,Computer Industry,2014,3,174
+768,APP,Apparel/Clothing Industry/Textiles,2022,3,30
+807,TAX,Taxation/Internal Revenue Code,2015,4,2800
+795,REL,Religion,2014,1,13
+801,SCI,Science/Technology,2013,4,352
+783,MON,Minting/Money/Gold Standard,2010,1,9
+815,TRD,Trade (Domestic & Foreign),2010,4,790
+796,CSP,Consumer Issues/Safety/Protection,2010,3,365
+827,UTI,Utilities,2014,1,136
+756,ACC,Accounting,2021,3,64
+790,CDT,Commodities (Big Ticket),2010,1,60
+812,ENG,Energy/Nuclear,2022,1,1480
+830,GOV,Government Issues,2022,4,725
+781,MMM,Medicare/Medicaid,2018,3,1389
+768,APP,Apparel/Clothing Industry/Textiles,2018,4,16
+826,FUE,Fuel/Gas/Oil,2014,3,196
+789,POS,Postal,2010,3,65
+800,CPT,Copyright/Patent/Trademark,2018,1,449
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2019,2,52
+782,BUD,Budget/Appropriations,2014,2,3219
+781,MMM,Medicare/Medicaid,2022,2,1559
+808,ECN,Economics/Economic Development,2011,3,275
+765,INS,Insurance,2010,4,284
+820,FIN,Financial Institutions/Investments/Securities,2010,2,1202
+769,LBR,Labor Issues/Antitrust/Workplace,2018,2,724
+784,CHM,Chemicals/Chemical Industry,2013,2,142
+826,FUE,Fuel/Gas/Oil,2022,1,194
+756,ACC,Accounting,2020,4,78
+809,TEC,Telecommunications,2011,1,515
+758,ADV,Advertising,2014,3,57
+759,HOU,Housing,2014,1,314
+759,HOU,Housing,2010,2,334
+826,FUE,Fuel/Gas/Oil,2010,4,177
+812,ENG,Energy/Nuclear,2018,2,1212
+803,SMB,Small Business,2012,1,184
+787,PHA,Pharmacy,2020,3,280
+794,CPI,Computer Industry,2022,4,371
+758,ADV,Advertising,2010,4,70
+789,POS,Postal,2014,2,125
+827,UTI,Utilities,2010,2,195
+776,BAN,Banking,2016,1,429
+820,FIN,Financial Institutions/Investments/Securities,2014,1,745
+782,BUD,Budget/Appropriations,2018,1,3626
+758,ADV,Advertising,2015,2,54
+781,MMM,Medicare/Medicaid,2023,1,1505
+802,DEF,Defense,2012,3,1430
+788,CAW,Clean Air & Water (Quality),2019,2,387
+761,IMM,Immigration,2024,1,501
+819,TOU,Travel/Tourism,2016,4,68
+825,UNM,Unemployment,2023,2,26
+788,CAW,Clean Air & Water (Quality),2023,1,410
+819,TOU,Travel/Tourism,2020,3,118
+780,BEV,Beverage Industry,2023,3,54
+774,AVI,Aviation/Aircraft/Airlines,2023,1,493
+758,ADV,Advertising,2019,1,39
+769,LBR,Labor Issues/Antitrust/Workplace,2013,4,565
+824,FOR,Foreign Relations,2020,4,343
+818,FIR,Firearms/Guns/Ammunition,2021,1,57
+833,WEL,Welfare,2016,1,37
+757,HOM,Homeland Security,2019,3,671
+762,AGR,Agriculture,2019,4,827
+771,LAW,Law Enforcement/Crime/Criminal Justice,2012,4,320
+775,MAR,Marine/Maritime/Boating/Fisheries,2015,4,266
+795,REL,Religion,2018,3,18
+793,RES,Real Estate/Land Use/Conservation,2024,4,164
+788,CAW,Clean Air & Water (Quality),2015,3,464
+800,CPT,Copyright/Patent/Trademark,2022,3,429
+786,CIV,Civil Rights/Civil Liberties,2021,4,246
+793,RES,Real Estate/Land Use/Conservation,2022,1,159
+763,IND,Indian/Native American Affairs,2024,2,317
+773,MAN,Manufacturing,2022,2,451
+802,DEF,Defense,2017,3,1445
+772,AUT,Automotive Industry,2022,4,201
+803,SMB,Small Business,2013,2,159
+793,RES,Real Estate/Land Use/Conservation,2018,2,141
+756,ACC,Accounting,2015,1,47
+817,TRA,Transportation,2016,3,1372
+778,BNK,Bankruptcy,2019,2,32
+792,COM,Communications/Broadcasting/Radio/TV,2019,3,277
+771,LAW,Law Enforcement/Crime/Criminal Justice,2017,4,354
+762,AGR,Agriculture,2024,4,1164
+790,CDT,Commodities (Big Ticket),2020,2,32
+768,APP,Apparel/Clothing Industry/Textiles,2021,2,27
+817,TRA,Transportation,2020,2,1689
+789,POS,Postal,2013,1,125
+827,UTI,Utilities,2023,3,165
+780,BEV,Beverage Industry,2021,3,51
+759,HOU,Housing,2020,3,366
+788,CAW,Clean Air & Water (Quality),2013,3,438
+773,MAN,Manufacturing,2018,3,199
+791,RRR,Railroads,2015,2,144
+802,DEF,Defense,2021,2,1813
+758,ADV,Advertising,2024,4,33
+832,HCR,Health Issues,2012,2,2320
+771,LAW,Law Enforcement/Crime/Criminal Justice,2021,3,457
+767,INT,Intelligence and Surveillance,2010,2,57
+808,ECN,Economics/Economic Development,2010,2,300
+757,HOM,Homeland Security,2013,4,644
+790,CDT,Commodities (Big Ticket),2011,2,61
+813,TOR,Torts,2012,4,75
+804,DOC,District of Columbia,2022,1,11
+781,MMM,Medicare/Medicaid,2021,1,1501
+798,CON,Constitution,2010,1,40
+827,UTI,Utilities,2019,1,139
+769,LBR,Labor Issues/Antitrust/Workplace,2016,2,772
+780,BEV,Beverage Industry,2017,1,39
+759,HOU,Housing,2011,3,301
+817,TRA,Transportation,2024,4,1629
+791,RRR,Railroads,2011,3,128
+783,MON,Minting/Money/Gold Standard,2015,4,9
+793,RES,Real Estate/Land Use/Conservation,2010,4,137
+826,FUE,Fuel/Gas/Oil,2019,3,181
+813,TOR,Torts,2013,3,70
+810,EDU,Education,2011,1,983
+829,VET,Veterans,2021,2,341
+770,ART,Arts/Entertainment,2022,1,75
+790,CDT,Commodities (Big Ticket),2012,1,55
+815,TRD,Trade (Domestic & Foreign),2012,1,857
+811,TOB,Tobacco,2010,3,80
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2011,2,261
+779,MED,Medical/Disease Research/Clinical Labs,2011,2,246
+768,APP,Apparel/Clothing Industry/Textiles,2016,4,15
+824,FOR,Foreign Relations,2018,1,394
+825,UNM,Unemployment,2010,1,28
+778,BNK,Bankruptcy,2011,4,41
+759,HOU,Housing,2012,2,318
+779,MED,Medical/Disease Research/Clinical Labs,2015,1,243
+766,ANI,Animals,2015,2,112
+800,CPT,Copyright/Patent/Trademark,2012,2,434
+805,SPO,Sports/Athletics,2014,4,46
+760,AER,Aerospace,2023,2,205
+794,CPI,Computer Industry,2024,1,389
+793,RES,Real Estate/Land Use/Conservation,2014,3,145
+805,SPO,Sports/Athletics,2018,3,47
+812,ENG,Energy/Nuclear,2017,4,1244
+803,SMB,Small Business,2017,1,177
+767,INT,Intelligence and Surveillance,2011,1,38
+827,UTI,Utilities,2015,2,145
+802,DEF,Defense,2013,4,1291
+800,CPT,Copyright/Patent/Trademark,2016,1,637
+769,LBR,Labor Issues/Antitrust/Workplace,2012,3,590
+824,FOR,Foreign Relations,2014,2,335
+796,CSP,Consumer Issues/Safety/Protection,2018,4,380
+777,MIA,Media (Information/Publishing),2018,1,23
+802,DEF,Defense,2013,1,1305
+821,TRU,Trucking/Shipping,2013,4,50
+832,HCR,Health Issues,2021,4,3264
+813,TOR,Torts,2021,4,59
+757,HOM,Homeland Security,2017,3,700
+777,MIA,Media (Information/Publishing),2010,3,37
+814,ENV,Environmental/Superfund,2011,1,1084
+775,MAR,Marine/Maritime/Boating/Fisheries,2011,2,285
+801,SCI,Science/Technology,2024,3,838
+818,FIR,Firearms/Guns/Ammunition,2022,2,74
+811,TOB,Tobacco,2019,3,124
+833,WEL,Welfare,2014,4,39
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2015,3,52
+775,MAR,Marine/Maritime/Boating/Fisheries,2015,1,269
+782,BUD,Budget/Appropriations,2011,4,3857
+818,FIR,Firearms/Guns/Ammunition,2018,3,43
+787,PHA,Pharmacy,2012,2,222
+770,ART,Arts/Entertainment,2010,1,92
+823,URB,Urban Development/Municipalities,2016,4,150
+763,IND,Indian/Native American Affairs,2014,1,353
+767,INT,Intelligence and Surveillance,2019,2,101
+821,TRU,Trucking/Shipping,2017,3,75
+825,UNM,Unemployment,2022,4,29
+777,MIA,Media (Information/Publishing),2014,2,40
+808,ECN,Economics/Economic Development,2023,3,409
+788,CAW,Clean Air & Water (Quality),2023,4,414
+782,BUD,Budget/Appropriations,2015,3,3231
+816,FAM,Family Issues/Abortion/Adoption,2017,4,60
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2011,4,67
+769,LBR,Labor Issues/Antitrust/Workplace,2020,1,792
+765,INS,Insurance,2012,3,282
+818,FIR,Firearms/Guns/Ammunition,2014,4,41
+765,INS,Insurance,2016,2,301
+759,HOU,Housing,2024,2,479
+760,AER,Aerospace,2011,2,115
+811,TOB,Tobacco,2018,4,100
+806,DIS,Disaster Planning/Emergencies,2016,1,124
+767,INT,Intelligence and Surveillance,2023,1,101
+794,CPI,Computer Industry,2012,1,178
+794,CPI,Computer Industry,2016,3,205
+766,ANI,Animals,2024,4,154
+806,DIS,Disaster Planning/Emergencies,2016,4,120
+774,AVI,Aviation/Aircraft/Airlines,2020,3,454
+777,MIA,Media (Information/Publishing),2018,4,28
+784,CHM,Chemicals/Chemical Industry,2021,3,124
+774,AVI,Aviation/Aircraft/Airlines,2016,4,391
+828,GAM,Gaming/Gambling/Casino,2021,4,80
+824,FOR,Foreign Relations,2010,3,337
+757,HOM,Homeland Security,2022,1,659
+780,BEV,Beverage Industry,2013,2,39
+798,CON,Constitution,2024,1,56
+782,BUD,Budget/Appropriations,2019,2,3420
+830,GOV,Government Issues,2020,2,758
+772,AUT,Automotive Industry,2014,3,112
+764,ALC,Alcohol & Drug Abuse,2018,4,84
+809,TEC,Telecommunications,2018,1,661
+757,HOM,Homeland Security,2018,2,708
+784,CHM,Chemicals/Chemical Industry,2017,4,123
+797,RET,Retirement,2012,3,246
+821,TRU,Trucking/Shipping,2013,1,58
+813,TOR,Torts,2017,2,90
+801,SCI,Science/Technology,2020,4,483
+796,CSP,Consumer Issues/Safety/Protection,2018,1,358
+814,ENV,Environmental/Superfund,2011,4,1040
+826,FUE,Fuel/Gas/Oil,2015,4,195
+804,DOC,District of Columbia,2010,1,19
+794,CPI,Computer Industry,2020,2,299
+765,INS,Insurance,2017,1,319
+808,ECN,Economics/Economic Development,2019,4,305
+775,MAR,Marine/Maritime/Boating/Fisheries,2020,4,316
+761,IMM,Immigration,2021,3,624
+766,ANI,Animals,2012,1,93
+813,TOR,Torts,2019,1,57
+775,MAR,Marine/Maritime/Boating/Fisheries,2012,3,267
+757,HOM,Homeland Security,2020,1,718
+801,SCI,Science/Technology,2015,1,376
+799,ROD,Roads/Highway,2021,2,145
+785,NAT,Natural Resources,2023,3,843
+757,HOM,Homeland Security,2016,2,675
+814,ENV,Environmental/Superfund,2016,4,873
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2012,3,235
+814,ENV,Environmental/Superfund,2012,2,1021
+763,IND,Indian/Native American Affairs,2012,2,289
+784,CHM,Chemicals/Chemical Industry,2012,1,133
+813,TOR,Torts,2015,2,68
+767,INT,Intelligence and Surveillance,2020,3,108
+788,CAW,Clean Air & Water (Quality),2017,2,401
+807,TAX,Taxation/Internal Revenue Code,2013,2,2727
+821,TRU,Trucking/Shipping,2011,1,55
+820,FIN,Financial Institutions/Investments/Securities,2021,4,934
+783,MON,Minting/Money/Gold Standard,2015,1,10
+832,HCR,Health Issues,2016,4,2359
+781,MMM,Medicare/Medicaid,2016,4,1209
+793,RES,Real Estate/Land Use/Conservation,2017,1,143
+789,POS,Postal,2012,3,142
+779,MED,Medical/Disease Research/Clinical Labs,2024,3,282
+814,ENV,Environmental/Superfund,2016,1,906
+775,MAR,Marine/Maritime/Boating/Fisheries,2016,2,302
+799,ROD,Roads/Highway,2017,3,110
+756,ACC,Accounting,2023,2,63
+777,MIA,Media (Information/Publishing),2012,2,36
+811,TOB,Tobacco,2024,3,110
+811,TOB,Tobacco,2020,4,116
+781,MMM,Medicare/Medicaid,2020,3,1501
+818,FIR,Firearms/Guns/Ammunition,2023,3,54
+775,MAR,Marine/Maritime/Boating/Fisheries,2020,1,323
+767,INT,Intelligence and Surveillance,2024,2,123
+825,UNM,Unemployment,2017,4,9
+805,SPO,Sports/Athletics,2020,2,83
+763,IND,Indian/Native American Affairs,2016,4,329
+770,ART,Arts/Entertainment,2015,4,54
+773,MAN,Manufacturing,2021,4,397
+833,WEL,Welfare,2013,3,43
+826,FUE,Fuel/Gas/Oil,2017,1,172
+770,ART,Arts/Entertainment,2023,2,84
+808,ECN,Economics/Economic Development,2018,3,329
+764,ALC,Alcohol & Drug Abuse,2021,2,69
+787,PHA,Pharmacy,2022,3,283
+827,UTI,Utilities,2011,3,166
+801,SCI,Science/Technology,2010,3,423
+810,EDU,Education,2012,2,914
+799,ROD,Roads/Highway,2016,4,100
+769,LBR,Labor Issues/Antitrust/Workplace,2015,1,596
+820,FIN,Financial Institutions/Investments/Securities,2013,3,777
+770,ART,Arts/Entertainment,2019,3,52
+772,AUT,Automotive Industry,2013,2,102
+794,CPI,Computer Industry,2017,4,238
+828,GAM,Gaming/Gambling/Casino,2012,2,116
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2016,1,47
+764,ALC,Alcohol & Drug Abuse,2017,3,76
+832,HCR,Health Issues,2020,3,3241
+825,UNM,Unemployment,2021,3,53
+773,MAN,Manufacturing,2022,3,451
+771,LAW,Law Enforcement/Crime/Criminal Justice,2010,2,419
+826,FUE,Fuel/Gas/Oil,2014,4,179
+820,FIN,Financial Institutions/Investments/Securities,2014,2,791
+817,TRA,Transportation,2022,4,1817
+812,ENG,Energy/Nuclear,2022,2,1536
+756,ACC,Accounting,2024,4,69
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2015,2,55
+274245,TAR,Tariff Bills,2016,3,64
+795,REL,Religion,2021,1,16
+815,TRD,Trade (Domestic & Foreign),2017,1,1031
+795,REL,Religion,2017,2,22
+810,EDU,Education,2013,3,898
+832,HCR,Health Issues,2011,1,2447
+781,MMM,Medicare/Medicaid,2014,4,1136
+800,CPT,Copyright/Patent/Trademark,2015,3,718
+786,CIV,Civil Rights/Civil Liberties,2015,2,94
+764,ALC,Alcohol & Drug Abuse,2011,1,47
+797,RET,Retirement,2019,3,292
+825,UNM,Unemployment,2015,1,9
+770,ART,Arts/Entertainment,2020,4,76
+805,SPO,Sports/Athletics,2015,2,40
+763,IND,Indian/Native American Affairs,2021,4,309
+776,BAN,Banking,2017,2,462
+776,BAN,Banking,2013,3,442
+795,REL,Religion,2013,3,15
+815,TRD,Trade (Domestic & Foreign),2013,2,931
+785,NAT,Natural Resources,2022,2,777
+773,MAN,Manufacturing,2019,4,198
+274245,TAR,Tariff Bills,2020,2,152
+770,ART,Arts/Entertainment,2024,3,75
+766,ANI,Animals,2013,2,90
+814,ENV,Environmental/Superfund,2022,3,1178
+809,TEC,Telecommunications,2024,2,732
+812,ENG,Energy/Nuclear,2015,4,1298
+805,SPO,Sports/Athletics,2019,1,38
+780,BEV,Beverage Industry,2024,1,47
+800,CPT,Copyright/Patent/Trademark,2011,4,549
+786,CIV,Civil Rights/Civil Liberties,2016,1,97
+274245,TAR,Tariff Bills,2024,4,104
+778,BNK,Bankruptcy,2018,1,30
+820,FIN,Financial Institutions/Investments/Securities,2016,1,779
+787,PHA,Pharmacy,2023,4,275
+771,LAW,Law Enforcement/Crime/Criminal Justice,2015,2,343
+812,ENG,Energy/Nuclear,2020,2,1171
+783,MON,Minting/Money/Gold Standard,2012,3,15
+761,IMM,Immigration,2020,2,631
+827,UTI,Utilities,2012,4,140
+768,APP,Apparel/Clothing Industry/Textiles,2023,1,25
+820,FIN,Financial Institutions/Investments/Securities,2012,2,842
+792,COM,Communications/Broadcasting/Radio/TV,2021,2,269
+812,ENG,Energy/Nuclear,2024,1,1625
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2022,1,249
+788,CAW,Clean Air & Water (Quality),2016,4,413
+829,VET,Veterans,2018,4,370
+781,MMM,Medicare/Medicaid,2010,2,1140
+778,BNK,Bankruptcy,2014,2,30
+819,TOU,Travel/Tourism,2023,1,98
+832,HCR,Health Issues,2019,2,2766
+783,MON,Minting/Money/Gold Standard,2016,2,10
+756,ACC,Accounting,2022,4,84
+817,TRA,Transportation,2014,1,1328
+786,CIV,Civil Rights/Civil Liberties,2011,3,79
+768,APP,Apparel/Clothing Industry/Textiles,2019,2,14
+761,IMM,Immigration,2016,3,392
+819,TOU,Travel/Tourism,2019,2,91
+790,CDT,Commodities (Big Ticket),2022,4,35
+803,SMB,Small Business,2014,3,157
+773,MAN,Manufacturing,2023,3,470
+812,ENG,Energy/Nuclear,2016,3,1274
+771,LAW,Law Enforcement/Crime/Criminal Justice,2019,1,380
+785,NAT,Natural Resources,2018,3,725
+802,DEF,Defense,2020,1,1664
+832,HCR,Health Issues,2010,2,2648
+807,TAX,Taxation/Internal Revenue Code,2022,4,2865
+766,ANI,Animals,2014,1,113
+768,APP,Apparel/Clothing Industry/Textiles,2015,3,16
+808,ECN,Economics/Economic Development,2012,1,282
+803,SMB,Small Business,2010,4,184
+825,UNM,Unemployment,2011,2,26
+821,TRU,Trucking/Shipping,2023,4,88
+768,APP,Apparel/Clothing Industry/Textiles,2018,3,17
+799,ROD,Roads/Highway,2012,2,123
+816,FAM,Family Issues/Abortion/Adoption,2023,2,88
+780,BEV,Beverage Industry,2012,1,48
+814,ENV,Environmental/Superfund,2024,2,1233
+828,GAM,Gaming/Gambling/Casino,2020,3,92
+760,AER,Aerospace,2022,4,182
+810,EDU,Education,2016,1,931
+829,VET,Veterans,2016,2,330
+829,VET,Veterans,2020,1,383
+827,UTI,Utilities,2024,4,164
+828,GAM,Gaming/Gambling/Casino,2016,4,85
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2017,1,250
+791,RRR,Railroads,2012,4,103
+783,MON,Minting/Money/Gold Standard,2024,3,8
+779,MED,Medical/Disease Research/Clinical Labs,2016,2,254
+816,FAM,Family Issues/Abortion/Adoption,2019,3,62
+805,SPO,Sports/Athletics,2012,4,31
+768,APP,Apparel/Clothing Industry/Textiles,2011,1,19
+806,DIS,Disaster Planning/Emergencies,2012,2,132
+817,TRA,Transportation,2019,1,1537
+798,CON,Constitution,2016,3,50
+778,BNK,Bankruptcy,2016,4,38
+803,SMB,Small Business,2022,4,323
+779,MED,Medical/Disease Research/Clinical Labs,2020,1,275
+767,INT,Intelligence and Surveillance,2016,4,110
+798,CON,Constitution,2020,2,55
+799,ROD,Roads/Highway,2013,1,95
+805,SPO,Sports/Athletics,2016,3,50
+821,TRU,Trucking/Shipping,2021,2,80
+790,CDT,Commodities (Big Ticket),2017,4,35
+762,AGR,Agriculture,2012,4,766
+828,GAM,Gaming/Gambling/Casino,2024,2,83
+809,TEC,Telecommunications,2021,4,823
+790,CDT,Commodities (Big Ticket),2021,3,37
+830,GOV,Government Issues,2011,2,548
+791,RRR,Railroads,2021,1,115
+797,RET,Retirement,2020,4,282
+818,FIR,Firearms/Guns/Ammunition,2010,2,30
+791,RRR,Railroads,2021,4,124
+786,CIV,Civil Rights/Civil Liberties,2014,1,94
+804,DOC,District of Columbia,2017,4,11
+759,HOU,Housing,2021,4,401
+792,COM,Communications/Broadcasting/Radio/TV,2017,3,263
+803,SMB,Small Business,2018,2,182
+777,MIA,Media (Information/Publishing),2022,3,41
+804,DOC,District of Columbia,2021,3,16
+761,IMM,Immigration,2017,4,706
+274245,TAR,Tariff Bills,2014,1,101
+793,RES,Real Estate/Land Use/Conservation,2013,2,153
+756,ACC,Accounting,2010,1,43
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2021,3,241
+786,CIV,Civil Rights/Civil Liberties,2010,2,118
+817,TRA,Transportation,2011,3,1548
+823,URB,Urban Development/Municipalities,2021,1,201
+797,RET,Retirement,2024,3,249
+815,TRD,Trade (Domestic & Foreign),2021,3,1410
+817,TRA,Transportation,2015,2,1462
+772,AUT,Automotive Industry,2017,1,123
+833,WEL,Welfare,2023,4,56
+784,CHM,Chemicals/Chemical Industry,2024,1,163
+792,COM,Communications/Broadcasting/Radio/TV,2013,4,259
+816,FAM,Family Issues/Abortion/Adoption,2015,4,66
+798,CON,Constitution,2012,1,32
+760,AER,Aerospace,2022,1,170
+779,MED,Medical/Disease Research/Clinical Labs,2012,3,231
+823,URB,Urban Development/Municipalities,2017,2,151
+808,ECN,Economics/Economic Development,2022,2,432
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2020,4,251
+815,TRD,Trade (Domestic & Foreign),2020,4,1453
+787,PHA,Pharmacy,2015,1,209
+756,ACC,Accounting,2011,3,38
+274245,TAR,Tariff Bills,2015,2,67
+773,MAN,Manufacturing,2010,2,145
+794,CPI,Computer Industry,2010,1,146
+771,LAW,Law Enforcement/Crime/Criminal Justice,2016,3,355
+804,DOC,District of Columbia,2024,1,12
+765,INS,Insurance,2014,3,376
+809,TEC,Telecommunications,2019,2,762
+798,CON,Constitution,2022,4,53
+794,CPI,Computer Industry,2011,3,157
+803,SMB,Small Business,2013,3,156
+801,SCI,Science/Technology,2024,2,823
+828,GAM,Gaming/Gambling/Casino,2020,4,89
+779,MED,Medical/Disease Research/Clinical Labs,2019,1,262
+806,DIS,Disaster Planning/Emergencies,2011,4,126
+274245,TAR,Tariff Bills,2016,4,53
+829,VET,Veterans,2010,1,177
+798,CON,Constitution,2019,4,56
+780,BEV,Beverage Industry,2012,2,44
+791,RRR,Railroads,2019,2,122
+810,EDU,Education,2020,1,967
+759,HOU,Housing,2023,4,445
+785,NAT,Natural Resources,2012,4,579
+806,DIS,Disaster Planning/Emergencies,2012,3,130
+792,COM,Communications/Broadcasting/Radio/TV,2019,2,279
+785,NAT,Natural Resources,2020,2,750
+830,GOV,Government Issues,2015,2,539
+833,WEL,Welfare,2021,2,62
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2024,1,271
+803,SMB,Small Business,2012,4,174
+816,FAM,Family Issues/Abortion/Adoption,2017,3,61
+780,BEV,Beverage Industry,2011,3,49
+798,CON,Constitution,2020,3,54
+778,BNK,Bankruptcy,2020,4,37
+792,COM,Communications/Broadcasting/Radio/TV,2011,4,279
+832,HCR,Health Issues,2012,1,2310
+761,IMM,Immigration,2014,3,519
+827,UTI,Utilities,2023,4,163
+791,RRR,Railroads,2015,3,157
+828,GAM,Gaming/Gambling/Casino,2024,3,86
+783,MON,Minting/Money/Gold Standard,2019,4,10
+792,COM,Communications/Broadcasting/Radio/TV,2015,3,261
+830,GOV,Government Issues,2011,3,544
+806,DIS,Disaster Planning/Emergencies,2016,2,126
+767,INT,Intelligence and Surveillance,2010,3,53
+768,APP,Apparel/Clothing Industry/Textiles,2017,2,16
+771,LAW,Law Enforcement/Crime/Criminal Justice,2021,4,427
+791,RRR,Railroads,2011,1,132
+785,NAT,Natural Resources,2016,3,675
+797,RET,Retirement,2010,4,217
+765,INS,Insurance,2019,1,340
+789,POS,Postal,2024,4,79
+809,TEC,Telecommunications,2014,4,518
+768,APP,Apparel/Clothing Industry/Textiles,2013,3,20
+779,MED,Medical/Disease Research/Clinical Labs,2014,3,211
+817,TRA,Transportation,2011,2,1516
+756,ACC,Accounting,2013,2,49
+777,MIA,Media (Information/Publishing),2022,2,38
+811,TOB,Tobacco,2014,3,74
+791,RRR,Railroads,2011,4,134
+798,CON,Constitution,2024,2,51
+815,TRD,Trade (Domestic & Foreign),2022,1,1454
+811,TOB,Tobacco,2010,4,76
+772,AUT,Automotive Industry,2021,1,158
+786,CIV,Civil Rights/Civil Liberties,2014,2,98
+818,FIR,Firearms/Guns/Ammunition,2013,3,64
+824,FOR,Foreign Relations,2011,1,320
+823,URB,Urban Development/Municipalities,2014,1,169
+795,REL,Religion,2023,1,12
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2024,4,267
+767,INT,Intelligence and Surveillance,2014,2,81
+803,SMB,Small Business,2021,1,458
+797,RET,Retirement,2014,3,255
+827,UTI,Utilities,2019,2,146
+811,TOB,Tobacco,2022,4,104
+764,ALC,Alcohol & Drug Abuse,2020,4,65
+808,ECN,Economics/Economic Development,2024,1,424
+767,INT,Intelligence and Surveillance,2022,3,101
+821,TRU,Trucking/Shipping,2020,4,73
+763,IND,Indian/Native American Affairs,2014,2,348
+818,FIR,Firearms/Guns/Ammunition,2012,2,28
+773,MAN,Manufacturing,2012,2,163
+791,RRR,Railroads,2023,1,149
+775,MAR,Marine/Maritime/Boating/Fisheries,2018,2,340
+772,AUT,Automotive Industry,2012,4,109
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2012,4,60
+796,CSP,Consumer Issues/Safety/Protection,2020,1,445
+774,AVI,Aviation/Aircraft/Airlines,2015,4,370
+776,BAN,Banking,2024,4,602
+784,CHM,Chemicals/Chemical Industry,2013,1,130
+818,FIR,Firearms/Guns/Ammunition,2016,1,46
+765,INS,Insurance,2020,2,356
+762,AGR,Agriculture,2014,4,639
+782,BUD,Budget/Appropriations,2014,3,3109
+788,CAW,Clean Air & Water (Quality),2021,2,398
+777,MIA,Media (Information/Publishing),2024,2,49
+765,INS,Insurance,2012,4,271
+796,CSP,Consumer Issues/Safety/Protection,2016,2,371
+774,AVI,Aviation/Aircraft/Airlines,2019,3,397
+821,TRU,Trucking/Shipping,2021,3,85
+775,MAR,Marine/Maritime/Boating/Fisheries,2010,4,272
+786,CIV,Civil Rights/Civil Liberties,2016,4,99
+833,WEL,Welfare,2018,4,52
+787,PHA,Pharmacy,2016,2,231
+832,HCR,Health Issues,2022,2,3326
+763,IND,Indian/Native American Affairs,2018,1,327
+784,CHM,Chemicals/Chemical Industry,2022,1,140
+808,ECN,Economics/Economic Development,2020,2,479
+765,INS,Insurance,2016,3,289
+807,TAX,Taxation/Internal Revenue Code,2013,1,2631
+762,AGR,Agriculture,2018,3,1014
+833,WEL,Welfare,2022,3,52
+789,POS,Postal,2017,1,93
+766,ANI,Animals,2023,4,156
+775,MAR,Marine/Maritime/Boating/Fisheries,2019,1,325
+804,DOC,District of Columbia,2012,1,8
+816,FAM,Family Issues/Abortion/Adoption,2013,4,59
+809,TEC,Telecommunications,2015,2,565
+799,ROD,Roads/Highway,2017,2,112
+808,ECN,Economics/Economic Development,2015,4,259
+829,VET,Veterans,2011,2,203
+770,ART,Arts/Entertainment,2012,1,70
+808,ECN,Economics/Economic Development,2019,3,315
+784,CHM,Chemicals/Chemical Industry,2021,2,130
+775,MAR,Marine/Maritime/Boating/Fisheries,2010,1,277
+821,TRU,Trucking/Shipping,2012,3,54
+774,AVI,Aviation/Aircraft/Airlines,2023,2,552
+799,ROD,Roads/Highway,2013,3,96
+777,MIA,Media (Information/Publishing),2019,4,32
+784,CHM,Chemicals/Chemical Industry,2017,3,125
+821,TRU,Trucking/Shipping,2016,2,74
+782,BUD,Budget/Appropriations,2010,1,5164
+787,PHA,Pharmacy,2012,3,196
+794,CPI,Computer Industry,2014,1,168
+757,HOM,Homeland Security,2021,3,665
+772,AUT,Automotive Industry,2017,2,129
+813,TOR,Torts,2024,2,55
+785,NAT,Natural Resources,2017,1,645
+797,RET,Retirement,2012,4,221
+794,CPI,Computer Industry,2010,2,157
+828,GAM,Gaming/Gambling/Casino,2012,3,116
+809,TEC,Telecommunications,2019,1,727
+769,LBR,Labor Issues/Antitrust/Workplace,2022,3,1014
+772,AUT,Automotive Industry,2013,3,101
+813,TOR,Torts,2020,3,104
+763,IND,Indian/Native American Affairs,2010,3,322
+811,TOB,Tobacco,2023,2,109
+814,ENV,Environmental/Superfund,2010,3,1158
+776,BAN,Banking,2015,2,443
+777,MIA,Media (Information/Publishing),2011,1,39
+789,POS,Postal,2015,1,90
+787,PHA,Pharmacy,2021,2,271
+802,DEF,Defense,2016,2,1407
+796,CSP,Consumer Issues/Safety/Protection,2014,2,317
+769,LBR,Labor Issues/Antitrust/Workplace,2022,4,1003
+763,IND,Indian/Native American Affairs,2023,1,314
+807,TAX,Taxation/Internal Revenue Code,2015,1,2750
+776,BAN,Banking,2011,3,511
+801,SCI,Science/Technology,2013,1,368
+826,FUE,Fuel/Gas/Oil,2018,2,183
+795,REL,Religion,2014,4,14
+825,UNM,Unemployment,2024,1,23
+757,HOM,Homeland Security,2015,4,682
+762,AGR,Agriculture,2023,3,1254
+824,FOR,Foreign Relations,2024,3,418
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2023,4,54
+813,TOR,Torts,2011,4,98
+799,ROD,Roads/Highway,2022,2,128
+825,UNM,Unemployment,2018,4,8
+757,HOM,Homeland Security,2024,1,635
+777,MIA,Media (Information/Publishing),2010,2,46
+783,MON,Minting/Money/Gold Standard,2010,4,8
+828,GAM,Gaming/Gambling/Casino,2010,3,119
+775,MAR,Marine/Maritime/Boating/Fisheries,2024,4,345
+814,ENV,Environmental/Superfund,2011,2,1079
+795,REL,Religion,2011,1,16
+776,BAN,Banking,2014,3,433
+770,ART,Arts/Entertainment,2017,1,62
+776,BAN,Banking,2010,4,493
+777,MIA,Media (Information/Publishing),2014,1,39
+819,TOU,Travel/Tourism,2021,2,119
+825,UNM,Unemployment,2022,3,32
+768,APP,Apparel/Clothing Industry/Textiles,2021,1,29
+818,FIR,Firearms/Guns/Ammunition,2021,4,58
+807,TAX,Taxation/Internal Revenue Code,2014,2,2832
+783,MON,Minting/Money/Gold Standard,2011,3,10
+812,ENG,Energy/Nuclear,2019,4,1150
+758,ADV,Advertising,2016,1,38
+815,TRD,Trade (Domestic & Foreign),2013,1,884
+819,TOU,Travel/Tourism,2017,3,78
+821,TRU,Trucking/Shipping,2011,2,61
+757,HOM,Homeland Security,2016,3,669
+794,CPI,Computer Industry,2019,1,256
+813,TOR,Torts,2019,2,56
+814,ENV,Environmental/Superfund,2015,1,944
+794,CPI,Computer Industry,2015,2,205
+806,DIS,Disaster Planning/Emergencies,2020,4,484
+783,MON,Minting/Money/Gold Standard,2015,2,10
+764,ALC,Alcohol & Drug Abuse,2015,1,55
+790,CDT,Commodities (Big Ticket),2011,3,60
+780,BEV,Beverage Industry,2024,2,49
+757,HOM,Homeland Security,2020,2,700
+813,TOR,Torts,2015,3,66
+807,TAX,Taxation/Internal Revenue Code,2023,2,2738
+782,BUD,Budget/Appropriations,2015,4,3230
+808,ECN,Economics/Economic Development,2010,1,320
+763,IND,Indian/Native American Affairs,2015,3,329
+788,CAW,Clean Air & Water (Quality),2020,1,379
+820,FIN,Financial Institutions/Investments/Securities,2011,4,848
+775,MAR,Marine/Maritime/Boating/Fisheries,2016,3,296
+806,DIS,Disaster Planning/Emergencies,2020,1,488
+832,HCR,Health Issues,2016,3,2418
+783,MON,Minting/Money/Gold Standard,2019,1,11
+826,FUE,Fuel/Gas/Oil,2019,4,173
+789,POS,Postal,2015,4,99
+759,HOU,Housing,2011,4,305
+813,TOR,Torts,2023,1,46
+793,RES,Real Estate/Land Use/Conservation,2023,2,159
+821,TRU,Trucking/Shipping,2015,1,65
+766,ANI,Animals,2011,3,92
+778,BNK,Bankruptcy,2015,3,47
+763,IND,Indian/Native American Affairs,2020,3,295
+756,ACC,Accounting,2011,2,37
+759,HOU,Housing,2013,1,319
+814,ENV,Environmental/Superfund,2024,3,1240
+801,SCI,Science/Technology,2011,1,381
+761,IMM,Immigration,2022,1,564
+797,RET,Retirement,2023,3,235
+789,POS,Postal,2010,4,65
+810,EDU,Education,2016,2,952
+779,MED,Medical/Disease Research/Clinical Labs,2012,4,218
+760,AER,Aerospace,2022,3,175
+769,LBR,Labor Issues/Antitrust/Workplace,2011,4,672
+794,CPI,Computer Industry,2021,4,362
+811,TOB,Tobacco,2012,1,80
+814,ENV,Environmental/Superfund,2020,4,986
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2016,3,300
+820,FIN,Financial Institutions/Investments/Securities,2010,3,1029
+766,ANI,Animals,2012,2,97
+805,SPO,Sports/Athletics,2015,3,43
+804,DOC,District of Columbia,2023,3,13
+807,TAX,Taxation/Internal Revenue Code,2024,3,2931
+795,REL,Religion,2020,3,15
+800,CPT,Copyright/Patent/Trademark,2015,2,737
+805,SPO,Sports/Athletics,2023,1,90
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2012,4,231
+274245,TAR,Tariff Bills,2020,3,152
+776,BAN,Banking,2013,2,449
+771,LAW,Law Enforcement/Crime/Criminal Justice,2014,1,306
+826,FUE,Fuel/Gas/Oil,2020,2,156
+757,HOM,Homeland Security,2010,1,671
+811,TOB,Tobacco,2011,2,72
+805,SPO,Sports/Athletics,2019,2,35
+758,ADV,Advertising,2017,2,35
+761,IMM,Immigration,2018,2,749
+815,TRD,Trade (Domestic & Foreign),2019,3,1700
+812,ENG,Energy/Nuclear,2018,3,1192
+781,MMM,Medicare/Medicaid,2018,4,1346
+795,REL,Religion,2016,4,18
+800,CPT,Copyright/Patent/Trademark,2011,3,665
+792,COM,Communications/Broadcasting/Radio/TV,2018,1,265
+766,ANI,Animals,2016,1,108
+807,TAX,Taxation/Internal Revenue Code,2020,4,2516
+804,DOC,District of Columbia,2019,4,12
+756,ACC,Accounting,2016,3,59
+815,TRD,Trade (Domestic & Foreign),2015,4,1181
+803,SMB,Small Business,2018,3,175
+785,NAT,Natural Resources,2024,4,835
+825,UNM,Unemployment,2013,4,28
+802,DEF,Defense,2022,1,1887
+771,LAW,Law Enforcement/Crime/Criminal Justice,2018,3,409
+814,ENV,Environmental/Superfund,2016,2,927
+786,CIV,Civil Rights/Civil Liberties,2010,3,102
+771,LAW,Law Enforcement/Crime/Criminal Justice,2022,2,455
+781,MMM,Medicare/Medicaid,2010,3,1133
+812,ENG,Energy/Nuclear,2014,1,1352
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2012,1,249
+773,MAN,Manufacturing,2023,4,467
+816,FAM,Family Issues/Abortion/Adoption,2024,3,94
+825,UNM,Unemployment,2017,3,8
+823,URB,Urban Development/Municipalities,2011,3,171
+768,APP,Apparel/Clothing Industry/Textiles,2016,1,16
+783,MON,Minting/Money/Gold Standard,2016,3,12
+817,TRA,Transportation,2024,1,1785
+819,TOU,Travel/Tourism,2023,2,99
+798,CON,Constitution,2011,3,43
+756,ACC,Accounting,2012,4,38
+824,FOR,Foreign Relations,2021,4,362
+758,ADV,Advertising,2021,1,35
+790,CDT,Commodities (Big Ticket),2012,4,49
+810,EDU,Education,2012,3,828
+770,ART,Arts/Entertainment,2023,3,80
+827,UTI,Utilities,2017,2,130
+832,HCR,Health Issues,2018,3,2716
+783,MON,Minting/Money/Gold Standard,2017,1,11
+761,IMM,Immigration,2015,4,451
+802,DEF,Defense,2017,4,1420
+790,CDT,Commodities (Big Ticket),2023,3,36
+778,BNK,Bankruptcy,2023,2,33
+829,VET,Veterans,2020,2,365
+773,MAN,Manufacturing,2016,1,185
+778,BNK,Bankruptcy,2019,3,32
+756,ACC,Accounting,2015,2,54
+787,PHA,Pharmacy,2024,3,280
+808,ECN,Economics/Economic Development,2011,2,281
+793,RES,Real Estate/Land Use/Conservation,2011,2,132
+802,DEF,Defense,2021,3,1880
+800,CPT,Copyright/Patent/Trademark,2014,1,681
+798,CON,Constitution,2010,2,55
+829,VET,Veterans,2024,1,424
+827,UTI,Utilities,2013,3,151
+788,CAW,Clean Air & Water (Quality),2013,4,454
+759,HOU,Housing,2010,3,312
+817,TRA,Transportation,2017,1,1381
+756,ACC,Accounting,2019,1,64
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2021,4,53
+768,APP,Apparel/Clothing Industry/Textiles,2014,4,19
+812,ENG,Energy/Nuclear,2021,1,1225
+787,PHA,Pharmacy,2020,4,270
+788,CAW,Clean Air & Water (Quality),2017,3,403
+771,LAW,Law Enforcement/Crime/Criminal Justice,2011,3,351
+759,HOU,Housing,2014,2,319
+817,TRA,Transportation,2013,2,1304
+756,ACC,Accounting,2023,3,67
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2015,2,295
+803,SMB,Small Business,2015,2,160
+780,BEV,Beverage Industry,2021,4,49
+793,RES,Real Estate/Land Use/Conservation,2015,1,137
+805,SPO,Sports/Athletics,2016,4,49
+781,MMM,Medicare/Medicaid,2011,1,1074
+759,HOU,Housing,2018,1,332
+766,ANI,Animals,2014,4,106
+793,RES,Real Estate/Land Use/Conservation,2010,3,160
+817,TRA,Transportation,2017,4,1468
+795,REL,Religion,2022,3,14
+788,CAW,Clean Air & Water (Quality),2013,1,449
+797,RET,Retirement,2024,4,242
+810,EDU,Education,2015,1,946
+776,BAN,Banking,2012,1,501
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2011,3,249
+757,HOM,Homeland Security,2012,1,651
+817,TRA,Transportation,2021,3,1948
+775,MAR,Marine/Maritime/Boating/Fisheries,2022,4,342
+824,FOR,Foreign Relations,2020,3,368
+819,TOU,Travel/Tourism,2020,4,105
+798,CON,Constitution,2014,1,37
+769,LBR,Labor Issues/Antitrust/Workplace,2013,1,554
+274245,TAR,Tariff Bills,2017,2,79
+805,SPO,Sports/Athletics,2020,3,83
+830,GOV,Government Issues,2010,2,582
+790,CDT,Commodities (Big Ticket),2015,2,52
+820,FIN,Financial Institutions/Investments/Securities,2013,4,742
+778,BNK,Bankruptcy,2015,4,50
+832,HCR,Health Issues,2017,4,2641
+774,AVI,Aviation/Aircraft/Airlines,2011,2,358
+800,CPT,Copyright/Patent/Trademark,2022,2,432
+758,ADV,Advertising,2019,4,35
+795,REL,Religion,2018,4,18
+771,LAW,Law Enforcement/Crime/Criminal Justice,2016,4,332
+766,ANI,Animals,2018,3,133
+769,LBR,Labor Issues/Antitrust/Workplace,2012,2,636
+824,FOR,Foreign Relations,2024,2,436
+790,CDT,Commodities (Big Ticket),2019,1,32
+827,UTI,Utilities,2018,1,144
+783,MON,Minting/Money/Gold Standard,2017,4,10
+765,INS,Insurance,2024,1,323
+807,TAX,Taxation/Internal Revenue Code,2021,2,2752
+791,RRR,Railroads,2023,3,156
+799,ROD,Roads/Highway,2019,2,108
+772,AUT,Automotive Industry,2010,4,127
+758,ADV,Advertising,2012,4,63
+815,TRD,Trade (Domestic & Foreign),2024,1,1387
+763,IND,Indian/Native American Affairs,2010,2,298
+820,FIN,Financial Institutions/Investments/Securities,2024,3,1063
+797,RET,Retirement,2013,2,241
+758,ADV,Advertising,2013,3,54
+791,RRR,Railroads,2016,4,128
+816,FAM,Family Issues/Abortion/Adoption,2020,1,62
+786,CIV,Civil Rights/Civil Liberties,2019,2,162
+813,TOR,Torts,2018,1,78
+823,URB,Urban Development/Municipalities,2019,1,171
+821,TRU,Trucking/Shipping,2010,1,59
+828,GAM,Gaming/Gambling/Casino,2023,2,79
+772,AUT,Automotive Industry,2019,1,137
+779,MED,Medical/Disease Research/Clinical Labs,2016,3,254
+784,CHM,Chemicals/Chemical Industry,2020,4,132
+785,NAT,Natural Resources,2010,1,495
+764,ALC,Alcohol & Drug Abuse,2023,2,59
+799,ROD,Roads/Highway,2018,3,115
+832,HCR,Health Issues,2024,1,3240
+770,ART,Arts/Entertainment,2010,4,78
+763,IND,Indian/Native American Affairs,2011,4,294
+781,MMM,Medicare/Medicaid,2022,3,1564
+807,TAX,Taxation/Internal Revenue Code,2010,3,2454
+826,FUE,Fuel/Gas/Oil,2012,1,201
+786,CIV,Civil Rights/Civil Liberties,2023,1,191
+776,BAN,Banking,2023,3,588
+772,AUT,Automotive Industry,2015,2,113
+823,URB,Urban Development/Municipalities,2015,2,138
+815,TRD,Trade (Domestic & Foreign),2023,2,1391
+828,GAM,Gaming/Gambling/Casino,2014,2,99
+779,MED,Medical/Disease Research/Clinical Labs,2020,2,311
+760,AER,Aerospace,2018,4,115
+762,AGR,Agriculture,2021,1,825
+789,POS,Postal,2014,3,106
+814,ENV,Environmental/Superfund,2012,3,977
+794,CPI,Computer Industry,2012,4,177
+764,ALC,Alcohol & Drug Abuse,2019,3,83
+816,FAM,Family Issues/Abortion/Adoption,2016,2,66
+809,TEC,Telecommunications,2017,2,590
+774,AVI,Aviation/Aircraft/Airlines,2022,1,437
+767,INT,Intelligence and Surveillance,2020,4,102
+799,ROD,Roads/Highway,2014,4,105
+779,MED,Medical/Disease Research/Clinical Labs,2024,4,265
+780,BEV,Beverage Industry,2014,1,41
+776,BAN,Banking,2022,4,611
+816,FAM,Family Issues/Abortion/Adoption,2011,4,59
+830,GOV,Government Issues,2021,1,736
+787,PHA,Pharmacy,2013,4,231
+812,ENG,Energy/Nuclear,2010,2,1880
+799,ROD,Roads/Highway,2014,1,106
+801,SCI,Science/Technology,2019,2,453
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2010,2,74
+757,HOM,Homeland Security,2022,4,628
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2014,1,54
+796,CSP,Consumer Issues/Safety/Protection,2015,4,364
+804,DOC,District of Columbia,2011,3,10
+798,CON,Constitution,2021,4,53
+760,AER,Aerospace,2018,1,128
+818,FIR,Firearms/Guns/Ammunition,2023,4,54
+769,LBR,Labor Issues/Antitrust/Workplace,2023,4,991
+785,NAT,Natural Resources,2010,4,501
+806,DIS,Disaster Planning/Emergencies,2017,3,173
+819,TOU,Travel/Tourism,2013,1,63
+833,WEL,Welfare,2016,2,39
+789,POS,Postal,2018,2,107
+792,COM,Communications/Broadcasting/Radio/TV,2014,2,277
+816,FAM,Family Issues/Abortion/Adoption,2012,3,54
+830,GOV,Government Issues,2012,4,501
+824,FOR,Foreign Relations,2012,2,368
+786,CIV,Civil Rights/Civil Liberties,2015,3,95
+771,LAW,Law Enforcement/Crime/Criminal Justice,2020,3,450
+824,FOR,Foreign Relations,2016,1,349
+773,MAN,Manufacturing,2018,4,190
+274245,TAR,Tariff Bills,2019,2,172
+797,RET,Retirement,2017,1,243
+823,URB,Urban Development/Municipalities,2016,3,149
+802,DEF,Defense,2024,1,2315
+808,ECN,Economics/Economic Development,2021,3,402
+784,CHM,Chemicals/Chemical Industry,2023,2,142
+809,TEC,Telecommunications,2021,1,766
+803,SMB,Small Business,2019,1,161
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2011,3,64
+810,EDU,Education,2017,3,931
+829,VET,Veterans,2017,4,327
+771,LAW,Law Enforcement/Crime/Criminal Justice,2024,2,441
+793,RES,Real Estate/Land Use/Conservation,2012,3,168
+785,NAT,Natural Resources,2019,1,715
+766,ANI,Animals,2013,3,101
+804,DOC,District of Columbia,2022,2,13
+760,AER,Aerospace,2021,2,165
+770,ART,Arts/Entertainment,2024,4,74
+274245,TAR,Tariff Bills,2023,1,98
+784,CHM,Chemicals/Chemical Industry,2019,3,145
+823,URB,Urban Development/Municipalities,2012,4,182
+767,INT,Intelligence and Surveillance,2013,1,59
+817,TRA,Transportation,2010,4,1473
+796,CSP,Consumer Issues/Safety/Protection,2022,1,459
+772,AUT,Automotive Industry,2014,4,105
+779,MED,Medical/Disease Research/Clinical Labs,2017,4,246
+816,FAM,Family Issues/Abortion/Adoption,2018,1,60
+785,NAT,Natural Resources,2014,3,614
+781,MMM,Medicare/Medicaid,2013,1,1120
+773,MAN,Manufacturing,2014,2,214
+760,AER,Aerospace,2017,3,137
+829,VET,Veterans,2021,3,348
+778,BNK,Bankruptcy,2018,2,35
+780,BEV,Beverage Industry,2017,2,37
+791,RRR,Railroads,2014,2,131
+785,NAT,Natural Resources,2018,2,729
+774,AVI,Aviation/Aircraft/Airlines,2013,1,315
+780,BEV,Beverage Industry,2013,3,40
+811,TOB,Tobacco,2017,1,90
+761,IMM,Immigration,2020,1,575
+821,TRU,Trucking/Shipping,2022,4,79
+766,ANI,Animals,2017,2,111
+818,FIR,Firearms/Guns/Ammunition,2011,1,25
+800,CPT,Copyright/Patent/Trademark,2010,2,543
+761,IMM,Immigration,2016,2,410
+274245,TAR,Tariff Bills,2015,3,69
+765,INS,Insurance,2017,4,326
+811,TOB,Tobacco,2013,2,81
+786,CIV,Civil Rights/Civil Liberties,2011,4,76
+816,FAM,Family Issues/Abortion/Adoption,2014,2,57
+778,BNK,Bankruptcy,2022,1,40
+810,EDU,Education,2013,4,842
+787,PHA,Pharmacy,2011,2,181
+791,RRR,Railroads,2013,3,125
+804,DOC,District of Columbia,2014,1,9
+760,AER,Aerospace,2016,4,108
+762,AGR,Agriculture,2013,3,811
+766,ANI,Animals,2021,1,119
+803,SMB,Small Business,2023,3,300
+792,COM,Communications/Broadcasting/Radio/TV,2012,2,267
+792,COM,Communications/Broadcasting/Radio/TV,2016,1,272
+833,WEL,Welfare,2024,3,55
+815,TRD,Trade (Domestic & Foreign),2020,1,1629
+799,ROD,Roads/Highway,2016,1,101
+779,MED,Medical/Disease Research/Clinical Labs,2013,2,203
+791,RRR,Railroads,2022,3,139
+802,DEF,Defense,2024,4,2365
+818,FIR,Firearms/Guns/Ammunition,2011,4,37
+829,VET,Veterans,2013,2,237
+763,IND,Indian/Native American Affairs,2023,4,321
+773,MAN,Manufacturing,2011,4,154
+786,CIV,Civil Rights/Civil Liberties,2018,1,125
+817,TRA,Transportation,2015,1,1392
+815,TRD,Trade (Domestic & Foreign),2021,2,1421
+759,HOU,Housing,2015,3,282
+756,ACC,Accounting,2014,1,52
+780,BEV,Beverage Industry,2016,1,44
+779,MED,Medical/Disease Research/Clinical Labs,2015,2,251
+762,AGR,Agriculture,2016,1,679
+789,POS,Postal,2019,3,101
+805,SPO,Sports/Athletics,2011,1,32
+777,MIA,Media (Information/Publishing),2018,3,31
+803,SMB,Small Business,2017,2,185
+759,HOU,Housing,2019,2,353
+761,IMM,Immigration,2013,4,637
+804,DOC,District of Columbia,2024,4,12
+760,AER,Aerospace,2019,2,140
+798,CON,Constitution,2016,1,44
+765,INS,Insurance,2023,3,331
+759,HOU,Housing,2023,1,448
+812,ENG,Energy/Nuclear,2015,2,1311
+789,POS,Postal,2024,1,86
+274245,TAR,Tariff Bills,2016,1,63
+815,TRD,Trade (Domestic & Foreign),2017,3,1235
+830,GOV,Government Issues,2019,4,627
+782,BUD,Budget/Appropriations,2011,2,4175
+815,TRD,Trade (Domestic & Foreign),2013,4,951
+804,DOC,District of Columbia,2016,3,13
+757,HOM,Homeland Security,2024,4,608
+771,LAW,Law Enforcement/Crime/Criminal Justice,2017,2,347
+789,POS,Postal,2020,2,111
+760,AER,Aerospace,2023,1,190
+824,FOR,Foreign Relations,2015,3,346
+274245,TAR,Tariff Bills,2012,2,141
+797,RET,Retirement,2019,1,281
+766,ANI,Animals,2020,3,125
+776,BAN,Banking,2010,1,553
+829,VET,Veterans,2010,4,194
+762,AGR,Agriculture,2012,2,807
+812,ENG,Energy/Nuclear,2011,3,1605
+774,AVI,Aviation/Aircraft/Airlines,2016,2,459
+795,REL,Religion,2023,4,15
+785,NAT,Natural Resources,2012,1,559
+829,VET,Veterans,2014,3,311
+765,INS,Insurance,2019,4,351
+774,AVI,Aviation/Aircraft/Airlines,2012,3,319
+773,MAN,Manufacturing,2015,3,183
+766,ANI,Animals,2016,4,103
+810,EDU,Education,2024,3,1130
+824,FOR,Foreign Relations,2019,2,382
+827,UTI,Utilities,2023,1,164
+771,LAW,Law Enforcement/Crime/Criminal Justice,2021,1,427
+762,AGR,Agriculture,2016,4,658
+821,TRU,Trucking/Shipping,2015,4,75
+818,FIR,Firearms/Guns/Ammunition,2017,2,46
+766,ANI,Animals,2024,2,166
+774,AVI,Aviation/Aircraft/Airlines,2020,1,437
+779,MED,Medical/Disease Research/Clinical Labs,2010,4,254
+773,MAN,Manufacturing,2011,1,148
+778,BNK,Bankruptcy,2024,3,33
+813,TOR,Torts,2023,4,50
+821,TRU,Trucking/Shipping,2019,3,81
+772,AUT,Automotive Industry,2021,4,192
+761,IMM,Immigration,2010,1,315
+765,INS,Insurance,2015,2,312
+809,TEC,Telecommunications,2018,3,692
+803,SMB,Small Business,2021,4,365
+829,VET,Veterans,2018,2,350
+780,BEV,Beverage Industry,2020,3,46
+804,DOC,District of Columbia,2020,2,18
+810,EDU,Education,2020,4,937
+800,CPT,Copyright/Patent/Trademark,2012,4,409
+811,TOB,Tobacco,2010,1,90
+796,CSP,Consumer Issues/Safety/Protection,2024,3,533
+783,MON,Minting/Money/Gold Standard,2023,3,6
+760,AER,Aerospace,2023,4,207
+818,FIR,Firearms/Guns/Ammunition,2018,1,50
+786,CIV,Civil Rights/Civil Liberties,2018,4,126
+791,RRR,Railroads,2023,4,142
+806,DIS,Disaster Planning/Emergencies,2018,4,196
+767,INT,Intelligence and Surveillance,2018,1,100
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2023,3,274
+758,ADV,Advertising,2010,2,88
+816,FAM,Family Issues/Abortion/Adoption,2013,1,54
+766,ANI,Animals,2023,1,141
+797,RET,Retirement,2016,3,251
+789,POS,Postal,2017,4,91
+810,EDU,Education,2023,2,1109
+804,DOC,District of Columbia,2012,4,10
+774,AVI,Aviation/Aircraft/Airlines,2015,1,345
+796,CSP,Consumer Issues/Safety/Protection,2020,4,431
+776,BAN,Banking,2024,1,608
+830,GOV,Government Issues,2022,2,785
+785,NAT,Natural Resources,2013,2,634
+811,TOB,Tobacco,2022,1,114
+820,FIN,Financial Institutions/Investments/Securities,2017,3,824
+784,CHM,Chemicals/Chemical Industry,2013,4,135
+760,AER,Aerospace,2015,3,110
+828,GAM,Gaming/Gambling/Casino,2016,2,94
+821,TRU,Trucking/Shipping,2017,1,66
+779,MED,Medical/Disease Research/Clinical Labs,2023,3,281
+795,REL,Religion,2010,3,13
+761,IMM,Immigration,2011,2,318
+762,AGR,Agriculture,2014,1,777
+764,ALC,Alcohol & Drug Abuse,2016,2,74
+811,TOB,Tobacco,2018,2,104
+776,BAN,Banking,2020,2,623
+807,TAX,Taxation/Internal Revenue Code,2013,4,2694
+826,FUE,Fuel/Gas/Oil,2010,2,178
+833,WEL,Welfare,2018,1,44
+809,TEC,Telecommunications,2011,3,593
+789,POS,Postal,2021,3,115
+830,GOV,Government Issues,2018,3,712
+810,EDU,Education,2018,4,916
+799,ROD,Roads/Highway,2021,4,143
+777,MIA,Media (Information/Publishing),2016,1,26
+820,FIN,Financial Institutions/Investments/Securities,2021,2,884
+828,GAM,Gaming/Gambling/Casino,2020,1,100
+760,AER,Aerospace,2011,4,109
+823,URB,Urban Development/Municipalities,2022,2,230
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2021,1,42
+274245,TAR,Tariff Bills,2013,3,116
+787,PHA,Pharmacy,2020,1,270
+777,MIA,Media (Information/Publishing),2015,2,28
+818,FIR,Firearms/Guns/Ammunition,2020,3,43
+830,GOV,Government Issues,2014,4,500
+786,CIV,Civil Rights/Civil Liberties,2020,3,174
+760,AER,Aerospace,2011,1,109
+792,COM,Communications/Broadcasting/Radio/TV,2011,1,305
+806,DIS,Disaster Planning/Emergencies,2010,3,141
+801,SCI,Science/Technology,2022,3,749
+819,TOU,Travel/Tourism,2016,2,71
+799,ROD,Roads/Highway,2021,1,109
+797,RET,Retirement,2012,1,241
+823,URB,Urban Development/Municipalities,2018,3,183
+818,FIR,Firearms/Guns/Ammunition,2016,4,41
+796,CSP,Consumer Issues/Safety/Protection,2012,3,340
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2017,2,49
+825,UNM,Unemployment,2024,3,20
+806,DIS,Disaster Planning/Emergencies,2014,2,121
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2016,3,43
+819,TOU,Travel/Tourism,2012,3,69
+798,CON,Constitution,2018,3,61
+826,FUE,Fuel/Gas/Oil,2014,1,204
+775,MAR,Marine/Maritime/Boating/Fisheries,2014,3,289
+810,EDU,Education,2019,3,937
+798,CON,Constitution,2022,2,56
+767,INT,Intelligence and Surveillance,2018,4,102
+806,DIS,Disaster Planning/Emergencies,2018,1,223
+786,CIV,Civil Rights/Civil Liberties,2021,2,249
+814,ENV,Environmental/Superfund,2015,4,941
+774,AVI,Aviation/Aircraft/Airlines,2020,4,440
+811,TOB,Tobacco,2024,4,103
+820,FIN,Financial Institutions/Investments/Securities,2015,3,810
+794,CPI,Computer Industry,2023,3,388
+820,FIN,Financial Institutions/Investments/Securities,2020,1,874
+775,MAR,Marine/Maritime/Boating/Fisheries,2020,2,337
+767,INT,Intelligence and Surveillance,2024,3,118
+782,BUD,Budget/Appropriations,2019,3,3399
+808,ECN,Economics/Economic Development,2018,2,314
+774,AVI,Aviation/Aircraft/Airlines,2024,3,523
+764,ALC,Alcohol & Drug Abuse,2011,2,47
+770,ART,Arts/Entertainment,2013,2,63
+827,UTI,Utilities,2011,4,154
+833,WEL,Welfare,2013,4,36
+807,TAX,Taxation/Internal Revenue Code,2018,4,2693
+792,COM,Communications/Broadcasting/Radio/TV,2023,4,258
+807,TAX,Taxation/Internal Revenue Code,2022,3,2973
+801,SCI,Science/Technology,2020,3,494
+830,GOV,Government Issues,2023,3,687
+832,HCR,Health Issues,2020,2,3226
+801,SCI,Science/Technology,2016,4,362
+782,BUD,Budget/Appropriations,2023,2,4885
+827,UTI,Utilities,2015,3,138
+812,ENG,Energy/Nuclear,2023,3,1630
+805,SPO,Sports/Athletics,2024,2,90
+794,CPI,Computer Industry,2024,2,397
+775,MAR,Marine/Maritime/Boating/Fisheries,2024,1,374
+781,MMM,Medicare/Medicaid,2023,4,1522
+833,WEL,Welfare,2017,3,39
+769,LBR,Labor Issues/Antitrust/Workplace,2021,2,959
+809,TEC,Telecommunications,2010,2,567
+802,DEF,Defense,2017,1,1329
+771,LAW,Law Enforcement/Crime/Criminal Justice,2013,3,316
+820,FIN,Financial Institutions/Investments/Securities,2011,1,884
+826,FUE,Fuel/Gas/Oil,2011,3,200
+770,ART,Arts/Entertainment,2017,4,51
+797,RET,Retirement,2010,1,255
+808,ECN,Economics/Economic Development,2010,4,270
+808,ECN,Economics/Economic Development,2014,3,276
+827,UTI,Utilities,2011,1,177
+812,ENG,Energy/Nuclear,2019,1,1126
+825,UNM,Unemployment,2018,1,9
+787,PHA,Pharmacy,2022,1,269
+762,AGR,Agriculture,2024,2,1250
+768,APP,Apparel/Clothing Industry/Textiles,2021,4,30
+756,ACC,Accounting,2017,4,72
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2022,2,53
+824,FOR,Foreign Relations,2023,1,391
+786,CIV,Civil Rights/Civil Liberties,2022,3,234
+777,MIA,Media (Information/Publishing),2014,4,34
+756,ACC,Accounting,2022,2,78
+784,CHM,Chemicals/Chemical Industry,2012,3,138
+766,ANI,Animals,2010,2,85
+832,HCR,Health Issues,2012,4,2144
+787,PHA,Pharmacy,2017,3,249
+782,BUD,Budget/Appropriations,2015,1,3233
+789,POS,Postal,2011,2,76
+788,CAW,Clean Air & Water (Quality),2020,4,358
+800,CPT,Copyright/Patent/Trademark,2017,2,470
+826,FUE,Fuel/Gas/Oil,2019,1,184
+793,RES,Real Estate/Land Use/Conservation,2019,3,140
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2018,3,48
+809,TEC,Telecommunications,2014,1,549
+769,LBR,Labor Issues/Antitrust/Workplace,2017,3,715
+800,CPT,Copyright/Patent/Trademark,2021,1,376
+794,CPI,Computer Industry,2019,4,279
+801,SCI,Science/Technology,2016,1,389
+764,ALC,Alcohol & Drug Abuse,2015,4,56
+795,REL,Religion,2019,2,19
+786,CIV,Civil Rights/Civil Liberties,2012,2,100
+805,SPO,Sports/Athletics,2012,2,30
+795,REL,Religion,2014,2,17
+758,ADV,Advertising,2020,3,39
+781,MMM,Medicare/Medicaid,2011,4,1136
+793,RES,Real Estate/Land Use/Conservation,2015,4,133
+766,ANI,Animals,2019,2,124
+800,CPT,Copyright/Patent/Trademark,2018,3,441
+813,TOR,Torts,2011,1,102
+781,MMM,Medicare/Medicaid,2015,3,1241
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2019,4,233
+761,IMM,Immigration,2015,1,478
+812,ENG,Energy/Nuclear,2021,4,1434
+795,REL,Religion,2018,1,21
+809,TEC,Telecommunications,2023,3,728
+810,EDU,Education,2010,3,1019
+832,HCR,Health Issues,2014,1,2231
+783,MON,Minting/Money/Gold Standard,2021,3,9
+824,FOR,Foreign Relations,2016,4,324
+773,MAN,Manufacturing,2016,4,182
+763,IND,Indian/Native American Affairs,2018,4,306
+815,TRD,Trade (Domestic & Foreign),2016,2,1133
+770,ART,Arts/Entertainment,2021,3,82
+780,BEV,Beverage Industry,2021,1,46
+758,ADV,Advertising,2024,2,38
+807,TAX,Taxation/Internal Revenue Code,2017,3,3377
+812,ENG,Energy/Nuclear,2012,4,1401
+810,EDU,Education,2014,2,903
+826,FUE,Fuel/Gas/Oil,2023,3,199
+800,CPT,Copyright/Patent/Trademark,2014,4,550
+797,RET,Retirement,2020,2,280
+763,IND,Indian/Native American Affairs,2022,3,327
+776,BAN,Banking,2016,3,424
+805,SPO,Sports/Athletics,2016,1,48
+830,GOV,Government Issues,2014,1,560
+764,ALC,Alcohol & Drug Abuse,2012,3,51
+819,TOU,Travel/Tourism,2024,3,106
+814,ENV,Environmental/Superfund,2019,3,958
+776,BAN,Banking,2012,4,463
+832,HCR,Health Issues,2013,2,2271
+812,ENG,Energy/Nuclear,2017,2,1246
+815,TRD,Trade (Domestic & Foreign),2012,3,897
+773,MAN,Manufacturing,2024,2,483
+756,ACC,Accounting,2019,4,71
+274245,TAR,Tariff Bills,2021,4,123
+819,TOU,Travel/Tourism,2020,1,112
+798,CON,Constitution,2014,4,44
+820,FIN,Financial Institutions/Investments/Securities,2013,1,757
+771,LAW,Law Enforcement/Crime/Criminal Justice,2012,2,345
+785,NAT,Natural Resources,2017,4,697
+825,UNM,Unemployment,2010,3,25
+814,ENV,Environmental/Superfund,2023,2,1170
+803,SMB,Small Business,2011,3,184
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2019,1,228
+792,COM,Communications/Broadcasting/Radio/TV,2024,2,264
+797,RET,Retirement,2024,1,246
+825,UNM,Unemployment,2014,2,25
+829,VET,Veterans,2015,4,295
+761,IMM,Immigration,2019,3,624
+790,CDT,Commodities (Big Ticket),2019,4,33
+783,MON,Minting/Money/Gold Standard,2013,2,16
+762,AGR,Agriculture,2010,2,718
+792,COM,Communications/Broadcasting/Radio/TV,2020,3,273
+829,VET,Veterans,2019,3,362
+768,APP,Apparel/Clothing Industry/Textiles,2022,2,30
+765,INS,Insurance,2024,4,317
+773,MAN,Manufacturing,2020,3,291
+785,NAT,Natural Resources,2021,3,771
+808,ECN,Economics/Economic Development,2015,1,247
+809,TEC,Telecommunications,2019,4,768
+771,LAW,Law Enforcement/Crime/Criminal Justice,2016,1,351
+778,BNK,Bankruptcy,2015,1,37
+824,FOR,Foreign Relations,2019,1,355
+782,BUD,Budget/Appropriations,2024,4,4906
+767,INT,Intelligence and Surveillance,2011,4,45
+833,WEL,Welfare,2020,1,60
+792,COM,Communications/Broadcasting/Radio/TV,2013,3,255
+762,AGR,Agriculture,2017,2,728
+809,TEC,Telecommunications,2012,4,530
+809,TEC,Telecommunications,2016,3,572
+777,MIA,Media (Information/Publishing),2021,1,36
+802,DEF,Defense,2010,1,1960
+808,ECN,Economics/Economic Development,2022,1,421
+801,SCI,Science/Technology,2023,1,707
+806,DIS,Disaster Planning/Emergencies,2021,2,408
+767,INT,Intelligence and Surveillance,2015,3,116
+825,UNM,Unemployment,2021,2,53
+789,POS,Postal,2022,1,131
+802,DEF,Defense,2010,4,1683
+772,AUT,Automotive Industry,2019,4,143
+821,TRU,Trucking/Shipping,2010,4,55
+762,AGR,Agriculture,2021,4,859
+823,URB,Urban Development/Municipalities,2019,4,172
+763,IND,Indian/Native American Affairs,2011,1,294
+765,INS,Insurance,2013,2,305
+818,FIR,Firearms/Guns/Ammunition,2015,3,39
+777,MIA,Media (Information/Publishing),2017,2,23
+811,TOB,Tobacco,2015,4,75
+784,CHM,Chemicals/Chemical Industry,2020,1,141
+788,CAW,Clean Air & Water (Quality),2024,3,424
+784,CHM,Chemicals/Chemical Industry,2016,2,169
+818,FIR,Firearms/Guns/Ammunition,2019,2,53
+832,HCR,Health Issues,2024,4,3096
+813,TOR,Torts,2018,4,67
+821,TRU,Trucking/Shipping,2014,3,61
+794,CPI,Computer Industry,2021,1,301
+823,URB,Urban Development/Municipalities,2023,3,249
+833,WEL,Welfare,2011,4,50
+813,TOR,Torts,2022,3,52
+804,DOC,District of Columbia,2015,2,16
+757,HOM,Homeland Security,2023,3,615
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2014,4,48
+767,INT,Intelligence and Surveillance,2020,1,103
+796,CSP,Consumer Issues/Safety/Protection,2019,3,456
+775,MAR,Marine/Maritime/Boating/Fisheries,2012,1,263
+767,INT,Intelligence and Surveillance,2016,2,109
+801,SCI,Science/Technology,2015,3,374
+818,FIR,Firearms/Guns/Ammunition,2023,1,58
+786,CIV,Civil Rights/Civil Liberties,2023,4,188
+803,SMB,Small Business,2022,2,362
+833,WEL,Welfare,2015,3,41
+804,DOC,District of Columbia,2019,1,7
+796,CSP,Consumer Issues/Safety/Protection,2023,2,498
+777,MIA,Media (Information/Publishing),2013,3,40
+821,TRU,Trucking/Shipping,2018,2,85
+806,DIS,Disaster Planning/Emergencies,2013,4,131
+787,PHA,Pharmacy,2013,1,209
+757,HOM,Homeland Security,2019,1,658
+760,AER,Aerospace,2014,2,105
+826,FUE,Fuel/Gas/Oil,2016,3,181
+274245,TAR,Tariff Bills,2011,1,85
+828,GAM,Gaming/Gambling/Casino,2018,4,97
+772,AUT,Automotive Industry,2011,3,117
+779,MED,Medical/Disease Research/Clinical Labs,2024,1,294
+799,ROD,Roads/Highway,2010,2,134
+782,BUD,Budget/Appropriations,2016,2,3271
+826,FUE,Fuel/Gas/Oil,2012,4,189
+782,BUD,Budget/Appropriations,2012,3,3540
+791,RRR,Railroads,2024,2,139
+770,ART,Arts/Entertainment,2015,2,57
+775,MAR,Marine/Maritime/Boating/Fisheries,2012,4,263
+769,LBR,Labor Issues/Antitrust/Workplace,2023,1,957
+780,BEV,Beverage Industry,2010,2,51
+794,CPI,Computer Industry,2013,3,175
+760,AER,Aerospace,2010,3,110
+820,FIN,Financial Institutions/Investments/Securities,2023,4,1025
+829,VET,Veterans,2022,4,388
+793,RES,Real Estate/Land Use/Conservation,2013,1,155
+814,ENV,Environmental/Superfund,2020,1,980
+803,SMB,Small Business,2014,4,141
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2023,3,54
+771,LAW,Law Enforcement/Crime/Criminal Justice,2023,1,382
+764,ALC,Alcohol & Drug Abuse,2010,1,48
+790,CDT,Commodities (Big Ticket),2016,3,43
+783,MON,Minting/Money/Gold Standard,2020,2,12
+770,ART,Arts/Entertainment,2019,4,55
+782,BUD,Budget/Appropriations,2020,4,3904
+791,RRR,Railroads,2016,1,136
+826,FUE,Fuel/Gas/Oil,2021,1,160
+817,TRA,Transportation,2019,3,1602
+764,ALC,Alcohol & Drug Abuse,2010,4,46
+826,FUE,Fuel/Gas/Oil,2024,4,193
+769,LBR,Labor Issues/Antitrust/Workplace,2011,1,585
+832,HCR,Health Issues,2011,3,2338
+783,MON,Minting/Money/Gold Standard,2024,1,7
+788,CAW,Clean Air & Water (Quality),2014,2,477
+781,MMM,Medicare/Medicaid,2018,1,1365
+773,MAN,Manufacturing,2019,2,186
+780,BEV,Beverage Industry,2022,2,49
+759,HOU,Housing,2016,4,269
+792,COM,Communications/Broadcasting/Radio/TV,2022,3,273
+780,BEV,Beverage Industry,2018,3,41
+790,CDT,Commodities (Big Ticket),2017,2,37
+761,IMM,Immigration,2022,4,548
+778,BNK,Bankruptcy,2016,2,64
+763,IND,Indian/Native American Affairs,2021,2,307
+802,DEF,Defense,2014,3,1274
+827,UTI,Utilities,2024,2,166
+793,RES,Real Estate/Land Use/Conservation,2021,2,139
+768,APP,Apparel/Clothing Industry/Textiles,2011,3,21
+782,BUD,Budget/Appropriations,2024,3,5151
+757,HOM,Homeland Security,2014,3,672
+791,RRR,Railroads,2012,2,121
+788,CAW,Clean Air & Water (Quality),2010,3,569
+756,ACC,Accounting,2012,1,40
+790,CDT,Commodities (Big Ticket),2021,1,32
+780,BEV,Beverage Industry,2014,4,39
+759,HOU,Housing,2017,3,305
+827,UTI,Utilities,2016,4,128
+771,LAW,Law Enforcement/Crime/Criminal Justice,2014,4,296
+792,COM,Communications/Broadcasting/Radio/TV,2018,4,266
+816,FAM,Family Issues/Abortion/Adoption,2020,4,55
+781,MMM,Medicare/Medicaid,2014,2,1175
+789,POS,Postal,2010,1,60
+827,UTI,Utilities,2020,3,143
+805,SPO,Sports/Athletics,2023,4,91
+832,HCR,Health Issues,2015,2,2394
+801,SCI,Science/Technology,2011,4,375
+768,APP,Apparel/Clothing Industry/Textiles,2020,3,28
+802,DEF,Defense,2018,2,1563
+757,HOM,Homeland Security,2010,4,602
+778,BNK,Bankruptcy,2020,1,35
+824,FOR,Foreign Relations,2017,2,357
+793,RES,Real Estate/Land Use/Conservation,2013,4,141
+759,HOU,Housing,2021,2,392
+802,DEF,Defense,2022,4,2052
+827,UTI,Utilities,2016,1,135
+824,FOR,Foreign Relations,2021,1,341
+758,ADV,Advertising,2021,4,34
+815,TRD,Trade (Domestic & Foreign),2015,1,1132
+825,UNM,Unemployment,2013,1,23
+756,ACC,Accounting,2020,2,76
+274245,TAR,Tariff Bills,2024,2,90
+824,FOR,Foreign Relations,2013,3,312
+769,LBR,Labor Issues/Antitrust/Workplace,2015,3,675
+800,CPT,Copyright/Patent/Trademark,2019,1,397
+812,ENG,Energy/Nuclear,2014,4,1265
+803,SMB,Small Business,2014,1,148
+778,BNK,Bankruptcy,2012,3,37
+815,TRD,Trade (Domestic & Foreign),2011,2,885
+813,TOR,Torts,2014,2,75
+768,APP,Apparel/Clothing Industry/Textiles,2019,4,17
+797,RET,Retirement,2022,4,264
+773,MAN,Manufacturing,2023,1,449
+793,RES,Real Estate/Land Use/Conservation,2017,3,140
+785,NAT,Natural Resources,2024,1,876
+772,AUT,Automotive Industry,2023,3,202
+784,CHM,Chemicals/Chemical Industry,2024,3,160
+803,SMB,Small Business,2010,2,175
+788,CAW,Clean Air & Water (Quality),2015,1,457
+829,VET,Veterans,2022,1,340
+817,TRA,Transportation,2015,4,1585
+779,MED,Medical/Disease Research/Clinical Labs,2012,1,241
+770,ART,Arts/Entertainment,2019,1,49
+812,ENG,Energy/Nuclear,2015,3,1317
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2013,3,240
+784,CHM,Chemicals/Chemical Industry,2023,4,156
+814,ENV,Environmental/Superfund,2017,4,915
+795,REL,Religion,2017,3,21
+766,ANI,Animals,2013,1,91
+810,EDU,Education,2013,2,925
+800,CPT,Copyright/Patent/Trademark,2018,2,443
+824,FOR,Foreign Relations,2012,4,328
+785,NAT,Natural Resources,2023,2,829
+814,ENV,Environmental/Superfund,2021,3,1168
+801,SCI,Science/Technology,2014,1,363
+812,ENG,Energy/Nuclear,2011,4,1574
+825,UNM,Unemployment,2012,2,27
+815,TRD,Trade (Domestic & Foreign),2010,3,823
+813,TOR,Torts,2011,2,113
+812,ENG,Energy/Nuclear,2019,2,1171
+779,MED,Medical/Disease Research/Clinical Labs,2013,3,206
+770,ART,Arts/Entertainment,2020,3,81
+825,UNM,Unemployment,2016,1,12
+761,IMM,Immigration,2021,2,598
+794,CPI,Computer Industry,2022,3,382
+824,FOR,Foreign Relations,2016,3,345
+800,CPT,Copyright/Patent/Trademark,2014,3,614
+781,MMM,Medicare/Medicaid,2015,4,1217
+807,TAX,Taxation/Internal Revenue Code,2023,4,2703
+810,EDU,Education,2017,1,909
+795,REL,Religion,2022,1,16
+789,POS,Postal,2011,3,112
+805,SPO,Sports/Athletics,2016,2,51
+778,BNK,Bankruptcy,2017,4,28
+813,TOR,Torts,2015,1,62
+820,FIN,Financial Institutions/Investments/Securities,2011,2,895
+763,IND,Indian/Native American Affairs,2022,4,321
+770,ART,Arts/Entertainment,2024,2,74
+816,FAM,Family Issues/Abortion/Adoption,2023,1,83
+769,LBR,Labor Issues/Antitrust/Workplace,2014,4,572
+760,AER,Aerospace,2021,4,164
+819,TOU,Travel/Tourism,2024,4,103
+773,MAN,Manufacturing,2020,4,292
+771,LAW,Law Enforcement/Crime/Criminal Justice,2015,3,347
+792,COM,Communications/Broadcasting/Radio/TV,2021,1,268
+780,BEV,Beverage Industry,2023,4,50
+773,MAN,Manufacturing,2024,3,483
+792,COM,Communications/Broadcasting/Radio/TV,2017,2,258
+800,CPT,Copyright/Patent/Trademark,2010,4,499
+802,DEF,Defense,2019,1,1529
+776,BAN,Banking,2012,3,481
+803,SMB,Small Business,2011,4,190
+761,IMM,Immigration,2017,3,652
+797,RET,Retirement,2024,2,240
+805,SPO,Sports/Athletics,2020,1,69
+804,DOC,District of Columbia,2020,3,17
+781,MMM,Medicare/Medicaid,2019,3,1399
+768,APP,Apparel/Clothing Industry/Textiles,2019,1,14
+771,LAW,Law Enforcement/Crime/Criminal Justice,2019,2,406
+758,ADV,Advertising,2018,1,40
+801,SCI,Science/Technology,2010,2,421
+823,URB,Urban Development/Municipalities,2010,4,199
+794,CPI,Computer Industry,2014,4,149
+823,URB,Urban Development/Municipalities,2017,4,163
+764,ALC,Alcohol & Drug Abuse,2017,1,68
+796,CSP,Consumer Issues/Safety/Protection,2017,1,347
+762,AGR,Agriculture,2011,4,691
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2015,4,46
+765,INS,Insurance,2013,3,340
+775,MAR,Marine/Maritime/Boating/Fisheries,2011,3,278
+806,DIS,Disaster Planning/Emergencies,2015,1,133
+782,BUD,Budget/Appropriations,2011,3,4067
+798,CON,Constitution,2019,2,61
+801,SCI,Science/Technology,2021,4,656
+798,CON,Constitution,2023,1,48
+811,TOB,Tobacco,2019,4,138
+794,CPI,Computer Industry,2011,1,157
+821,TRU,Trucking/Shipping,2017,4,74
+777,MIA,Media (Information/Publishing),2014,3,37
+832,HCR,Health Issues,2021,3,3333
+763,IND,Indian/Native American Affairs,2011,2,296
+775,MAR,Marine/Maritime/Boating/Fisheries,2015,2,282
+767,INT,Intelligence and Surveillance,2019,3,106
+767,INT,Intelligence and Surveillance,2023,2,103
+782,BUD,Budget/Appropriations,2015,2,3291
+808,ECN,Economics/Economic Development,2023,2,411
+774,AVI,Aviation/Aircraft/Airlines,2012,4,310
+784,CHM,Chemicals/Chemical Industry,2016,1,157
+774,AVI,Aviation/Aircraft/Airlines,2016,3,427
+818,FIR,Firearms/Guns/Ammunition,2013,1,77
+787,PHA,Pharmacy,2017,4,243
+833,WEL,Welfare,2015,4,32
+819,TOU,Travel/Tourism,2017,1,70
+777,MIA,Media (Information/Publishing),2023,3,42
+762,AGR,Agriculture,2015,3,654
+796,CSP,Consumer Issues/Safety/Protection,2013,2,319
+784,CHM,Chemicals/Chemical Industry,2012,2,139
+818,FIR,Firearms/Guns/Ammunition,2017,3,43
+787,PHA,Pharmacy,2013,2,228
+763,IND,Indian/Native American Affairs,2015,1,322
+828,GAM,Gaming/Gambling/Casino,2017,4,86
+821,TRU,Trucking/Shipping,2022,2,99
+774,AVI,Aviation/Aircraft/Airlines,2020,2,443
+764,ALC,Alcohol & Drug Abuse,2022,2,77
+779,MED,Medical/Disease Research/Clinical Labs,2024,2,296
+807,TAX,Taxation/Internal Revenue Code,2016,1,2687
+766,ANI,Animals,2024,3,156
+810,EDU,Education,2024,4,1076
+757,HOM,Homeland Security,2022,2,676
+778,BNK,Bankruptcy,2024,4,32
+809,TEC,Telecommunications,2018,2,674
+799,ROD,Roads/Highway,2020,2,108
+791,RRR,Railroads,2024,3,142
+274245,TAR,Tariff Bills,2014,2,99
+820,FIN,Financial Institutions/Investments/Securities,2022,4,1018
+808,ECN,Economics/Economic Development,2018,4,305
+760,AER,Aerospace,2010,2,114
+818,FIR,Firearms/Guns/Ammunition,2021,2,62
+772,AUT,Automotive Industry,2014,2,113
+791,RRR,Railroads,2020,4,114
+811,TOB,Tobacco,2023,3,111
+764,ALC,Alcohol & Drug Abuse,2021,3,72
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2024,2,267
+788,CAW,Clean Air & Water (Quality),2022,1,407
+765,INS,Insurance,2021,1,332
+807,TAX,Taxation/Internal Revenue Code,2012,2,2497
+773,MAN,Manufacturing,2013,1,175
+799,ROD,Roads/Highway,2016,3,102
+765,INS,Insurance,2017,2,331
+777,MIA,Media (Information/Publishing),2022,4,43
+806,DIS,Disaster Planning/Emergencies,2015,4,131
+774,AVI,Aviation/Aircraft/Airlines,2024,1,575
+764,ALC,Alcohol & Drug Abuse,2017,4,71
+788,CAW,Clean Air & Water (Quality),2012,3,471
+816,FAM,Family Issues/Abortion/Adoption,2021,2,77
+809,TEC,Telecommunications,2022,2,819
+792,COM,Communications/Broadcasting/Radio/TV,2023,1,270
+830,GOV,Government Issues,2019,1,654
+821,TRU,Trucking/Shipping,2023,2,92
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2020,2,255
+824,FOR,Foreign Relations,2014,4,340
+763,IND,Indian/Native American Affairs,2024,3,317
+791,RRR,Railroads,2016,2,133
+805,SPO,Sports/Athletics,2012,3,32
+779,MED,Medical/Disease Research/Clinical Labs,2016,1,237
+830,GOV,Government Issues,2016,1,569
+783,MON,Minting/Money/Gold Standard,2024,2,6
+785,NAT,Natural Resources,2019,3,740
+821,TRU,Trucking/Shipping,2024,1,86
+792,COM,Communications/Broadcasting/Radio/TV,2022,2,268
+821,TRU,Trucking/Shipping,2020,2,83
+816,FAM,Family Issues/Abortion/Adoption,2016,4,59
+830,GOV,Government Issues,2012,2,576
+791,RRR,Railroads,2020,1,122
+797,RET,Retirement,2019,4,296
+798,CON,Constitution,2016,4,45
+832,HCR,Health Issues,2011,2,2372
+786,CIV,Civil Rights/Civil Liberties,2015,1,100
+791,RRR,Railroads,2012,3,113
+827,UTI,Utilities,2024,3,170
+794,CPI,Computer Industry,2012,2,182
+792,COM,Communications/Broadcasting/Radio/TV,2018,3,273
+759,HOU,Housing,2020,4,351
+780,BEV,Beverage Industry,2021,2,48
+765,INS,Insurance,2016,1,300
+809,TEC,Telecommunications,2021,3,825
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2021,1,235
+772,AUT,Automotive Industry,2018,4,150
+809,TEC,Telecommunications,2017,4,635
+772,AUT,Automotive Industry,2022,3,210
+816,FAM,Family Issues/Abortion/Adoption,2020,3,61
+759,HOU,Housing,2024,3,481
+815,TRD,Trade (Domestic & Foreign),2016,1,1131
+833,WEL,Welfare,2022,1,52
+806,DIS,Disaster Planning/Emergencies,2013,2,143
+274245,TAR,Tariff Bills,2013,4,106
+803,SMB,Small Business,2022,3,348
+827,UTI,Utilities,2020,4,144
+790,CDT,Commodities (Big Ticket),2021,4,37
+810,EDU,Education,2021,3,1058
+824,FOR,Foreign Relations,2014,1,328
+818,FIR,Firearms/Guns/Ammunition,2010,3,26
+797,RET,Retirement,2011,3,217
+803,SMB,Small Business,2018,1,183
+779,MED,Medical/Disease Research/Clinical Labs,2011,3,256
+768,APP,Apparel/Clothing Industry/Textiles,2016,3,15
+756,ACC,Accounting,2010,2,42
+790,CDT,Commodities (Big Ticket),2022,3,37
+792,COM,Communications/Broadcasting/Radio/TV,2014,4,254
+824,FOR,Foreign Relations,2010,2,341
+817,TRA,Transportation,2014,2,1426
+828,GAM,Gaming/Gambling/Casino,2021,3,81
+830,GOV,Government Issues,2020,3,798
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2021,4,241
+806,DIS,Disaster Planning/Emergencies,2017,1,111
+798,CON,Constitution,2021,2,55
+823,URB,Urban Development/Municipalities,2017,1,157
+803,SMB,Small Business,2014,2,162
+777,MIA,Media (Information/Publishing),2021,3,38
+785,NAT,Natural Resources,2015,4,622
+780,BEV,Beverage Industry,2013,1,42
+774,AVI,Aviation/Aircraft/Airlines,2017,4,415
+767,INT,Intelligence and Surveillance,2015,1,90
+767,INT,Intelligence and Surveillance,2011,2,40
+817,TRA,Transportation,2016,2,1440
+783,MON,Minting/Money/Gold Standard,2014,1,11
+780,BEV,Beverage Industry,2022,3,48
+788,CAW,Clean Air & Water (Quality),2014,3,464
+808,ECN,Economics/Economic Development,2014,2,282
+829,VET,Veterans,2016,3,318
+780,BEV,Beverage Industry,2018,4,39
+788,CAW,Clean Air & Water (Quality),2018,2,419
+787,PHA,Pharmacy,2021,3,272
+768,APP,Apparel/Clothing Industry/Textiles,2021,3,28
+792,COM,Communications/Broadcasting/Radio/TV,2019,4,278
+803,SMB,Small Business,2016,1,180
+790,CDT,Commodities (Big Ticket),2020,3,33
+827,UTI,Utilities,2014,2,133
+771,LAW,Law Enforcement/Crime/Criminal Justice,2017,3,358
+778,BNK,Bankruptcy,2016,3,50
+832,HCR,Health Issues,2012,3,2239
+785,NAT,Natural Resources,2020,4,730
+778,BNK,Bankruptcy,2024,1,31
+790,CDT,Commodities (Big Ticket),2024,2,36
+767,INT,Intelligence and Surveillance,2010,1,53
+788,CAW,Clean Air & Water (Quality),2010,4,504
+793,RES,Real Estate/Land Use/Conservation,2018,1,135
+756,ACC,Accounting,2020,3,86
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2012,2,253
+808,ECN,Economics/Economic Development,2010,3,281
+786,CIV,Civil Rights/Civil Liberties,2013,4,96
+827,UTI,Utilities,2010,3,185
+805,SPO,Sports/Athletics,2013,4,35
+778,BNK,Bankruptcy,2020,2,36
+803,SMB,Small Business,2012,2,188
+773,MAN,Manufacturing,2022,1,428
+802,DEF,Defense,2018,3,1544
+817,TRA,Transportation,2020,1,1603
+812,ENG,Energy/Nuclear,2018,1,1227
+768,APP,Apparel/Clothing Industry/Textiles,2017,4,16
+761,IMM,Immigration,2018,4,672
+756,ACC,Accounting,2016,1,53
+763,IND,Indian/Native American Affairs,2019,3,305
+798,CON,Constitution,2011,1,45
+810,EDU,Education,2011,2,982
+809,TEC,Telecommunications,2022,1,807
+797,RET,Retirement,2021,4,235
+805,SPO,Sports/Athletics,2017,3,44
+795,REL,Religion,2019,3,18
+759,HOU,Housing,2011,2,289
+775,MAR,Marine/Maritime/Boating/Fisheries,2019,4,320
+770,ART,Arts/Entertainment,2022,2,76
+759,HOU,Housing,2015,1,279
+800,CPT,Copyright/Patent/Trademark,2013,2,462
+829,VET,Veterans,2021,1,329
+800,CPT,Copyright/Patent/Trademark,2017,1,461
+795,REL,Religion,2015,4,18
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2024,4,46
+776,BAN,Banking,2015,1,418
+766,ANI,Animals,2015,3,115
+790,CDT,Commodities (Big Ticket),2016,1,37
+763,IND,Indian/Native American Affairs,2023,2,310
+756,ACC,Accounting,2024,2,74
+783,MON,Minting/Money/Gold Standard,2014,4,11
+793,RES,Real Estate/Land Use/Conservation,2014,2,147
+810,EDU,Education,2012,1,913
+791,RRR,Railroads,2010,3,143
+817,TRA,Transportation,2012,3,1444
+815,TRD,Trade (Domestic & Foreign),2011,1,827
+776,BAN,Banking,2011,2,534
+766,ANI,Animals,2011,4,89
+274245,TAR,Tariff Bills,2018,1,140
+778,BNK,Bankruptcy,2012,4,38
+805,SPO,Sports/Athletics,2021,2,97
+814,ENV,Environmental/Superfund,2024,4,1191
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2020,3,258
+766,ANI,Animals,2016,2,105
+820,FIN,Financial Institutions/Investments/Securities,2014,3,792
+763,IND,Indian/Native American Affairs,2019,2,309
+757,HOM,Homeland Security,2012,4,683
+769,LBR,Labor Issues/Antitrust/Workplace,2016,4,692
+776,BAN,Banking,2019,1,499
+811,TOB,Tobacco,2024,1,108
+824,FOR,Foreign Relations,2023,4,424
+796,CSP,Consumer Issues/Safety/Protection,2015,1,351
+759,HOU,Housing,2011,1,303
+778,BNK,Bankruptcy,2011,2,36
+819,TOU,Travel/Tourism,2013,4,64
+801,SCI,Science/Technology,2012,2,371
+788,CAW,Clean Air & Water (Quality),2016,2,443
+758,ADV,Advertising,2011,3,75
+795,REL,Religion,2015,3,16
+796,CSP,Consumer Issues/Safety/Protection,2011,2,339
+806,DIS,Disaster Planning/Emergencies,2024,3,265
+776,BAN,Banking,2018,2,507
+826,FUE,Fuel/Gas/Oil,2015,2,214
+781,MMM,Medicare/Medicaid,2019,2,1387
+833,WEL,Welfare,2013,1,38
+761,IMM,Immigration,2023,2,510
+765,INS,Insurance,2011,3,284
+762,AGR,Agriculture,2020,3,856
+800,CPT,Copyright/Patent/Trademark,2016,3,561
+802,DEF,Defense,2013,2,1366
+787,PHA,Pharmacy,2018,2,266
+795,REL,Religion,2011,4,18
+763,IND,Indian/Native American Affairs,2020,1,313
+777,MIA,Media (Information/Publishing),2017,1,24
+807,TAX,Taxation/Internal Revenue Code,2018,1,3270
+801,SCI,Science/Technology,2011,3,366
+757,HOM,Homeland Security,2017,2,692
+757,HOM,Homeland Security,2021,1,608
+833,WEL,Welfare,2014,3,38
+770,ART,Arts/Entertainment,2010,2,97
+800,CPT,Copyright/Patent/Trademark,2015,4,655
+818,FIR,Firearms/Guns/Ammunition,2018,4,43
+761,IMM,Immigration,2022,3,543
+776,BAN,Banking,2017,3,456
+802,DEF,Defense,2014,4,1256
+819,TOU,Travel/Tourism,2018,2,84
+813,TOR,Torts,2012,3,86
+764,ALC,Alcohol & Drug Abuse,2016,3,72
+783,MON,Minting/Money/Gold Standard,2016,4,11
+757,HOM,Homeland Security,2013,3,672
+806,DIS,Disaster Planning/Emergencies,2017,4,234
+788,CAW,Clean Air & Water (Quality),2017,1,393
+808,ECN,Economics/Economic Development,2013,1,283
+768,APP,Apparel/Clothing Industry/Textiles,2024,1,25
+833,WEL,Welfare,2018,2,51
+818,FIR,Firearms/Guns/Ammunition,2023,2,59
+807,TAX,Taxation/Internal Revenue Code,2017,2,3223
+758,ADV,Advertising,2013,1,58
+799,ROD,Roads/Highway,2021,3,147
+765,INS,Insurance,2012,2,304
+801,SCI,Science/Technology,2015,2,381
+800,CPT,Copyright/Patent/Trademark,2024,4,404
+807,TAX,Taxation/Internal Revenue Code,2013,3,2765
+777,MIA,Media (Information/Publishing),2013,2,40
+795,REL,Religion,2016,2,19
+764,ALC,Alcohol & Drug Abuse,2012,4,50
+832,HCR,Health Issues,2015,1,2371
+814,ENV,Environmental/Superfund,2012,1,1014
+819,TOU,Travel/Tourism,2014,3,69
+776,BAN,Banking,2013,4,442
+770,ART,Arts/Entertainment,2014,1,63
+764,ALC,Alcohol & Drug Abuse,2012,1,47
+812,ENG,Energy/Nuclear,2020,3,1189
+815,TRD,Trade (Domestic & Foreign),2012,2,909
+801,SCI,Science/Technology,2019,4,469
+756,ACC,Accounting,2023,1,69
+783,MON,Minting/Money/Gold Standard,2012,2,14
+830,GOV,Government Issues,2024,2,691
+817,TRA,Transportation,2024,3,1707
+787,PHA,Pharmacy,2023,3,281
+768,APP,Apparel/Clothing Industry/Textiles,2020,2,33
+782,BUD,Budget/Appropriations,2016,3,3198
+769,LBR,Labor Issues/Antitrust/Workplace,2016,1,727
+789,POS,Postal,2012,4,138
+826,FUE,Fuel/Gas/Oil,2016,4,170
+782,BUD,Budget/Appropriations,2012,4,3329
+794,CPI,Computer Industry,2016,4,211
+827,UTI,Utilities,2012,3,146
+783,MON,Minting/Money/Gold Standard,2016,1,10
+796,CSP,Consumer Issues/Safety/Protection,2012,4,328
+827,UTI,Utilities,2016,2,142
+790,CDT,Commodities (Big Ticket),2012,2,51
+832,HCR,Health Issues,2019,3,2756
+812,ENG,Energy/Nuclear,2016,4,1208
+820,FIN,Financial Institutions/Investments/Securities,2012,3,814
+812,ENG,Energy/Nuclear,2024,2,1633
+813,TOR,Torts,2016,2,73
+828,GAM,Gaming/Gambling/Casino,2011,2,106
+821,TRU,Trucking/Shipping,2012,1,56
+775,MAR,Marine/Maritime/Boating/Fisheries,2017,2,301
+795,REL,Religion,2020,1,19
+782,BUD,Budget/Appropriations,2020,2,3897
+759,HOU,Housing,2012,3,310
+794,CPI,Computer Industry,2020,3,304
+784,CHM,Chemicals/Chemical Industry,2011,1,138
+787,PHA,Pharmacy,2022,4,272
+774,AVI,Aviation/Aircraft/Airlines,2021,3,432
+781,MMM,Medicare/Medicaid,2020,4,1500
+789,POS,Postal,2016,3,99
+819,TOU,Travel/Tourism,2022,1,115
+825,UNM,Unemployment,2021,4,45
+833,WEL,Welfare,2010,4,54
+763,IND,Indian/Native American Affairs,2020,4,291
+775,MAR,Marine/Maritime/Boating/Fisheries,2021,1,321
+818,FIR,Firearms/Guns/Ammunition,2022,3,66
+820,FIN,Financial Institutions/Investments/Securities,2016,2,828
+813,TOR,Torts,2020,1,60
+789,POS,Postal,2017,2,90
+824,FOR,Foreign Relations,2022,2,402
+771,LAW,Law Enforcement/Crime/Criminal Justice,2010,3,405
+762,AGR,Agriculture,2021,2,859
+782,BUD,Budget/Appropriations,2024,1,5240
+809,TEC,Telecommunications,2013,2,536
+758,ADV,Advertising,2016,4,36
+807,TAX,Taxation/Internal Revenue Code,2021,4,3111
+788,CAW,Clean Air & Water (Quality),2021,3,396
+808,ECN,Economics/Economic Development,2013,4,253
+802,DEF,Defense,2014,1,1296
+787,PHA,Pharmacy,2019,1,277
+793,RES,Real Estate/Land Use/Conservation,2018,4,140
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2021,3,52
+800,CPT,Copyright/Patent/Trademark,2024,1,396
+769,LBR,Labor Issues/Antitrust/Workplace,2020,3,801
+786,CIV,Civil Rights/Civil Liberties,2023,2,187
+820,FIN,Financial Institutions/Investments/Securities,2017,1,800
+770,ART,Arts/Entertainment,2018,3,52
+781,MMM,Medicare/Medicaid,2024,3,1526
+811,TOB,Tobacco,2021,4,114
+768,APP,Apparel/Clothing Industry/Textiles,2024,4,26
+826,FUE,Fuel/Gas/Oil,2020,3,154
+771,LAW,Law Enforcement/Crime/Criminal Justice,2014,2,319
+756,ACC,Accounting,2019,2,62
+769,LBR,Labor Issues/Antitrust/Workplace,2024,2,993
+756,ACC,Accounting,2023,4,64
+770,ART,Arts/Entertainment,2014,4,64
+776,BAN,Banking,2013,1,446
+826,FUE,Fuel/Gas/Oil,2016,1,183
+832,HCR,Health Issues,2015,4,2323
+808,ECN,Economics/Economic Development,2017,3,282
+788,CAW,Clean Air & Water (Quality),2017,4,390
+793,RES,Real Estate/Land Use/Conservation,2022,3,150
+796,CSP,Consumer Issues/Safety/Protection,2012,1,348
+794,CPI,Computer Industry,2017,2,230
+774,AVI,Aviation/Aircraft/Airlines,2021,2,433
+782,BUD,Budget/Appropriations,2020,1,3767
+811,TOB,Tobacco,2020,2,124
+791,RRR,Railroads,2020,3,123
+783,MON,Minting/Money/Gold Standard,2024,4,8
+828,GAM,Gaming/Gambling/Casino,2022,3,82
+769,LBR,Labor Issues/Antitrust/Workplace,2019,2,711
+774,AVI,Aviation/Aircraft/Airlines,2017,3,431
+811,TOB,Tobacco,2016,3,82
+809,TEC,Telecommunications,2012,1,594
+765,INS,Insurance,2014,1,363
+808,ECN,Economics/Economic Development,2022,4,393
+801,SCI,Science/Technology,2023,4,799
+828,GAM,Gaming/Gambling/Casino,2020,2,94
+758,ADV,Advertising,2010,3,84
+803,SMB,Small Business,2023,4,294
+785,NAT,Natural Resources,2013,1,618
+764,ALC,Alcohol & Drug Abuse,2024,1,62
+772,AUT,Automotive Industry,2016,1,117
+764,ALC,Alcohol & Drug Abuse,2020,2,68
+828,GAM,Gaming/Gambling/Casino,2024,1,82
+769,LBR,Labor Issues/Antitrust/Workplace,2018,3,721
+794,CPI,Computer Industry,2018,4,247
+810,EDU,Education,2022,4,1049
+830,GOV,Government Issues,2022,3,770
+820,FIN,Financial Institutions/Investments/Securities,2020,4,853
+826,FUE,Fuel/Gas/Oil,2017,2,170
+774,AVI,Aviation/Aircraft/Airlines,2018,2,447
+823,URB,Urban Development/Municipalities,2022,1,235
+770,ART,Arts/Entertainment,2011,3,69
+816,FAM,Family Issues/Abortion/Adoption,2019,2,63
+772,AUT,Automotive Industry,2012,2,113
+758,ADV,Advertising,2014,2,60
+780,BEV,Beverage Industry,2011,1,47
+809,TEC,Telecommunications,2011,2,564
+779,MED,Medical/Disease Research/Clinical Labs,2021,4,308
+826,FUE,Fuel/Gas/Oil,2013,3,207
+779,MED,Medical/Disease Research/Clinical Labs,2017,2,255
+804,DOC,District of Columbia,2016,4,13
+763,IND,Indian/Native American Affairs,2012,3,290
+797,RET,Retirement,2010,2,254
+799,ROD,Roads/Highway,2017,1,98
+811,TOB,Tobacco,2021,1,117
+762,AGR,Agriculture,2018,1,857
+830,GOV,Government Issues,2021,4,775
+832,HCR,Health Issues,2023,2,3167
+787,PHA,Pharmacy,2010,1,191
+768,APP,Apparel/Clothing Industry/Textiles,2010,1,26
+818,FIR,Firearms/Guns/Ammunition,2020,4,46
+777,MIA,Media (Information/Publishing),2012,1,35
+760,AER,Aerospace,2021,1,156
+781,MMM,Medicare/Medicaid,2023,2,1546
+815,TRD,Trade (Domestic & Foreign),2022,3,1430
+789,POS,Postal,2019,1,95
+825,UNM,Unemployment,2020,3,65
+799,ROD,Roads/Highway,2017,4,111
+823,URB,Urban Development/Municipalities,2014,3,155
+786,CIV,Civil Rights/Civil Liberties,2020,4,161
+819,TOU,Travel/Tourism,2010,1,71
+775,MAR,Marine/Maritime/Boating/Fisheries,2013,3,290
+786,CIV,Civil Rights/Civil Liberties,2024,3,184
+757,HOM,Homeland Security,2019,4,653
+789,POS,Postal,2015,2,92
+823,URB,Urban Development/Municipalities,2018,2,188
+809,TEC,Telecommunications,2015,4,559
+801,SCI,Science/Technology,2022,2,738
+814,ENV,Environmental/Superfund,2013,2,923
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2017,1,41
+797,RET,Retirement,2014,1,255
+806,DIS,Disaster Planning/Emergencies,2014,3,131
+796,CSP,Consumer Issues/Safety/Protection,2024,4,487
+832,HCR,Health Issues,2020,4,3180
+829,VET,Veterans,2012,1,218
+821,TRU,Trucking/Shipping,2013,2,59
+808,ECN,Economics/Economic Development,2022,3,411
+785,NAT,Natural Resources,2016,2,679
+830,GOV,Government Issues,2019,2,662
+797,RET,Retirement,2013,3,245
+828,GAM,Gaming/Gambling/Casino,2017,1,88
+801,SCI,Science/Technology,2021,1,525
+784,CHM,Chemicals/Chemical Industry,2016,4,126
+821,TRU,Trucking/Shipping,2014,1,58
+769,LBR,Labor Issues/Antitrust/Workplace,2021,4,1013
+799,ROD,Roads/Highway,2012,4,93
+811,TOB,Tobacco,2019,1,108
+794,CPI,Computer Industry,2011,4,166
+828,GAM,Gaming/Gambling/Casino,2013,2,102
+796,CSP,Consumer Issues/Safety/Protection,2017,4,349
+830,GOV,Government Issues,2023,1,679
+784,CHM,Chemicals/Chemical Industry,2020,3,153
+785,NAT,Natural Resources,2012,3,572
+830,GOV,Government Issues,2015,3,547
+804,DOC,District of Columbia,2013,3,9
+809,TEC,Telecommunications,2010,4,526
+786,CIV,Civil Rights/Civil Liberties,2022,1,262
+810,EDU,Education,2020,2,986
+813,TOR,Torts,2021,2,56
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2012,1,66
+274245,TAR,Tariff Bills,2010,3,134
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2011,2,65
+806,DIS,Disaster Planning/Emergencies,2019,3,204
+798,CON,Constitution,2023,4,49
+797,RET,Retirement,2017,2,246
+794,CPI,Computer Industry,2015,3,209
+779,MED,Medical/Disease Research/Clinical Labs,2020,3,334
+820,FIN,Financial Institutions/Investments/Securities,2018,2,848
+816,FAM,Family Issues/Abortion/Adoption,2016,1,62
+763,IND,Indian/Native American Affairs,2015,4,337
+760,AER,Aerospace,2014,1,100
+776,BAN,Banking,2023,2,586
+810,EDU,Education,2024,1,1150
+772,AUT,Automotive Industry,2018,1,148
+809,TEC,Telecommunications,2014,3,555
+789,POS,Postal,2014,4,100
+799,ROD,Roads/Highway,2024,1,105
+789,POS,Postal,2022,2,115
+776,BAN,Banking,2019,3,550
+823,URB,Urban Development/Municipalities,2021,3,228
+825,UNM,Unemployment,2023,4,24
+760,AER,Aerospace,2014,4,111
+833,WEL,Welfare,2019,3,59
+761,IMM,Immigration,2010,3,319
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2020,2,46
+787,PHA,Pharmacy,2017,1,224
+818,FIR,Firearms/Guns/Ammunition,2013,4,60
+762,AGR,Agriculture,2019,2,858
+789,POS,Postal,2018,3,107
+816,FAM,Family Issues/Abortion/Adoption,2012,2,61
+786,CIV,Civil Rights/Civil Liberties,2017,3,111
+777,MIA,Media (Information/Publishing),2019,1,25
+819,TOU,Travel/Tourism,2013,2,62
+758,ADV,Advertising,2011,1,62
+796,CSP,Consumer Issues/Safety/Protection,2021,3,436
+820,FIN,Financial Institutions/Investments/Securities,2022,1,982
+833,WEL,Welfare,2023,2,53
+829,VET,Veterans,2012,4,206
+814,ENV,Environmental/Superfund,2010,1,1166
+783,MON,Minting/Money/Gold Standard,2010,2,11
+795,REL,Religion,2011,2,18
+806,DIS,Disaster Planning/Emergencies,2011,2,131
+779,MED,Medical/Disease Research/Clinical Labs,2019,4,261
+792,COM,Communications/Broadcasting/Radio/TV,2010,2,317
+782,BUD,Budget/Appropriations,2010,4,4518
+767,INT,Intelligence and Surveillance,2015,4,107
+826,FUE,Fuel/Gas/Oil,2011,1,186
+788,CAW,Clean Air & Water (Quality),2022,4,408
+801,SCI,Science/Technology,2024,4,784
+787,PHA,Pharmacy,2018,3,280
+818,FIR,Firearms/Guns/Ammunition,2022,1,56
+826,FUE,Fuel/Gas/Oil,2011,4,195
+777,MIA,Media (Information/Publishing),2013,4,39
+796,CSP,Consumer Issues/Safety/Protection,2014,1,325
+777,MIA,Media (Information/Publishing),2017,3,24
+783,MON,Minting/Money/Gold Standard,2011,1,8
+832,HCR,Health Issues,2024,3,3206
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2019,3,50
+786,CIV,Civil Rights/Civil Liberties,2022,4,226
+787,PHA,Pharmacy,2014,4,208
+829,VET,Veterans,2013,3,241
+821,TRU,Trucking/Shipping,2014,4,49
+809,TEC,Telecommunications,2013,1,527
+806,DIS,Disaster Planning/Emergencies,2012,1,133
+762,AGR,Agriculture,2012,3,805
+828,GAM,Gaming/Gambling/Casino,2014,4,95
+775,MAR,Marine/Maritime/Boating/Fisheries,2012,2,263
+784,CHM,Chemicals/Chemical Industry,2019,1,125
+819,TOU,Travel/Tourism,2014,1,60
+782,BUD,Budget/Appropriations,2012,2,3648
+763,IND,Indian/Native American Affairs,2012,1,308
+757,HOM,Homeland Security,2023,4,617
+767,INT,Intelligence and Surveillance,2016,3,103
+818,FIR,Firearms/Guns/Ammunition,2014,3,46
+766,ANI,Animals,2020,4,125
+769,LBR,Labor Issues/Antitrust/Workplace,2024,1,988
+775,MAR,Marine/Maritime/Boating/Fisheries,2016,1,276
+767,INT,Intelligence and Surveillance,2020,2,100
+808,ECN,Economics/Economic Development,2017,2,268
+786,CIV,Civil Rights/Civil Liberties,2023,3,190
+798,CON,Constitution,2020,1,58
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2018,4,46
+775,MAR,Marine/Maritime/Boating/Fisheries,2016,4,287
+821,TRU,Trucking/Shipping,2018,3,92
+813,TOR,Torts,2022,4,50
+791,RRR,Railroads,2021,3,124
+811,TOB,Tobacco,2024,2,111
+767,INT,Intelligence and Surveillance,2024,1,116
+274245,TAR,Tariff Bills,2011,2,70
+772,AUT,Automotive Industry,2011,2,118
+785,NAT,Natural Resources,2011,1,514
+766,ANI,Animals,2021,3,136
+794,CPI,Computer Industry,2016,2,202
+784,CHM,Chemicals/Chemical Industry,2015,2,165
+779,MED,Medical/Disease Research/Clinical Labs,2021,2,315
+782,BUD,Budget/Appropriations,2016,1,3277
+820,FIN,Financial Institutions/Investments/Securities,2019,4,833
+784,CHM,Chemicals/Chemical Industry,2011,3,139
+780,BEV,Beverage Industry,2010,1,40
+828,GAM,Gaming/Gambling/Casino,2018,3,98
+821,TRU,Trucking/Shipping,2019,2,84
+765,INS,Insurance,2018,1,328
+774,AVI,Aviation/Aircraft/Airlines,2013,3,308
+826,FUE,Fuel/Gas/Oil,2012,3,191
+763,IND,Indian/Native American Affairs,2016,3,358
+799,ROD,Roads/Highway,2023,2,122
+764,ALC,Alcohol & Drug Abuse,2018,3,92
+774,AVI,Aviation/Aircraft/Airlines,2021,1,433
+821,TRU,Trucking/Shipping,2023,1,84
+772,AUT,Automotive Industry,2010,3,145
+765,INS,Insurance,2014,2,368
+806,DIS,Disaster Planning/Emergencies,2012,4,149
+820,FIN,Financial Institutions/Investments/Securities,2023,3,1043
+760,AER,Aerospace,2013,2,104
+818,FIR,Firearms/Guns/Ammunition,2018,2,55
+815,TRD,Trade (Domestic & Foreign),2018,4,1538
+795,REL,Religion,2021,2,15
+798,CON,Constitution,2012,2,31
+804,DOC,District of Columbia,2024,2,10
+832,HCR,Health Issues,2010,1,2909
+814,ENV,Environmental/Superfund,2017,1,890
+786,CIV,Civil Rights/Civil Liberties,2011,2,87
+829,VET,Veterans,2019,4,355
+781,MMM,Medicare/Medicaid,2015,1,1223
+791,RRR,Railroads,2013,1,109
+768,APP,Apparel/Clothing Industry/Textiles,2015,2,18
+783,MON,Minting/Money/Gold Standard,2017,2,11
+826,FUE,Fuel/Gas/Oil,2021,4,186
+782,BUD,Budget/Appropriations,2021,3,4417
+827,UTI,Utilities,2017,3,133
+798,CON,Constitution,2013,1,39
+778,BNK,Bankruptcy,2013,2,34
+790,CDT,Commodities (Big Ticket),2013,3,52
+827,UTI,Utilities,2021,2,151
+759,HOU,Housing,2013,4,313
+783,MON,Minting/Money/Gold Standard,2021,1,8
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2022,4,51
+832,HCR,Health Issues,2014,3,2288
+829,VET,Veterans,2023,3,394
+787,PHA,Pharmacy,2024,4,264
+788,CAW,Clean Air & Water (Quality),2011,2,504
+793,RES,Real Estate/Land Use/Conservation,2016,1,132
+780,BEV,Beverage Industry,2015,3,41
+803,SMB,Small Business,2019,2,166
+790,CDT,Commodities (Big Ticket),2014,2,56
+819,TOU,Travel/Tourism,2024,1,100
+769,LBR,Labor Issues/Antitrust/Workplace,2010,2,739
+778,BNK,Bankruptcy,2017,1,32
+763,IND,Indian/Native American Affairs,2022,1,310
+827,UTI,Utilities,2013,4,146
+768,APP,Apparel/Clothing Industry/Textiles,2014,3,20
+781,MMM,Medicare/Medicaid,2011,2,1116
+768,APP,Apparel/Clothing Industry/Textiles,2010,4,22
+817,TRA,Transportation,2023,2,1813
+825,UNM,Unemployment,2016,4,10
+771,LAW,Law Enforcement/Crime/Criminal Justice,2011,4,336
+802,DEF,Defense,2015,2,1338
+769,LBR,Labor Issues/Antitrust/Workplace,2014,1,593
+756,ACC,Accounting,2013,3,54
+803,SMB,Small Business,2015,3,166
+793,RES,Real Estate/Land Use/Conservation,2012,2,169
+766,ANI,Animals,2013,4,101
+816,FAM,Family Issues/Abortion/Adoption,2023,4,87
+824,FOR,Foreign Relations,2024,1,413
+793,RES,Real Estate/Land Use/Conservation,2020,3,145
+274245,TAR,Tariff Bills,2021,2,129
+805,SPO,Sports/Athletics,2020,4,82
+758,ADV,Advertising,2018,4,36
+807,TAX,Taxation/Internal Revenue Code,2023,1,2691
+757,HOM,Homeland Security,2016,1,652
+790,CDT,Commodities (Big Ticket),2018,1,33
+793,RES,Real Estate/Land Use/Conservation,2016,4,142
+824,FOR,Foreign Relations,2020,2,374
+802,DEF,Defense,2019,4,1585
+803,SMB,Small Business,2011,1,194
+792,COM,Communications/Broadcasting/Radio/TV,2021,4,276
+800,CPT,Copyright/Patent/Trademark,2010,1,529
+759,HOU,Housing,2018,2,332
+772,AUT,Automotive Industry,2024,2,203
+756,ACC,Accounting,2017,2,68
+815,TRD,Trade (Domestic & Foreign),2018,1,1359
+764,ALC,Alcohol & Drug Abuse,2011,3,46
+783,MON,Minting/Money/Gold Standard,2021,4,9
+780,BEV,Beverage Industry,2023,1,50
+757,HOM,Homeland Security,2011,3,644
+817,TRA,Transportation,2018,4,1547
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2017,2,259
+817,TRA,Transportation,2022,3,1872
+761,IMM,Immigration,2012,3,331
+799,ROD,Roads/Highway,2011,3,125
+817,TRA,Transportation,2010,1,1601
+778,BNK,Bankruptcy,2017,3,30
+768,APP,Apparel/Clothing Industry/Textiles,2014,1,24
+823,URB,Urban Development/Municipalities,2012,1,185
+772,AUT,Automotive Industry,2022,2,209
+798,CON,Constitution,2013,3,38
+765,INS,Insurance,2022,2,336
+803,SMB,Small Business,2019,4,181
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2022,2,265
+773,MAN,Manufacturing,2018,1,195
+805,SPO,Sports/Athletics,2013,3,32
+797,RET,Retirement,2017,4,264
+828,GAM,Gaming/Gambling/Casino,2017,3,92
+798,CON,Constitution,2017,2,53
+767,INT,Intelligence and Surveillance,2013,4,70
+764,ALC,Alcohol & Drug Abuse,2022,4,72
+806,DIS,Disaster Planning/Emergencies,2013,1,149
+772,AUT,Automotive Industry,2018,3,155
+829,VET,Veterans,2017,1,290
+768,APP,Apparel/Clothing Industry/Textiles,2010,2,29
+779,MED,Medical/Disease Research/Clinical Labs,2017,1,259
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2018,3,253
+767,INT,Intelligence and Surveillance,2017,3,95
+817,TRA,Transportation,2014,3,1386
+774,AVI,Aviation/Aircraft/Airlines,2013,4,295
+805,SPO,Sports/Athletics,2017,2,44
+798,CON,Constitution,2021,1,53
+791,RRR,Railroads,2018,1,118
+810,EDU,Education,2021,2,1052
+789,POS,Postal,2022,4,102
+797,RET,Retirement,2021,3,253
+790,CDT,Commodities (Big Ticket),2018,3,32
+790,CDT,Commodities (Big Ticket),2022,2,38
+779,MED,Medical/Disease Research/Clinical Labs,2021,3,321
+830,GOV,Government Issues,2017,2,670
+759,HOU,Housing,2018,4,328
+777,MIA,Media (Information/Publishing),2021,4,41
+804,DOC,District of Columbia,2018,3,8
+828,GAM,Gaming/Gambling/Casino,2021,2,81
+821,TRU,Trucking/Shipping,2022,1,95
+816,FAM,Family Issues/Abortion/Adoption,2022,3,87
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2017,4,255
+823,URB,Urban Development/Municipalities,2020,2,202
+759,HOU,Housing,2022,3,419
+827,UTI,Utilities,2021,4,160
+792,COM,Communications/Broadcasting/Radio/TV,2016,4,241
+830,GOV,Government Issues,2016,3,581
+833,WEL,Welfare,2020,4,55
+817,TRA,Transportation,2018,2,1560
+815,TRD,Trade (Domestic & Foreign),2024,3,1418
+766,ANI,Animals,2021,4,136
+778,BNK,Bankruptcy,2022,4,30
+786,CIV,Civil Rights/Civil Liberties,2011,1,80
+816,FAM,Family Issues/Abortion/Adoption,2018,4,56
+274245,TAR,Tariff Bills,2016,2,79
+809,TEC,Telecommunications,2020,2,783
+760,AER,Aerospace,2016,1,127
+758,ADV,Advertising,2023,4,30
+773,MAN,Manufacturing,2015,4,171
+823,URB,Urban Development/Municipalities,2019,3,178
+808,ECN,Economics/Economic Development,2024,3,414
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2023,4,274
+773,MAN,Manufacturing,2019,3,194
+808,ECN,Economics/Economic Development,2020,4,452
+790,CDT,Commodities (Big Ticket),2023,1,36
+274245,TAR,Tariff Bills,2012,3,134
+787,PHA,Pharmacy,2012,1,209
+824,FOR,Foreign Relations,2015,2,356
+793,RES,Real Estate/Land Use/Conservation,2011,4,137
+762,AGR,Agriculture,2014,2,716
+812,ENG,Energy/Nuclear,2018,4,1136
+769,LBR,Labor Issues/Antitrust/Workplace,2011,3,650
+812,ENG,Energy/Nuclear,2022,3,1575
+819,TOU,Travel/Tourism,2021,3,116
+807,TAX,Taxation/Internal Revenue Code,2024,2,2865
+826,FUE,Fuel/Gas/Oil,2024,2,202
+820,FIN,Financial Institutions/Investments/Securities,2010,4,922
+766,ANI,Animals,2020,1,132
+274245,TAR,Tariff Bills,2022,3,119
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2016,4,265
+764,ALC,Alcohol & Drug Abuse,2013,2,49
+785,NAT,Natural Resources,2020,1,757
+781,MMM,Medicare/Medicaid,2012,3,1070
+810,EDU,Education,2015,4,960
+786,CIV,Civil Rights/Civil Liberties,2013,1,83
+800,CPT,Copyright/Patent/Trademark,2017,4,442
+819,TOU,Travel/Tourism,2017,4,74
+805,SPO,Sports/Athletics,2013,1,31
+795,REL,Religion,2015,1,14
+761,IMM,Immigration,2018,1,712
+824,FOR,Foreign Relations,2023,3,414
+804,DOC,District of Columbia,2023,4,13
+783,MON,Minting/Money/Gold Standard,2018,3,8
+795,REL,Religion,2023,2,13
+779,MED,Medical/Disease Research/Clinical Labs,2010,2,262
+762,AGR,Agriculture,2011,1,659
+824,FOR,Foreign Relations,2019,4,387
+768,APP,Apparel/Clothing Industry/Textiles,2017,1,15
+774,AVI,Aviation/Aircraft/Airlines,2012,1,357
+817,TRA,Transportation,2020,4,1561
+807,TAX,Taxation/Internal Revenue Code,2020,3,2574
+830,GOV,Government Issues,2011,4,558
+274245,TAR,Tariff Bills,2023,2,102
+800,CPT,Copyright/Patent/Trademark,2021,3,417
+829,VET,Veterans,2024,4,412
+799,ROD,Roads/Highway,2024,4,96
+802,DEF,Defense,2022,2,2015
+773,MAN,Manufacturing,2017,3,190
+830,GOV,Government Issues,2011,1,521
+783,MON,Minting/Money/Gold Standard,2022,2,10
+756,ACC,Accounting,2016,4,55
+785,NAT,Natural Resources,2024,3,850
+825,UNM,Unemployment,2013,3,18
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2024,1,50
+775,MAR,Marine/Maritime/Boating/Fisheries,2023,3,354
+798,CON,Constitution,2011,4,37
+761,IMM,Immigration,2014,2,560
+773,MAN,Manufacturing,2013,4,182
+807,TAX,Taxation/Internal Revenue Code,2016,4,2671
+815,TRD,Trade (Domestic & Foreign),2015,3,1247
+758,ADV,Advertising,2021,2,37
+820,FIN,Financial Institutions/Investments/Securities,2010,1,1011
+812,ENG,Energy/Nuclear,2014,2,1383
+773,MAN,Manufacturing,2021,2,393
+792,COM,Communications/Broadcasting/Radio/TV,2023,3,264
+814,ENV,Environmental/Superfund,2020,2,984
+759,HOU,Housing,2015,4,271
+798,CON,Constitution,2015,3,43
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2016,1,299
+827,UTI,Utilities,2018,4,144
+809,TEC,Telecommunications,2022,4,747
+783,MON,Minting/Money/Gold Standard,2023,1,7
+797,RET,Retirement,2021,1,264
+832,HCR,Health Issues,2017,1,2577
+771,LAW,Law Enforcement/Crime/Criminal Justice,2013,1,348
+776,BAN,Banking,2015,4,448
+781,MMM,Medicare/Medicaid,2016,2,1252
+812,ENG,Energy/Nuclear,2013,3,1425
+814,ENV,Environmental/Superfund,2024,1,1236
+775,MAR,Marine/Maritime/Boating/Fisheries,2024,2,378
+274245,TAR,Tariff Bills,2018,4,153
+765,INS,Insurance,2021,4,342
+815,TRD,Trade (Domestic & Foreign),2011,4,893
+790,CDT,Commodities (Big Ticket),2016,4,45
+832,HCR,Health Issues,2011,4,2277
+771,LAW,Law Enforcement/Crime/Criminal Justice,2013,4,311
+814,ENV,Environmental/Superfund,2021,1,997
+792,COM,Communications/Broadcasting/Radio/TV,2022,4,260
+790,CDT,Commodities (Big Ticket),2013,4,49
+833,WEL,Welfare,2024,4,51
+796,CSP,Consumer Issues/Safety/Protection,2010,2,359
+778,BNK,Bankruptcy,2013,3,31
+759,HOU,Housing,2016,3,277
+803,SMB,Small Business,2013,1,155
+827,UTI,Utilities,2011,2,168
+787,PHA,Pharmacy,2022,2,278
+763,IND,Indian/Native American Affairs,2024,1,338
+790,CDT,Commodities (Big Ticket),2017,3,36
+825,UNM,Unemployment,2012,4,30
+788,CAW,Clean Air & Water (Quality),2011,3,481
+817,TRA,Transportation,2019,2,1597
+798,CON,Constitution,2016,2,49
+756,ACC,Accounting,2017,3,69
+771,LAW,Law Enforcement/Crime/Criminal Justice,2014,3,317
+773,MAN,Manufacturing,2018,2,195
+808,ECN,Economics/Economic Development,2013,3,267
+778,BNK,Bankruptcy,2017,2,35
+829,VET,Veterans,2017,2,318
+785,NAT,Natural Resources,2023,4,842
+765,INS,Insurance,2022,3,341
+768,APP,Apparel/Clothing Industry/Textiles,2024,3,28
+757,HOM,Homeland Security,2010,3,645
+768,APP,Apparel/Clothing Industry/Textiles,2020,4,29
+818,FIR,Firearms/Guns/Ammunition,2010,1,30
+756,ACC,Accounting,2013,4,47
+824,FOR,Foreign Relations,2022,1,396
+817,TRA,Transportation,2023,1,1780
+812,ENG,Energy/Nuclear,2015,1,1308
+771,LAW,Law Enforcement/Crime/Criminal Justice,2018,2,404
+790,CDT,Commodities (Big Ticket),2021,2,35
+832,HCR,Health Issues,2015,3,2408
+778,BNK,Bankruptcy,2021,4,37
+779,MED,Medical/Disease Research/Clinical Labs,2011,1,243
+805,SPO,Sports/Athletics,2010,4,33
+791,RRR,Railroads,2011,2,135
+795,REL,Religion,2012,4,18
+797,RET,Retirement,2018,4,280
+788,CAW,Clean Air & Water (Quality),2019,1,381
+817,TRA,Transportation,2011,4,1526
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2021,2,235
+786,CIV,Civil Rights/Civil Liberties,2010,1,92
+274245,TAR,Tariff Bills,2024,1,89
+793,RES,Real Estate/Land Use/Conservation,2013,3,153
+807,TAX,Taxation/Internal Revenue Code,2019,1,2633
+829,VET,Veterans,2018,1,325
+800,CPT,Copyright/Patent/Trademark,2020,1,432
+763,IND,Indian/Native American Affairs,2020,2,307
+824,FOR,Foreign Relations,2018,2,408
+783,MON,Minting/Money/Gold Standard,2011,4,14
+770,ART,Arts/Entertainment,2023,1,82
+827,UTI,Utilities,2015,1,137
+788,CAW,Clean Air & Water (Quality),2015,2,483
+800,CPT,Copyright/Patent/Trademark,2012,3,417
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2017,3,250
+780,BEV,Beverage Industry,2023,2,50
+797,RET,Retirement,2022,3,269
+805,SPO,Sports/Athletics,2018,2,47
+814,ENV,Environmental/Superfund,2021,4,1141
+805,SPO,Sports/Athletics,2014,3,47
+802,DEF,Defense,2023,4,2227
+800,CPT,Copyright/Patent/Trademark,2016,2,604
+780,BEV,Beverage Industry,2019,3,42
+776,BAN,Banking,2018,1,476
+815,TRD,Trade (Domestic & Foreign),2014,1,985
+759,HOU,Housing,2012,1,313
+756,ACC,Accounting,2021,2,63
+781,MMM,Medicare/Medicaid,2020,1,1435
+784,CHM,Chemicals/Chemical Industry,2011,4,144
+795,REL,Religion,2012,3,19
+814,ENV,Environmental/Superfund,2016,3,915
+801,SCI,Science/Technology,2019,1,408
+821,TRU,Trucking/Shipping,2012,4,57
+794,CPI,Computer Industry,2016,1,209
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2017,4,48
+825,UNM,Unemployment,2017,2,7
+763,IND,Indian/Native American Affairs,2016,2,347
+800,CPT,Copyright/Patent/Trademark,2020,2,406
+776,BAN,Banking,2022,1,600
+826,FUE,Fuel/Gas/Oil,2012,2,194
+819,TOU,Travel/Tourism,2022,4,105
+825,UNM,Unemployment,2021,1,59
+833,WEL,Welfare,2010,1,48
+757,HOM,Homeland Security,2021,4,650
+813,TOR,Torts,2020,4,98
+778,BNK,Bankruptcy,2012,1,39
+806,DIS,Disaster Planning/Emergencies,2021,3,391
+756,ACC,Accounting,2018,3,71
+802,DEF,Defense,2010,2,1936
+758,ADV,Advertising,2012,2,64
+789,POS,Postal,2012,1,136
+775,MAR,Marine/Maritime/Boating/Fisheries,2021,4,328
+769,LBR,Labor Issues/Antitrust/Workplace,2019,4,742
+766,ANI,Animals,2011,1,85
+764,ALC,Alcohol & Drug Abuse,2017,2,70
+783,MON,Minting/Money/Gold Standard,2017,3,12
+832,HCR,Health Issues,2018,1,2657
+801,SCI,Science/Technology,2014,3,367
+800,CPT,Copyright/Patent/Trademark,2018,4,426
+794,CPI,Computer Industry,2021,2,332
+819,TOU,Travel/Tourism,2015,2,71
+807,TAX,Taxation/Internal Revenue Code,2021,1,2533
+806,DIS,Disaster Planning/Emergencies,2022,2,308
+833,WEL,Welfare,2011,3,50
+782,BUD,Budget/Appropriations,2021,4,4317
+765,INS,Insurance,2013,1,288
+783,MON,Minting/Money/Gold Standard,2013,4,10
+832,HCR,Health Issues,2014,2,2264
+805,SPO,Sports/Athletics,2022,4,82
+820,FIN,Financial Institutions/Investments/Securities,2017,4,816
+813,TOR,Torts,2021,3,59
+763,IND,Indian/Native American Affairs,2021,3,312
+757,HOM,Homeland Security,2014,2,682
+764,ALC,Alcohol & Drug Abuse,2013,3,49
+777,MIA,Media (Information/Publishing),2016,2,26
+775,MAR,Marine/Maritime/Boating/Fisheries,2022,3,356
+802,DEF,Defense,2011,4,1519
+833,WEL,Welfare,2015,2,40
+776,BAN,Banking,2016,4,415
+795,REL,Religion,2013,2,16
+761,IMM,Immigration,2021,4,588
+776,BAN,Banking,2020,3,611
+762,AGR,Agriculture,2022,4,969
+801,SCI,Science/Technology,2018,2,387
+799,ROD,Roads/Highway,2024,3,103
+770,ART,Arts/Entertainment,2011,1,74
+818,FIR,Firearms/Guns/Ammunition,2020,2,45
+763,IND,Indian/Native American Affairs,2022,2,319
+807,TAX,Taxation/Internal Revenue Code,2020,2,2590
+802,DEF,Defense,2015,3,1319
+794,CPI,Computer Industry,2022,1,372
+825,UNM,Unemployment,2016,3,12
+813,TOR,Torts,2013,2,70
+771,LAW,Law Enforcement/Crime/Criminal Justice,2015,1,325
+807,TAX,Taxation/Internal Revenue Code,2016,3,2663
+826,FUE,Fuel/Gas/Oil,2013,1,186
+799,ROD,Roads/Highway,2020,4,97
+828,GAM,Gaming/Gambling/Casino,2012,1,115
+814,ENV,Environmental/Superfund,2012,4,930
+768,APP,Apparel/Clothing Industry/Textiles,2023,2,27
+812,ENG,Energy/Nuclear,2017,3,1241
+777,MIA,Media (Information/Publishing),2012,3,33
+804,DOC,District of Columbia,2021,4,15
+797,RET,Retirement,2015,2,227
+801,SCI,Science/Technology,2023,3,801
+762,AGR,Agriculture,2013,1,741
+830,GOV,Government Issues,2016,4,559
+768,APP,Apparel/Clothing Industry/Textiles,2012,4,19
+773,MAN,Manufacturing,2012,3,157
+795,REL,Religion,2024,3,14
+809,TEC,Telecommunications,2017,1,566
+812,ENG,Energy/Nuclear,2012,2,1504
+756,ACC,Accounting,2014,4,46
+759,HOU,Housing,2016,2,294
+759,HOU,Housing,2020,1,372
+786,CIV,Civil Rights/Civil Liberties,2015,4,87
+760,AER,Aerospace,2022,2,180
+795,REL,Religion,2020,4,14
+789,POS,Postal,2021,1,105
+800,CPT,Copyright/Patent/Trademark,2012,1,486
+786,CIV,Civil Rights/Civil Liberties,2019,3,160
+823,URB,Urban Development/Municipalities,2013,2,171
+815,TRD,Trade (Domestic & Foreign),2020,3,1503
+821,TRU,Trucking/Shipping,2024,4,84
+765,INS,Insurance,2020,3,366
+773,MAN,Manufacturing,2016,2,184
+782,BUD,Budget/Appropriations,2012,1,3710
+827,UTI,Utilities,2020,1,139
+811,TOB,Tobacco,2015,2,76
+760,AER,Aerospace,2018,3,122
+797,RET,Retirement,2016,1,231
+771,LAW,Law Enforcement/Crime/Criminal Justice,2018,1,387
+800,CPT,Copyright/Patent/Trademark,2011,2,686
+777,MIA,Media (Information/Publishing),2017,4,23
+811,TOB,Tobacco,2011,3,76
+765,INS,Insurance,2016,4,292
+274245,TAR,Tariff Bills,2013,1,129
+817,TRA,Transportation,2010,3,1571
+815,TRD,Trade (Domestic & Foreign),2016,4,1043
+823,URB,Urban Development/Municipalities,2012,3,190
+833,WEL,Welfare,2022,4,49
+766,ANI,Animals,2021,2,141
+771,LAW,Law Enforcement/Crime/Criminal Justice,2018,4,408
+785,NAT,Natural Resources,2011,2,554
+804,DOC,District of Columbia,2021,1,17
+803,SMB,Small Business,2018,4,167
+780,BEV,Beverage Industry,2017,3,37
+829,VET,Veterans,2011,3,205
+818,FIR,Firearms/Guns/Ammunition,2014,2,50
+788,CAW,Clean Air & Water (Quality),2013,2,453
+829,VET,Veterans,2015,2,303
+274245,TAR,Tariff Bills,2017,3,88
+810,EDU,Education,2017,4,946
+771,LAW,Law Enforcement/Crime/Criminal Justice,2022,3,426
+774,AVI,Aviation/Aircraft/Airlines,2013,2,316
+778,BNK,Bankruptcy,2021,3,36
+766,ANI,Animals,2017,3,117
+792,COM,Communications/Broadcasting/Radio/TV,2014,1,271
+785,NAT,Natural Resources,2015,1,643
+765,INS,Insurance,2024,2,331
+762,AGR,Agriculture,2017,3,742
+821,TRU,Trucking/Shipping,2016,3,64
+816,FAM,Family Issues/Abortion/Adoption,2024,2,93
+824,FOR,Foreign Relations,2018,3,397
+761,IMM,Immigration,2013,1,514
+829,VET,Veterans,2019,1,345
+812,ENG,Energy/Nuclear,2016,1,1321
+813,TOR,Torts,2024,3,55
+783,MON,Minting/Money/Gold Standard,2020,3,13
+762,AGR,Agriculture,2013,4,812
+768,APP,Apparel/Clothing Industry/Textiles,2012,1,19
+804,DOC,District of Columbia,2017,2,12
+780,BEV,Beverage Industry,2016,4,41
+774,AVI,Aviation/Aircraft/Airlines,2017,1,405
+799,ROD,Roads/Highway,2012,1,126
+805,SPO,Sports/Athletics,2011,4,30
+818,FIR,Firearms/Guns/Ammunition,2015,4,43
+821,TRU,Trucking/Shipping,2017,2,79
+805,SPO,Sports/Athletics,2024,3,91
+780,BEV,Beverage Industry,2019,2,44
+758,ADV,Advertising,2022,3,31
+802,DEF,Defense,2023,3,2206
+815,TRD,Trade (Domestic & Foreign),2014,2,1010
+823,URB,Urban Development/Municipalities,2010,1,223
+757,HOM,Homeland Security,2015,2,695
+813,TOR,Torts,2010,3,119
+759,HOU,Housing,2022,1,395
+773,MAN,Manufacturing,2020,1,219
+832,HCR,Health Issues,2010,4,2420
+756,ACC,Accounting,2021,1,63
+791,RRR,Railroads,2013,4,123
+815,TRD,Trade (Domestic & Foreign),2017,2,1159
+770,ART,Arts/Entertainment,2017,3,64
+825,UNM,Unemployment,2015,2,10
+771,LAW,Law Enforcement/Crime/Criminal Justice,2020,1,403
+823,URB,Urban Development/Municipalities,2013,1,187
+812,ENG,Energy/Nuclear,2012,3,1465
+758,ADV,Advertising,2023,2,33
+274245,TAR,Tariff Bills,2022,4,115
+766,ANI,Animals,2010,1,88
+785,NAT,Natural Resources,2022,3,805
+824,FOR,Foreign Relations,2015,4,347
+814,ENV,Environmental/Superfund,2018,3,925
+786,CIV,Civil Rights/Civil Liberties,2012,1,79
+810,EDU,Education,2010,2,1059
+781,MMM,Medicare/Medicaid,2012,4,1074
+824,FOR,Foreign Relations,2023,2,409
+793,RES,Real Estate/Land Use/Conservation,2019,4,144
+800,CPT,Copyright/Patent/Trademark,2017,3,466
+779,MED,Medical/Disease Research/Clinical Labs,2010,3,255
+815,TRD,Trade (Domestic & Foreign),2013,3,939
+813,TOR,Torts,2012,1,96
+825,UNM,Unemployment,2019,1,11
+814,ENV,Environmental/Superfund,2022,2,1164
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2018,1,261
+770,ART,Arts/Entertainment,2021,2,86
+760,AER,Aerospace,2024,1,216
+757,HOM,Homeland Security,2013,1,682
+810,EDU,Education,2014,1,868
+795,REL,Religion,2019,1,20
+824,FOR,Foreign Relations,2019,3,387
+809,TEC,Telecommunications,2024,3,718
+780,BEV,Beverage Industry,2020,4,44
+827,UTI,Utilities,2022,4,162
+790,CDT,Commodities (Big Ticket),2018,4,30
+783,MON,Minting/Money/Gold Standard,2022,3,9
+832,HCR,Health Issues,2013,1,2221
+789,POS,Postal,2012,2,152
+800,CPT,Copyright/Patent/Trademark,2013,4,646
+805,SPO,Sports/Athletics,2017,1,44
+781,MMM,Medicare/Medicaid,2020,2,1503
+760,AER,Aerospace,2024,4,198
+804,DOC,District of Columbia,2021,2,22
+761,IMM,Immigration,2020,3,616
+761,IMM,Immigration,2024,2,484
+773,MAN,Manufacturing,2021,3,411
+816,FAM,Family Issues/Abortion/Adoption,2022,2,95
+771,LAW,Law Enforcement/Crime/Criminal Justice,2012,3,334
+792,COM,Communications/Broadcasting/Radio/TV,2024,1,263
+770,ART,Arts/Entertainment,2016,4,56
+790,CDT,Commodities (Big Ticket),2019,3,33
+812,ENG,Energy/Nuclear,2016,2,1295
+795,REL,Religion,2018,2,20
+820,FIN,Financial Institutions/Investments/Securities,2012,1,852
+761,IMM,Immigration,2016,4,400
+776,BAN,Banking,2011,4,501
+802,DEF,Defense,2016,1,1350
+756,ACC,Accounting,2018,4,68
+801,SCI,Science/Technology,2013,2,385
+812,ENG,Energy/Nuclear,2020,1,1170
+781,MMM,Medicare/Medicaid,2016,3,1255
+817,TRA,Transportation,2018,1,1532
+768,APP,Apparel/Clothing Industry/Textiles,2022,1,31
+767,INT,Intelligence and Surveillance,2021,3,110
+759,HOU,Housing,2022,4,413
+825,UNM,Unemployment,2024,2,23
+833,WEL,Welfare,2013,2,43
+798,CON,Constitution,2022,3,51
+816,FAM,Family Issues/Abortion/Adoption,2015,3,69
+765,INS,Insurance,2014,4,381
+833,WEL,Welfare,2017,1,36
+806,DIS,Disaster Planning/Emergencies,2018,2,203
+828,GAM,Gaming/Gambling/Casino,2015,1,99
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2013,2,57
+792,COM,Communications/Broadcasting/Radio/TV,2012,4,249
+811,TOB,Tobacco,2012,4,70
+771,LAW,Law Enforcement/Crime/Criminal Justice,2023,4,421
+804,DOC,District of Columbia,2016,1,12
+801,SCI,Science/Technology,2014,4,350
+794,CPI,Computer Industry,2018,1,232
+767,INT,Intelligence and Surveillance,2012,3,58
+796,CSP,Consumer Issues/Safety/Protection,2020,2,436
+803,SMB,Small Business,2023,1,293
+782,BUD,Budget/Appropriations,2017,4,3433
+796,CSP,Consumer Issues/Safety/Protection,2024,1,522
+808,ECN,Economics/Economic Development,2021,2,401
+829,VET,Veterans,2010,2,199
+772,AUT,Automotive Industry,2016,4,119
+765,INS,Insurance,2010,2,318
+757,HOM,Homeland Security,2024,2,623
+784,CHM,Chemicals/Chemical Industry,2023,1,142
+787,PHA,Pharmacy,2014,3,215
+806,DIS,Disaster Planning/Emergencies,2022,1,334
+818,FIR,Firearms/Guns/Ammunition,2016,2,48
+802,DEF,Defense,2011,3,1589
+767,INT,Intelligence and Surveillance,2013,2,58
+762,AGR,Agriculture,2022,3,968
+784,CHM,Chemicals/Chemical Industry,2019,2,131
+821,TRU,Trucking/Shipping,2011,3,59
+777,MIA,Media (Information/Publishing),2016,3,27
+796,CSP,Consumer Issues/Safety/Protection,2016,3,374
+813,TOR,Torts,2015,4,68
+774,AVI,Aviation/Aircraft/Airlines,2022,4,431
+813,TOR,Torts,2019,3,55
+812,ENG,Energy/Nuclear,2011,1,1662
+818,FIR,Firearms/Guns/Ammunition,2024,3,50
+757,HOM,Homeland Security,2020,3,690
+787,PHA,Pharmacy,2010,4,172
+818,FIR,Firearms/Guns/Ammunition,2020,1,48
+823,URB,Urban Development/Municipalities,2022,4,229
+824,FOR,Foreign Relations,2012,1,349
+762,AGR,Agriculture,2018,4,985
+804,DOC,District of Columbia,2012,2,9
+833,WEL,Welfare,2012,3,45
+780,BEV,Beverage Industry,2011,4,48
+777,MIA,Media (Information/Publishing),2020,2,35
+801,SCI,Science/Technology,2018,3,391
+813,TOR,Torts,2023,2,47
+779,MED,Medical/Disease Research/Clinical Labs,2021,1,307
+791,RRR,Railroads,2021,2,128
+821,TRU,Trucking/Shipping,2019,1,84
+828,GAM,Gaming/Gambling/Casino,2015,4,108
+821,TRU,Trucking/Shipping,2015,2,75
+770,ART,Arts/Entertainment,2012,2,66
+760,AER,Aerospace,2017,2,134
+786,CIV,Civil Rights/Civil Liberties,2020,1,154
+767,INT,Intelligence and Surveillance,2017,1,96
+784,CHM,Chemicals/Chemical Industry,2015,3,160
+819,TOU,Travel/Tourism,2010,4,68
+791,RRR,Railroads,2017,3,125
+799,ROD,Roads/Highway,2013,2,93
+811,TOB,Tobacco,2017,2,94
+772,AUT,Automotive Industry,2020,3,150
+769,LBR,Labor Issues/Antitrust/Workplace,2022,2,1021
+782,BUD,Budget/Appropriations,2017,1,3270
+806,DIS,Disaster Planning/Emergencies,2022,4,275
+786,CIV,Civil Rights/Civil Liberties,2024,1,199
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2020,1,55
+794,CPI,Computer Industry,2013,4,169
+756,ACC,Accounting,2020,1,75
+787,PHA,Pharmacy,2019,4,273
+808,ECN,Economics/Economic Development,2016,1,266
+770,ART,Arts/Entertainment,2015,3,55
+793,RES,Real Estate/Land Use/Conservation,2021,1,136
+803,SMB,Small Business,2011,2,181
+815,TRD,Trade (Domestic & Foreign),2011,3,904
+781,MMM,Medicare/Medicaid,2017,4,1319
+784,CHM,Chemicals/Chemical Industry,2014,1,147
+794,CPI,Computer Industry,2017,3,232
+819,TOU,Travel/Tourism,2019,1,90
+801,SCI,Science/Technology,2010,4,415
+769,LBR,Labor Issues/Antitrust/Workplace,2015,2,627
+782,BUD,Budget/Appropriations,2017,2,3428
+795,REL,Religion,2017,1,20
+818,FIR,Firearms/Guns/Ammunition,2019,3,64
+783,MON,Minting/Money/Gold Standard,2013,1,15
+825,UNM,Unemployment,2024,4,20
+820,FIN,Financial Institutions/Investments/Securities,2013,2,769
+768,APP,Apparel/Clothing Industry/Textiles,2019,3,15
+807,TAX,Taxation/Internal Revenue Code,2012,4,2640
+782,BUD,Budget/Appropriations,2013,3,3243
+803,SMB,Small Business,2010,3,191
+769,LBR,Labor Issues/Antitrust/Workplace,2019,1,695
+813,TOR,Torts,2017,1,78
+757,HOM,Homeland Security,2018,1,717
+808,ECN,Economics/Economic Development,2012,2,295
+763,IND,Indian/Native American Affairs,2017,4,338
+770,ART,Arts/Entertainment,2019,2,55
+775,MAR,Marine/Maritime/Boating/Fisheries,2018,1,331
+788,CAW,Clean Air & Water (Quality),2014,4,434
+826,FUE,Fuel/Gas/Oil,2021,2,176
+795,REL,Religion,2017,4,20
+758,ADV,Advertising,2013,4,39
+784,CHM,Chemicals/Chemical Industry,2010,2,135
+832,HCR,Health Issues,2018,4,2630
+782,BUD,Budget/Appropriations,2021,1,4064
+756,ACC,Accounting,2024,3,78
+790,CDT,Commodities (Big Ticket),2013,1,45
+827,UTI,Utilities,2017,1,122
+788,CAW,Clean Air & Water (Quality),2018,3,407
+762,AGR,Agriculture,2022,1,904
+793,RES,Real Estate/Land Use/Conservation,2021,4,150
+780,BEV,Beverage Industry,2022,4,47
+789,POS,Postal,2013,3,132
+826,FUE,Fuel/Gas/Oil,2017,3,179
+811,TOB,Tobacco,2022,3,115
+789,POS,Postal,2018,1,111
+759,HOU,Housing,2013,2,323
+812,ENG,Energy/Nuclear,2021,2,1352
+770,ART,Arts/Entertainment,2011,4,69
+827,UTI,Utilities,2013,2,147
+802,DEF,Defense,2011,1,1612
+817,TRA,Transportation,2023,4,1768
+796,CSP,Consumer Issues/Safety/Protection,2013,3,324
+758,ADV,Advertising,2017,3,35
+781,MMM,Medicare/Medicaid,2021,3,1596
+774,AVI,Aviation/Aircraft/Airlines,2022,2,430
+769,LBR,Labor Issues/Antitrust/Workplace,2014,3,622
+771,LAW,Law Enforcement/Crime/Criminal Justice,2011,2,369
+826,FUE,Fuel/Gas/Oil,2013,4,201
+825,UNM,Unemployment,2020,2,62
+819,TOU,Travel/Tourism,2023,3,108
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2020,4,44
+833,WEL,Welfare,2019,1,54
+818,FIR,Firearms/Guns/Ammunition,2024,1,50
+757,HOM,Homeland Security,2022,3,652
+800,CPT,Copyright/Patent/Trademark,2023,2,393
+758,ADV,Advertising,2018,2,43
+811,TOB,Tobacco,2016,4,81
+811,TOB,Tobacco,2020,3,122
+274245,TAR,Tariff Bills,2015,1,60
+799,ROD,Roads/Highway,2019,3,97
+774,AVI,Aviation/Aircraft/Airlines,2017,2,434
+823,URB,Urban Development/Municipalities,2020,1,194
+807,TAX,Taxation/Internal Revenue Code,2015,2,2773
+764,ALC,Alcohol & Drug Abuse,2014,4,54
+830,GOV,Government Issues,2016,2,591
+773,MAN,Manufacturing,2010,1,138
+828,GAM,Gaming/Gambling/Casino,2010,2,115
+807,TAX,Taxation/Internal Revenue Code,2011,3,2348
+809,TEC,Telecommunications,2013,4,510
+799,ROD,Roads/Highway,2015,4,113
+833,WEL,Welfare,2024,1,58
+786,CIV,Civil Rights/Civil Liberties,2019,1,146
+828,GAM,Gaming/Gambling/Casino,2014,1,92
+801,SCI,Science/Technology,2024,1,826
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2015,1,54
+789,POS,Postal,2023,4,84
+830,GOV,Government Issues,2020,1,696
+770,ART,Arts/Entertainment,2010,3,88
+808,ECN,Economics/Economic Development,2021,4,405
+794,CPI,Computer Industry,2012,3,182
+800,CPT,Copyright/Patent/Trademark,2024,3,428
+798,CON,Constitution,2020,4,51
+760,AER,Aerospace,2017,1,118
+795,REL,Religion,2012,1,17
+809,TEC,Telecommunications,2017,3,603
+797,RET,Retirement,2010,3,229
+806,DIS,Disaster Planning/Emergencies,2016,3,133
+810,EDU,Education,2021,1,985
+772,AUT,Automotive Industry,2015,1,107
+813,TOR,Torts,2022,1,57
+763,IND,Indian/Native American Affairs,2012,4,303
+757,HOM,Homeland Security,2023,1,605
+784,CHM,Chemicals/Chemical Industry,2019,4,144
+769,LBR,Labor Issues/Antitrust/Workplace,2024,4,918
+819,TOU,Travel/Tourism,2014,4,70
+788,CAW,Clean Air & Water (Quality),2019,4,381
+817,TRA,Transportation,2011,1,1480
+777,MIA,Media (Information/Publishing),2022,1,37
+818,FIR,Firearms/Guns/Ammunition,2010,4,26
+762,AGR,Agriculture,2020,1,832
+823,URB,Urban Development/Municipalities,2024,3,271
+773,MAN,Manufacturing,2010,4,141
+819,TOU,Travel/Tourism,2010,2,71
+816,FAM,Family Issues/Abortion/Adoption,2011,3,58
+762,AGR,Agriculture,2016,2,695
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2010,3,73
+816,FAM,Family Issues/Abortion/Adoption,2015,2,65
+765,INS,Insurance,2018,4,332
+798,CON,Constitution,2024,3,49
+806,DIS,Disaster Planning/Emergencies,2020,2,533
+833,WEL,Welfare,2016,3,42
+767,INT,Intelligence and Surveillance,2024,4,110
+830,GOV,Government Issues,2020,4,738
+789,POS,Postal,2015,3,97
+788,CAW,Clean Air & Water (Quality),2023,3,422
+787,PHA,Pharmacy,2014,1,211
+776,BAN,Banking,2022,3,616
+796,CSP,Consumer Issues/Safety/Protection,2022,2,496
+805,SPO,Sports/Athletics,2010,1,46
+797,RET,Retirement,2014,2,266
+789,POS,Postal,2023,1,91
+785,NAT,Natural Resources,2015,3,641
+764,ALC,Alcohol & Drug Abuse,2023,1,66
+806,DIS,Disaster Planning/Emergencies,2021,1,444
+786,CIV,Civil Rights/Civil Liberties,2018,2,124
+833,WEL,Welfare,2020,2,56
+804,DOC,District of Columbia,2010,3,13
+796,CSP,Consumer Issues/Safety/Protection,2014,4,317
+808,ECN,Economics/Economic Development,2018,1,302
+793,RES,Real Estate/Land Use/Conservation,2017,2,143
+758,ADV,Advertising,2022,4,29
+817,TRA,Transportation,2015,3,1570
+810,EDU,Education,2016,3,934
+819,TOU,Travel/Tourism,2018,3,86
+776,BAN,Banking,2014,2,438
+803,SMB,Small Business,2013,4,155
+771,LAW,Law Enforcement/Crime/Criminal Justice,2010,1,423
+785,NAT,Natural Resources,2023,1,790
+764,ALC,Alcohol & Drug Abuse,2014,1,58
+825,UNM,Unemployment,2012,1,27
+805,SPO,Sports/Athletics,2022,1,83
+763,IND,Indian/Native American Affairs,2024,4,315
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2013,4,255
+764,ALC,Alcohol & Drug Abuse,2010,2,47
+824,FOR,Foreign Relations,2022,4,397
+792,COM,Communications/Broadcasting/Radio/TV,2022,1,270
+830,GOV,Government Issues,2012,3,539
+810,EDU,Education,2012,4,797
+812,ENG,Energy/Nuclear,2019,3,1157
+274245,TAR,Tariff Bills,2019,3,178
+766,ANI,Animals,2012,3,95
+795,REL,Religion,2020,2,21
+815,TRD,Trade (Domestic & Foreign),2010,2,796
+820,FIN,Financial Institutions/Investments/Securities,2015,2,778
+810,EDU,Education,2017,2,920
+769,LBR,Labor Issues/Antitrust/Workplace,2010,4,677
+809,TEC,Telecommunications,2021,2,800
+776,BAN,Banking,2010,3,545
+807,TAX,Taxation/Internal Revenue Code,2023,3,2729
+795,REL,Religion,2016,3,18
+785,NAT,Natural Resources,2019,2,711
+783,MON,Minting/Money/Gold Standard,2015,3,10
+761,IMM,Immigration,2021,1,588
+820,FIN,Financial Institutions/Investments/Securities,2011,3,852
+793,RES,Real Estate/Land Use/Conservation,2012,4,166
+773,MAN,Manufacturing,2022,4,443
+768,APP,Apparel/Clothing Industry/Textiles,2020,1,25
+829,VET,Veterans,2021,4,341
+807,TAX,Taxation/Internal Revenue Code,2019,4,2575
+758,ADV,Advertising,2022,1,30
+781,MMM,Medicare/Medicaid,2013,2,1131
+783,MON,Minting/Money/Gold Standard,2019,2,13
+786,CIV,Civil Rights/Civil Liberties,2010,4,98
+773,MAN,Manufacturing,2014,3,209
+786,CIV,Civil Rights/Civil Liberties,2014,3,98
+778,BNK,Bankruptcy,2021,1,30
+816,FAM,Family Issues/Abortion/Adoption,2024,4,85
+781,MMM,Medicare/Medicaid,2017,1,1261
+832,HCR,Health Issues,2016,2,2399
+800,CPT,Copyright/Patent/Trademark,2020,4,398
+827,UTI,Utilities,2019,3,150
+775,MAR,Marine/Maritime/Boating/Fisheries,2020,3,331
+761,IMM,Immigration,2017,2,528
+768,APP,Apparel/Clothing Industry/Textiles,2016,2,16
+791,RRR,Railroads,2012,1,128
+802,DEF,Defense,2019,2,1624
+802,DEF,Defense,2023,1,2117
+829,VET,Veterans,2022,3,385
+766,ANI,Animals,2017,1,106
+274245,TAR,Tariff Bills,2015,4,69
+801,SCI,Science/Technology,2010,1,408
+759,HOU,Housing,2012,4,323
+815,TRD,Trade (Domestic & Foreign),2014,4,988
+770,ART,Arts/Entertainment,2023,4,76
+761,IMM,Immigration,2013,3,712
+798,CON,Constitution,2012,3,33
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2013,1,236
+812,ENG,Energy/Nuclear,2023,2,1598
+819,TOU,Travel/Tourism,2022,2,115
+832,HCR,Health Issues,2020,1,2964
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2023,2,51
+783,MON,Minting/Money/Gold Standard,2020,1,8
+789,POS,Postal,2023,3,91
+759,HOU,Housing,2023,2,451
+766,ANI,Animals,2022,3,149
+786,CIV,Civil Rights/Civil Liberties,2012,3,85
+804,DOC,District of Columbia,2023,1,13
+785,NAT,Natural Resources,2022,1,745
+756,ACC,Accounting,2012,2,48
+827,UTI,Utilities,2023,2,176
+804,DOC,District of Columbia,2015,3,13
+777,MIA,Media (Information/Publishing),2024,4,42
+784,CHM,Chemicals/Chemical Industry,2022,3,146
+823,URB,Urban Development/Municipalities,2015,4,141
+274245,TAR,Tariff Bills,2020,1,158
+817,TRA,Transportation,2013,4,1246
+817,TRA,Transportation,2017,3,1492
+815,TRD,Trade (Domestic & Foreign),2023,4,1390
+796,CSP,Consumer Issues/Safety/Protection,2023,3,516
+809,TEC,Telecommunications,2024,1,722
+810,EDU,Education,2014,3,888
+761,IMM,Immigration,2011,1,295
+786,CIV,Civil Rights/Civil Liberties,2016,2,103
+804,DOC,District of Columbia,2019,2,13
+771,LAW,Law Enforcement/Crime/Criminal Justice,2021,2,471
+829,VET,Veterans,2014,4,268
+785,NAT,Natural Resources,2021,2,750
+765,INS,Insurance,2018,3,337
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2010,4,67
+781,MMM,Medicare/Medicaid,2010,1,1161
+760,AER,Aerospace,2024,2,213
+784,CHM,Chemicals/Chemical Industry,2018,4,122
+779,MED,Medical/Disease Research/Clinical Labs,2014,1,205
+766,ANI,Animals,2018,1,115
+774,AVI,Aviation/Aircraft/Airlines,2010,1,352
+766,ANI,Animals,2014,2,120
+274245,TAR,Tariff Bills,2011,4,69
+811,TOB,Tobacco,2014,1,77
+830,GOV,Government Issues,2018,1,681
+785,NAT,Natural Resources,2017,3,693
+829,VET,Veterans,2018,3,369
+821,TRU,Trucking/Shipping,2019,4,81
+760,AER,Aerospace,2020,3,160
+773,MAN,Manufacturing,2011,2,161
+780,BEV,Beverage Industry,2010,3,48
+825,UNM,Unemployment,2011,1,20
+829,VET,Veterans,2022,2,367
+798,CON,Constitution,2018,4,57
+778,BNK,Bankruptcy,2019,1,30
+772,AUT,Automotive Industry,2023,4,207
+811,TOB,Tobacco,2010,2,84
+824,FOR,Foreign Relations,2011,3,338
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2023,1,266
+762,AGR,Agriculture,2010,3,703
+773,MAN,Manufacturing,2010,3,169
+791,RRR,Railroads,2023,2,151
+809,TEC,Telecommunications,2019,3,771
+821,TRU,Trucking/Shipping,2023,3,94
+763,IND,Indian/Native American Affairs,2010,1,306
+828,GAM,Gaming/Gambling/Casino,2022,4,79
+790,CDT,Commodities (Big Ticket),2023,4,35
+778,BNK,Bankruptcy,2023,3,32
+761,IMM,Immigration,2015,3,446
+761,IMM,Immigration,2019,2,667
+799,ROD,Roads/Highway,2015,2,116
+833,WEL,Welfare,2021,3,62
+765,INS,Insurance,2023,1,312
+791,RRR,Railroads,2019,3,122
+816,FAM,Family Issues/Abortion/Adoption,2017,2,55
+803,SMB,Small Business,2016,4,159
+772,AUT,Automotive Industry,2019,2,145
+777,MIA,Media (Information/Publishing),2024,1,45
+792,COM,Communications/Broadcasting/Radio/TV,2019,1,270
+764,ALC,Alcohol & Drug Abuse,2023,3,55
+815,TRD,Trade (Domestic & Foreign),2023,1,1352
+765,INS,Insurance,2019,2,356
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2019,2,235
+809,TEC,Telecommunications,2024,4,672
+827,UTI,Utilities,2017,4,137
+768,APP,Apparel/Clothing Industry/Textiles,2015,1,19
+797,RET,Retirement,2016,4,237
+803,SMB,Small Business,2023,2,289
+767,INT,Intelligence and Surveillance,2012,4,51
+780,BEV,Beverage Industry,2022,1,52
+830,GOV,Government Issues,2013,1,499
+788,CAW,Clean Air & Water (Quality),2014,1,462
+816,FAM,Family Issues/Abortion/Adoption,2019,4,59
+829,VET,Veterans,2016,1,315
+779,MED,Medical/Disease Research/Clinical Labs,2013,1,200
+827,UTI,Utilities,2021,3,158
+806,DIS,Disaster Planning/Emergencies,2014,4,134
+809,TEC,Telecommunications,2020,4,770
+772,AUT,Automotive Industry,2019,3,144
+791,RRR,Railroads,2017,1,133
+783,MON,Minting/Money/Gold Standard,2021,2,9
+768,APP,Apparel/Clothing Industry/Textiles,2011,2,20
+761,IMM,Immigration,2012,2,331
+785,NAT,Natural Resources,2010,3,526
+789,POS,Postal,2021,4,113
+766,ANI,Animals,2022,1,140
+761,IMM,Immigration,2011,3,324
+274245,TAR,Tariff Bills,2010,4,121
+788,CAW,Clean Air & Water (Quality),2010,2,556
+798,CON,Constitution,2013,4,38
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2022,3,266
+799,ROD,Roads/Highway,2011,2,124
+759,HOU,Housing,2017,4,314
+780,BEV,Beverage Industry,2018,2,38
+805,SPO,Sports/Athletics,2013,2,34
+803,SMB,Small Business,2019,3,172
+797,RET,Retirement,2020,3,279
+803,SMB,Small Business,2015,4,162
+798,CON,Constitution,2017,3,52
+777,MIA,Media (Information/Publishing),2020,1,37
+821,TRU,Trucking/Shipping,2021,1,75
+780,BEV,Beverage Industry,2014,3,37
+830,GOV,Government Issues,2021,2,761
+816,FAM,Family Issues/Abortion/Adoption,2023,3,87
+789,POS,Postal,2022,3,108
+792,COM,Communications/Broadcasting/Radio/TV,2017,4,260
+803,SMB,Small Business,2015,1,155
+812,ENG,Energy/Nuclear,2013,4,1363
+762,AGR,Agriculture,2010,1,693
+833,WEL,Welfare,2019,4,53
+806,DIS,Disaster Planning/Emergencies,2010,2,158
+810,EDU,Education,2018,3,964
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2018,4,244
+759,HOU,Housing,2021,3,425
+797,RET,Retirement,2021,2,263
+798,CON,Constitution,2018,2,60
+786,CIV,Civil Rights/Civil Liberties,2020,2,169
+801,SCI,Science/Technology,2022,4,694
+791,RRR,Railroads,2017,4,122
+830,GOV,Government Issues,2017,3,683
+792,COM,Communications/Broadcasting/Radio/TV,2021,3,281
+815,TRD,Trade (Domestic & Foreign),2015,2,1300
+830,GOV,Government Issues,2013,4,555
+810,EDU,Education,2022,2,1113
+784,CHM,Chemicals/Chemical Industry,2024,2,157
+798,CON,Constitution,2022,1,60
+804,DOC,District of Columbia,2018,4,5
+833,WEL,Welfare,2023,3,54
+806,DIS,Disaster Planning/Emergencies,2014,1,126
+785,NAT,Natural Resources,2018,4,722
+797,RET,Retirement,2012,2,260
+779,MED,Medical/Disease Research/Clinical Labs,2012,2,237
+768,APP,Apparel/Clothing Industry/Textiles,2015,4,17
+815,TRD,Trade (Domestic & Foreign),2024,2,1417
+824,FOR,Foreign Relations,2017,1,323
+772,AUT,Automotive Industry,2023,2,199
+828,GAM,Gaming/Gambling/Casino,2022,2,83
+832,HCR,Health Issues,2010,3,2531
+794,CPI,Computer Industry,2010,3,153
+793,RES,Real Estate/Land Use/Conservation,2024,2,160
+760,AER,Aerospace,2013,3,108
+828,GAM,Gaming/Gambling/Casino,2019,3,99
+782,BUD,Budget/Appropriations,2013,2,3295
+770,ART,Arts/Entertainment,2016,1,55
+777,MIA,Media (Information/Publishing),2012,4,33
+794,CPI,Computer Industry,2014,2,170
+816,FAM,Family Issues/Abortion/Adoption,2011,1,59
+764,ALC,Alcohol & Drug Abuse,2024,4,57
+789,POS,Postal,2019,4,102
+830,GOV,Government Issues,2019,3,647
+809,TEC,Telecommunications,2010,3,552
+799,ROD,Roads/Highway,2012,3,110
+826,FUE,Fuel/Gas/Oil,2018,1,183
+760,AER,Aerospace,2012,4,113
+833,WEL,Welfare,2014,1,42
+810,EDU,Education,2023,3,1103
+769,LBR,Labor Issues/Antitrust/Workplace,2021,3,1001
+816,FAM,Family Issues/Abortion/Adoption,2010,2,72
+819,TOU,Travel/Tourism,2011,3,68
+826,FUE,Fuel/Gas/Oil,2014,2,199
+782,BUD,Budget/Appropriations,2014,1,3249
+792,COM,Communications/Broadcasting/Radio/TV,2012,1,265
+781,MMM,Medicare/Medicaid,2024,4,1487
+764,ALC,Alcohol & Drug Abuse,2021,1,69
+789,POS,Postal,2020,3,115
+791,RRR,Railroads,2022,4,146
+828,GAM,Gaming/Gambling/Casino,2016,3,94
+828,GAM,Gaming/Gambling/Casino,2021,1,83
+801,SCI,Science/Technology,2017,1,369
+830,GOV,Government Issues,2018,4,693
+779,MED,Medical/Disease Research/Clinical Labs,2018,4,246
+794,CPI,Computer Industry,2015,4,215
+804,DOC,District of Columbia,2013,4,7
+785,NAT,Natural Resources,2012,2,593
+799,ROD,Roads/Highway,2020,1,102
+826,FUE,Fuel/Gas/Oil,2010,3,185
+769,LBR,Labor Issues/Antitrust/Workplace,2017,4,691
+794,CPI,Computer Industry,2019,3,278
+774,AVI,Aviation/Aircraft/Airlines,2019,1,397
+811,TOB,Tobacco,2018,1,97
+809,TEC,Telecommunications,2014,2,571
+806,DIS,Disaster Planning/Emergencies,2023,3,261
+820,FIN,Financial Institutions/Investments/Securities,2021,3,924
+802,DEF,Defense,2012,2,1510
+762,AGR,Agriculture,2023,2,1219
+823,URB,Urban Development/Municipalities,2021,2,214
+818,FIR,Firearms/Guns/Ammunition,2017,1,41
+825,UNM,Unemployment,2023,3,24
+767,INT,Intelligence and Surveillance,2017,4,100
+789,POS,Postal,2016,1,97
+816,FAM,Family Issues/Abortion/Adoption,2014,4,56
+820,FIN,Financial Institutions/Investments/Securities,2022,2,1017
+775,MAR,Marine/Maritime/Boating/Fisheries,2010,3,308
+786,CIV,Civil Rights/Civil Liberties,2017,4,114
+758,ADV,Advertising,2011,2,71
+762,AGR,Agriculture,2019,3,842
+765,INS,Insurance,2015,3,302
+791,RRR,Railroads,2022,1,124
+814,ENV,Environmental/Superfund,2010,2,1219
+777,MIA,Media (Information/Publishing),2011,2,37
+767,INT,Intelligence and Surveillance,2018,3,109
+786,CIV,Civil Rights/Civil Liberties,2021,3,250
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2016,2,49
+796,CSP,Consumer Issues/Safety/Protection,2021,4,445
+803,SMB,Small Business,2024,3,286
+821,TRU,Trucking/Shipping,2016,4,60
+760,AER,Aerospace,2012,1,113
+797,RET,Retirement,2011,1,192
+813,TOR,Torts,2024,4,48
+803,SMB,Small Business,2020,4,507
+771,LAW,Law Enforcement/Crime/Criminal Justice,2016,2,365
+792,COM,Communications/Broadcasting/Radio/TV,2020,2,281
+788,CAW,Clean Air & Water (Quality),2012,4,460
+759,HOU,Housing,2019,4,360
+773,MAN,Manufacturing,2017,4,190
+825,UNM,Unemployment,2011,3,26
+803,SMB,Small Business,2020,1,395
+756,ACC,Accounting,2018,1,75
+793,RES,Real Estate/Land Use/Conservation,2015,2,121
+768,APP,Apparel/Clothing Industry/Textiles,2018,2,18
+771,LAW,Law Enforcement/Crime/Criminal Justice,2020,4,440
+781,MMM,Medicare/Medicaid,2012,1,1121
+793,RES,Real Estate/Land Use/Conservation,2019,1,130
+791,RRR,Railroads,2010,1,146
+829,VET,Veterans,2020,3,360
+792,COM,Communications/Broadcasting/Radio/TV,2016,3,254
+793,RES,Real Estate/Land Use/Conservation,2011,3,131
+827,UTI,Utilities,2014,3,131
+790,CDT,Commodities (Big Ticket),2010,3,67
+802,DEF,Defense,2024,2,2395
+803,SMB,Small Business,2016,2,180
+808,ECN,Economics/Economic Development,2011,1,255
+769,LBR,Labor Issues/Antitrust/Workplace,2017,1,684
+828,GAM,Gaming/Gambling/Casino,2024,4,86
+778,BNK,Bankruptcy,2014,1,29
+759,HOU,Housing,2010,4,299
+756,ACC,Accounting,2010,3,41
+824,FOR,Foreign Relations,2015,1,343
+782,BUD,Budget/Appropriations,2022,2,4797
+817,TRA,Transportation,2017,2,1454
+766,ANI,Animals,2010,4,83
+783,MON,Minting/Money/Gold Standard,2018,1,10
+778,BNK,Bankruptcy,2010,2,64
+759,HOU,Housing,2014,3,322
+775,MAR,Marine/Maritime/Boating/Fisheries,2023,4,355
+780,BEV,Beverage Industry,2024,3,49
+768,APP,Apparel/Clothing Industry/Textiles,2017,3,16
+829,VET,Veterans,2024,2,431
+803,SMB,Small Business,2012,3,183
+792,COM,Communications/Broadcasting/Radio/TV,2015,4,261
+764,ALC,Alcohol & Drug Abuse,2012,2,48
+768,APP,Apparel/Clothing Industry/Textiles,2013,4,23
+795,REL,Religion,2022,4,14
+779,MED,Medical/Disease Research/Clinical Labs,2014,2,207
+800,CPT,Copyright/Patent/Trademark,2013,1,415
+766,ANI,Animals,2014,3,115
+778,BNK,Bankruptcy,2018,3,37
+758,ADV,Advertising,2015,4,41
+810,EDU,Education,2014,4,836
+757,HOM,Homeland Security,2012,2,675
+778,BNK,Bankruptcy,2014,4,32
+832,HCR,Health Issues,2013,4,2243
+763,IND,Indian/Native American Affairs,2019,4,307
+817,TRA,Transportation,2021,4,1893
+759,HOU,Housing,2015,2,270
+827,UTI,Utilities,2022,1,165
+780,BEV,Beverage Industry,2020,1,43
+783,MON,Minting/Money/Gold Standard,2018,4,11
+792,COM,Communications/Broadcasting/Radio/TV,2024,4,248
+791,RRR,Railroads,2014,3,139
+805,SPO,Sports/Athletics,2017,4,42
+826,FUE,Fuel/Gas/Oil,2022,3,192
+769,LBR,Labor Issues/Antitrust/Workplace,2013,2,583
+790,CDT,Commodities (Big Ticket),2015,1,49
+794,CPI,Computer Industry,2023,2,387
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2014,2,271
+791,RRR,Railroads,2010,4,135
+274245,TAR,Tariff Bills,2022,1,125
+802,DEF,Defense,2016,4,1323
+759,HOU,Housing,2019,1,351
+788,CAW,Clean Air & Water (Quality),2012,1,478
+827,UTI,Utilities,2018,2,148
+780,BEV,Beverage Industry,2016,2,44
+763,IND,Indian/Native American Affairs,2023,3,313
+799,ROD,Roads/Highway,2015,1,119
+801,SCI,Science/Technology,2020,2,489
+823,URB,Urban Development/Municipalities,2020,4,189
+774,AVI,Aviation/Aircraft/Airlines,2021,4,422
+796,CSP,Consumer Issues/Safety/Protection,2018,3,374
+820,FIN,Financial Institutions/Investments/Securities,2019,1,813
+777,MIA,Media (Information/Publishing),2018,2,26
+797,RET,Retirement,2018,1,268
+789,POS,Postal,2019,2,99
+804,DOC,District of Columbia,2014,2,8
+785,NAT,Natural Resources,2011,4,543
+776,BAN,Banking,2018,4,486
+769,LBR,Labor Issues/Antitrust/Workplace,2023,3,996
+786,CIV,Civil Rights/Civil Liberties,2024,4,182
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2024,3,55
+814,ENV,Environmental/Superfund,2013,3,932
+801,SCI,Science/Technology,2022,1,684
+776,BAN,Banking,2012,2,502
+787,PHA,Pharmacy,2024,2,277
+808,ECN,Economics/Economic Development,2016,4,256
+757,HOM,Homeland Security,2018,4,688
+763,IND,Indian/Native American Affairs,2017,1,317
+800,CPT,Copyright/Patent/Trademark,2019,3,452
+824,FOR,Foreign Relations,2021,3,385
+775,MAR,Marine/Maritime/Boating/Fisheries,2018,4,333
+809,TEC,Telecommunications,2012,3,555
+814,ENV,Environmental/Superfund,2017,2,934
+776,BAN,Banking,2021,2,594
+788,CAW,Clean Air & Water (Quality),2022,2,420
+819,TOU,Travel/Tourism,2019,4,88
+813,TOR,Torts,2017,4,84
+806,DIS,Disaster Planning/Emergencies,2018,3,204
+821,TRU,Trucking/Shipping,2013,3,50
+772,AUT,Automotive Industry,2015,3,113
+829,VET,Veterans,2014,1,264
+780,BEV,Beverage Industry,2018,1,40
+274245,TAR,Tariff Bills,2020,4,141
+798,CON,Constitution,2010,3,54
+802,DEF,Defense,2021,4,1869
+761,IMM,Immigration,2011,4,315
+785,NAT,Natural Resources,2013,4,602
+799,ROD,Roads/Highway,2014,3,115
+806,DIS,Disaster Planning/Emergencies,2010,4,124
+780,BEV,Beverage Industry,2014,2,39
+817,TRA,Transportation,2013,1,1281
+815,TRD,Trade (Domestic & Foreign),2019,2,1674
+823,URB,Urban Development/Municipalities,2015,1,148
+788,CAW,Clean Air & Water (Quality),2010,1,551
+779,MED,Medical/Disease Research/Clinical Labs,2014,4,228
+792,COM,Communications/Broadcasting/Radio/TV,2015,2,276
+767,INT,Intelligence and Surveillance,2010,4,48
+773,MAN,Manufacturing,2015,1,195
+816,FAM,Family Issues/Abortion/Adoption,2013,3,53
+791,RRR,Railroads,2018,4,124
+823,URB,Urban Development/Municipalities,2011,2,183
+806,DIS,Disaster Planning/Emergencies,2010,1,149
+799,ROD,Roads/Highway,2010,4,121
+797,RET,Retirement,2018,3,272
+828,GAM,Gaming/Gambling/Casino,2022,1,80
+810,EDU,Education,2018,2,999
+768,APP,Apparel/Clothing Industry/Textiles,2013,2,24
+798,CON,Constitution,2014,2,48
+814,ENV,Environmental/Superfund,2022,4,1141
+816,FAM,Family Issues/Abortion/Adoption,2021,4,88
+827,UTI,Utilities,2022,3,159
+798,CON,Constitution,2018,1,50
+797,RET,Retirement,2014,4,250
+796,CSP,Consumer Issues/Safety/Protection,2022,4,493
+791,RRR,Railroads,2015,1,145
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2010,1,81
+828,GAM,Gaming/Gambling/Casino,2018,2,96
+792,COM,Communications/Broadcasting/Radio/TV,2011,3,286
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2014,4,263
+774,AVI,Aviation/Aircraft/Airlines,2010,4,319
+811,TOB,Tobacco,2014,4,70
+805,SPO,Sports/Athletics,2010,3,34
+779,MED,Medical/Disease Research/Clinical Labs,2018,3,254
+775,MAR,Marine/Maritime/Boating/Fisheries,2010,2,297
+767,INT,Intelligence and Surveillance,2014,3,83
+793,RES,Real Estate/Land Use/Conservation,2011,1,132
+767,INT,Intelligence and Surveillance,2018,2,109
+803,SMB,Small Business,2024,2,289
+774,AVI,Aviation/Aircraft/Airlines,2014,3,311
+805,SPO,Sports/Athletics,2018,1,46
+790,CDT,Commodities (Big Ticket),2019,2,35
+797,RET,Retirement,2022,2,260
+810,EDU,Education,2022,1,1089
+830,GOV,Government Issues,2013,3,556
+787,PHA,Pharmacy,2012,4,195
+759,HOU,Housing,2019,3,362
+779,MED,Medical/Disease Research/Clinical Labs,2022,2,320
+803,SMB,Small Business,2020,3,530
+805,SPO,Sports/Athletics,2014,2,40
+772,AUT,Automotive Industry,2023,1,199
+766,ANI,Animals,2018,4,129
+818,FIR,Firearms/Guns/Ammunition,2012,3,28
+804,DOC,District of Columbia,2014,4,8
+774,AVI,Aviation/Aircraft/Airlines,2015,2,351
+767,INT,Intelligence and Surveillance,2019,1,99
+780,BEV,Beverage Industry,2015,4,47
+785,NAT,Natural Resources,2016,1,649
+810,EDU,Education,2019,4,941
+762,AGR,Agriculture,2015,1,637
+766,ANI,Animals,2019,3,133
+795,REL,Religion,2024,4,16
+795,REL,Religion,2024,1,13
+827,UTI,Utilities,2015,4,131
+804,DOC,District of Columbia,2024,3,11
+804,DOC,District of Columbia,2017,3,14
+775,MAR,Marine/Maritime/Boating/Fisheries,2014,2,296
+814,ENV,Environmental/Superfund,2014,1,954
+779,MED,Medical/Disease Research/Clinical Labs,2022,3,320
+777,MIA,Media (Information/Publishing),2015,1,28
+758,ADV,Advertising,2015,1,51
+772,AUT,Automotive Industry,2013,1,99
+765,INS,Insurance,2011,4,275
+815,TRD,Trade (Domestic & Foreign),2021,4,1421
+823,URB,Urban Development/Municipalities,2017,3,165
+816,FAM,Family Issues/Abortion/Adoption,2018,3,59
+782,BUD,Budget/Appropriations,2014,4,3055
+787,PHA,Pharmacy,2015,2,208
+767,INT,Intelligence and Surveillance,2022,2,114
+780,BEV,Beverage Industry,2012,3,44
+801,SCI,Science/Technology,2021,3,650
+794,CPI,Computer Industry,2011,2,157
+808,ECN,Economics/Economic Development,2024,2,421
+806,DIS,Disaster Planning/Emergencies,2015,2,142
+794,CPI,Computer Industry,2015,1,185
+757,HOM,Homeland Security,2021,2,649
+787,PHA,Pharmacy,2011,3,190
+798,CON,Constitution,2023,2,50
+801,SCI,Science/Technology,2017,4,363
+759,HOU,Housing,2023,3,447
+823,URB,Urban Development/Municipalities,2013,4,156
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2012,3,66
+796,CSP,Consumer Issues/Safety/Protection,2017,2,341
+804,DOC,District of Columbia,2013,1,8
+832,HCR,Health Issues,2022,3,3313
+771,LAW,Law Enforcement/Crime/Criminal Justice,2024,3,445
+818,FIR,Firearms/Guns/Ammunition,2021,3,60
+833,WEL,Welfare,2018,3,47
+757,HOM,Homeland Security,2016,4,634
+806,DIS,Disaster Planning/Emergencies,2019,1,205
+781,MMM,Medicare/Medicaid,2024,1,1531
+787,PHA,Pharmacy,2016,1,221
+825,UNM,Unemployment,2019,4,11
+808,ECN,Economics/Economic Development,2020,3,472
+784,CHM,Chemicals/Chemical Industry,2022,2,145
+782,BUD,Budget/Appropriations,2018,3,3445
+791,RRR,Railroads,2018,2,124
+762,AGR,Agriculture,2015,4,650
+774,AVI,Aviation/Aircraft/Airlines,2019,4,417
+818,FIR,Firearms/Guns/Ammunition,2017,4,47
+784,CHM,Chemicals/Chemical Industry,2018,3,129
+821,TRU,Trucking/Shipping,2012,2,60
+772,AUT,Automotive Industry,2021,2,186
+767,INT,Intelligence and Surveillance,2014,1,76
+811,TOB,Tobacco,2014,2,78
+797,RET,Retirement,2011,4,227
+809,TEC,Telecommunications,2015,1,547
+779,MED,Medical/Disease Research/Clinical Labs,2018,1,263
+829,VET,Veterans,2011,1,185
+793,RES,Real Estate/Land Use/Conservation,2023,3,171
+806,DIS,Disaster Planning/Emergencies,2019,4,200
+813,TOR,Torts,2016,3,73
+774,AVI,Aviation/Aircraft/Airlines,2023,3,572
+777,MIA,Media (Information/Publishing),2019,3,27
+760,AER,Aerospace,2020,2,168
+813,TOR,Torts,2024,1,51
+807,TAX,Taxation/Internal Revenue Code,2012,1,2427
+811,TOB,Tobacco,2013,3,78
+789,POS,Postal,2016,4,95
+816,FAM,Family Issues/Abortion/Adoption,2014,1,54
+782,BUD,Budget/Appropriations,2010,2,5018
+770,ART,Arts/Entertainment,2013,1,56
+799,ROD,Roads/Highway,2016,2,105
+772,AUT,Automotive Industry,2013,4,98
+765,INS,Insurance,2011,1,287
+763,IND,Indian/Native American Affairs,2013,2,294
+830,GOV,Government Issues,2023,2,683
+762,AGR,Agriculture,2011,2,676
+765,INS,Insurance,2023,4,323
+804,DOC,District of Columbia,2016,2,16
+759,HOU,Housing,2020,2,372
+817,TRA,Transportation,2016,4,1346
+796,CSP,Consumer Issues/Safety/Protection,2024,2,545
+809,TEC,Telecommunications,2023,2,731
+773,MAN,Manufacturing,2016,3,180
+808,ECN,Economics/Economic Development,2023,4,398
+805,SPO,Sports/Athletics,2015,1,46
+797,RET,Retirement,2019,2,295
+827,UTI,Utilities,2024,1,166
+790,CDT,Commodities (Big Ticket),2020,1,32
+760,AER,Aerospace,2015,2,118
+274245,TAR,Tariff Bills,2017,1,71
+812,ENG,Energy/Nuclear,2011,2,1668
+796,CSP,Consumer Issues/Safety/Protection,2019,4,450
+786,CIV,Civil Rights/Civil Liberties,2013,2,88
+759,HOU,Housing,2024,1,477
+811,TOB,Tobacco,2011,4,75
+811,TOB,Tobacco,2015,3,75
+758,ADV,Advertising,2024,3,36
+766,ANI,Animals,2023,2,150
+797,RET,Retirement,2023,1,236
+789,POS,Postal,2024,2,88
+274245,TAR,Tariff Bills,2013,2,118
+829,VET,Veterans,2011,4,200
+825,UNM,Unemployment,2010,2,30
+809,TEC,Telecommunications,2018,4,694
+761,IMM,Immigration,2010,2,315
+784,CHM,Chemicals/Chemical Industry,2021,4,132
+761,IMM,Immigration,2014,1,591
+274245,TAR,Tariff Bills,2021,3,128
+802,DEF,Defense,2022,3,2037
+274245,TAR,Tariff Bills,2017,4,102
+829,VET,Veterans,2015,3,315
+766,ANI,Animals,2015,1,110
+772,AUT,Automotive Industry,2024,3,203
+823,URB,Urban Development/Municipalities,2018,4,182
+814,ENV,Environmental/Superfund,2023,3,1185
+771,LAW,Law Enforcement/Crime/Criminal Justice,2022,4,409
+824,FOR,Foreign Relations,2010,4,325
+830,GOV,Government Issues,2015,1,506
+828,GAM,Gaming/Gambling/Casino,2019,4,94
+765,INS,Insurance,2024,3,327
+792,COM,Communications/Broadcasting/Radio/TV,2010,1,307
+798,CON,Constitution,2015,4,41
+804,DOC,District of Columbia,2020,1,15
+791,RRR,Railroads,2020,2,121
+760,AER,Aerospace,2023,3,205
+806,DIS,Disaster Planning/Emergencies,2011,3,135
+773,MAN,Manufacturing,2020,2,273
+816,FAM,Family Issues/Abortion/Adoption,2021,1,65
+829,VET,Veterans,2019,2,369
+824,FOR,Foreign Relations,2014,3,335
+772,AUT,Automotive Industry,2020,4,146
+817,TRA,Transportation,2016,1,1457
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2020,1,240
+765,INS,Insurance,2020,1,336
+791,RRR,Railroads,2016,3,134
+772,AUT,Automotive Industry,2016,2,119
+779,MED,Medical/Disease Research/Clinical Labs,2019,2,268
+805,SPO,Sports/Athletics,2015,4,41
+816,FAM,Family Issues/Abortion/Adoption,2016,3,69
+821,TRU,Trucking/Shipping,2020,3,82
+760,AER,Aerospace,2019,4,145
+797,RET,Retirement,2023,4,235
+778,BNK,Bankruptcy,2019,4,35
+816,FAM,Family Issues/Abortion/Adoption,2020,2,64
+798,CON,Constitution,2019,3,62
+820,FIN,Financial Institutions/Investments/Securities,2024,4,1036
+779,MED,Medical/Disease Research/Clinical Labs,2023,1,286
+780,BEV,Beverage Industry,2015,1,41
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2016,2,308
+821,TRU,Trucking/Shipping,2024,2,86
+790,CDT,Commodities (Big Ticket),2020,4,31
+774,AVI,Aviation/Aircraft/Airlines,2014,4,303
+756,ACC,Accounting,2011,1,36
+784,CHM,Chemicals/Chemical Industry,2023,3,150
+824,FOR,Foreign Relations,2012,3,336
+762,AGR,Agriculture,2018,2,978
+829,VET,Veterans,2016,4,293
+823,URB,Urban Development/Municipalities,2016,2,157
+807,TAX,Taxation/Internal Revenue Code,2024,4,2935
+756,ACC,Accounting,2011,4,39
+809,TEC,Telecommunications,2020,1,780
+790,CDT,Commodities (Big Ticket),2023,2,40
+765,INS,Insurance,2013,4,338
+766,ANI,Animals,2022,4,149
+767,INT,Intelligence and Surveillance,2012,1,48
+777,MIA,Media (Information/Publishing),2024,3,48
+786,CIV,Civil Rights/Civil Liberties,2012,4,79
+774,AVI,Aviation/Aircraft/Airlines,2018,3,456
+811,TOB,Tobacco,2012,2,82
+800,CPT,Copyright/Patent/Trademark,2015,1,642
+762,AGR,Agriculture,2014,3,670
+816,FAM,Family Issues/Abortion/Adoption,2019,1,56
+823,URB,Urban Development/Municipalities,2015,3,146
+824,FOR,Foreign Relations,2013,2,329
+800,CPT,Copyright/Patent/Trademark,2014,2,648
+786,CIV,Civil Rights/Civil Liberties,2016,3,104
+815,TRD,Trade (Domestic & Foreign),2019,4,1750
+817,TRA,Transportation,2013,3,1290
+815,TRD,Trade (Domestic & Foreign),2023,3,1422
+274245,TAR,Tariff Bills,2010,1,151
+821,TRU,Trucking/Shipping,2021,4,92
+760,AER,Aerospace,2021,3,171
+804,DOC,District of Columbia,2022,3,13
+779,MED,Medical/Disease Research/Clinical Labs,2017,3,257
+759,HOU,Housing,2017,1,278
+756,ACC,Accounting,2016,2,58
+777,MIA,Media (Information/Publishing),2020,4,38
+774,AVI,Aviation/Aircraft/Airlines,2010,2,349
+794,CPI,Computer Industry,2013,1,176
+787,PHA,Pharmacy,2010,2,178
+760,AER,Aerospace,2017,4,132
+785,NAT,Natural Resources,2018,1,716
+780,BEV,Beverage Industry,2013,4,40
+824,FOR,Foreign Relations,2017,4,358
+771,LAW,Law Enforcement/Crime/Criminal Justice,2015,4,329
+792,COM,Communications/Broadcasting/Radio/TV,2017,1,248
+800,CPT,Copyright/Patent/Trademark,2010,3,534
+823,URB,Urban Development/Municipalities,2011,4,173
+274245,TAR,Tariff Bills,2014,3,84
+818,FIR,Firearms/Guns/Ammunition,2011,2,31
+804,DOC,District of Columbia,2018,1,9
+773,MAN,Manufacturing,2013,2,182
+771,LAW,Law Enforcement/Crime/Criminal Justice,2019,3,406
+778,BNK,Bankruptcy,2022,2,35
+792,COM,Communications/Broadcasting/Radio/TV,2013,2,251
+829,VET,Veterans,2012,2,224
+765,INS,Insurance,2017,3,332
+756,ACC,Accounting,2015,3,54
+779,MED,Medical/Disease Research/Clinical Labs,2016,4,261
+809,TEC,Telecommunications,2016,2,581
+818,FIR,Firearms/Guns/Ammunition,2015,1,41
+795,REL,Religion,2021,3,17
+766,ANI,Animals,2018,2,129
+771,LAW,Law Enforcement/Crime/Criminal Justice,2023,2,397
+765,INS,Insurance,2021,2,335
+785,NAT,Natural Resources,2014,2,611
+774,AVI,Aviation/Aircraft/Airlines,2014,1,305
+773,MAN,Manufacturing,2017,1,184
+812,ENG,Energy/Nuclear,2013,1,1381
+811,TOB,Tobacco,2016,1,77
+791,RRR,Railroads,2013,2,115
+761,IMM,Immigration,2016,1,419
+274245,TAR,Tariff Bills,2018,2,161
+756,ACC,Accounting,2014,2,51
+758,ADV,Advertising,2019,3,38
+807,TAX,Taxation/Internal Revenue Code,2022,2,2973
+815,TRD,Trade (Domestic & Foreign),2021,1,1375
+782,BUD,Budget/Appropriations,2023,1,4837
+776,BAN,Banking,2011,1,520
+802,DEF,Defense,2020,3,1771
+814,ENV,Environmental/Superfund,2014,4,925
+826,FUE,Fuel/Gas/Oil,2018,4,177
+805,SPO,Sports/Athletics,2021,3,94
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2010,3,329
+824,FOR,Foreign Relations,2011,2,332
+772,AUT,Automotive Industry,2017,3,144
+764,ALC,Alcohol & Drug Abuse,2021,4,67
+760,AER,Aerospace,2016,3,123
+821,TRU,Trucking/Shipping,2016,1,74
+813,TOR,Torts,2020,2,98
+774,AVI,Aviation/Aircraft/Airlines,2024,2,575
+796,CSP,Consumer Issues/Safety/Protection,2021,1,397
+833,WEL,Welfare,2017,4,42
+828,GAM,Gaming/Gambling/Casino,2012,4,113
+784,CHM,Chemicals/Chemical Industry,2014,4,137
+777,MIA,Media (Information/Publishing),2015,4,26
+828,GAM,Gaming/Gambling/Casino,2023,3,81
+783,MON,Minting/Money/Gold Standard,2023,4,6
+829,VET,Veterans,2023,1,384
+785,NAT,Natural Resources,2020,3,748
+790,CDT,Commodities (Big Ticket),2024,3,37
+791,RRR,Railroads,2015,4,150
+761,IMM,Immigration,2014,4,471
+792,COM,Communications/Broadcasting/Radio/TV,2018,2,266
+780,BEV,Beverage Industry,2011,2,47
+791,RRR,Railroads,2024,1,144
+808,ECN,Economics/Economic Development,2023,1,385
+818,FIR,Firearms/Guns/Ammunition,2013,2,83
+778,BNK,Bankruptcy,2024,2,34
+779,MED,Medical/Disease Research/Clinical Labs,2011,4,240
+799,ROD,Roads/Highway,2010,1,132
+761,IMM,Immigration,2018,3,694
+833,WEL,Welfare,2022,2,55
+773,MAN,Manufacturing,2012,1,154
+778,BNK,Bankruptcy,2020,3,37
+777,MIA,Media (Information/Publishing),2023,2,43
+811,TOB,Tobacco,2011,1,65
+785,NAT,Natural Resources,2016,4,644
+759,HOU,Housing,2024,4,470
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2015,3,304
+815,TRD,Trade (Domestic & Foreign),2022,2,1450
+812,ENG,Energy/Nuclear,2010,3,1837
+756,ACC,Accounting,2013,1,48
+787,PHA,Pharmacy,2013,3,231
+830,GOV,Government Issues,2014,2,525
+793,RES,Real Estate/Land Use/Conservation,2010,2,159
+823,URB,Urban Development/Municipalities,2018,1,160
+823,URB,Urban Development/Municipalities,2014,2,165
+799,ROD,Roads/Highway,2013,4,92
+793,RES,Real Estate/Land Use/Conservation,2014,1,148
+828,GAM,Gaming/Gambling/Casino,2019,1,103
+792,COM,Communications/Broadcasting/Radio/TV,2014,3,276
+786,CIV,Civil Rights/Civil Liberties,2017,1,108
+771,LAW,Law Enforcement/Crime/Criminal Justice,2022,1,452
+830,GOV,Government Issues,2010,3,568
+804,DOC,District of Columbia,2020,4,14
+810,EDU,Education,2015,2,942
+803,SMB,Small Business,2021,2,409
+798,CON,Constitution,2011,2,41
+823,URB,Urban Development/Municipalities,2010,3,214
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2024,3,281
+816,FAM,Family Issues/Abortion/Adoption,2012,4,54
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2013,1,52
+779,MED,Medical/Disease Research/Clinical Labs,2015,3,251
+767,INT,Intelligence and Surveillance,2011,3,40
+784,CHM,Chemicals/Chemical Industry,2021,1,123
+824,FOR,Foreign Relations,2010,1,332
+815,TRD,Trade (Domestic & Foreign),2018,3,1580
+817,TRA,Transportation,2012,2,1642
+781,MMM,Medicare/Medicaid,2010,4,1057
+774,AVI,Aviation/Aircraft/Airlines,2011,3,354
+766,ANI,Animals,2015,4,105
+804,DOC,District of Columbia,2011,4,9
+797,RET,Retirement,2015,3,236
+767,INT,Intelligence and Surveillance,2015,2,115
+772,AUT,Automotive Industry,2020,1,148
+775,MAR,Marine/Maritime/Boating/Fisheries,2011,1,263
+764,ALC,Alcohol & Drug Abuse,2024,2,58
+810,EDU,Education,2019,1,947
+803,SMB,Small Business,2017,3,195
+768,APP,Apparel/Clothing Industry/Textiles,2012,3,18
+798,CON,Constitution,2015,1,39
+760,AER,Aerospace,2019,1,130
+813,TOR,Torts,2010,1,114
+805,SPO,Sports/Athletics,2011,2,31
+792,COM,Communications/Broadcasting/Radio/TV,2010,4,296
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2019,1,47
+757,HOM,Homeland Security,2017,4,697
+776,BAN,Banking,2017,1,445
+820,FIN,Financial Institutions/Investments/Securities,2018,1,836
+760,AER,Aerospace,2013,1,105
+769,LBR,Labor Issues/Antitrust/Workplace,2018,1,723
+819,TOU,Travel/Tourism,2018,4,80
+790,CDT,Commodities (Big Ticket),2010,2,67
+789,POS,Postal,2013,2,123
+796,CSP,Consumer Issues/Safety/Protection,2017,3,345
+769,LBR,Labor Issues/Antitrust/Workplace,2010,3,729
+762,AGR,Agriculture,2022,2,950
+782,BUD,Budget/Appropriations,2022,1,4550
+758,ADV,Advertising,2014,4,53
+828,GAM,Gaming/Gambling/Casino,2013,1,104
+781,MMM,Medicare/Medicaid,2021,2,1520
+782,BUD,Budget/Appropriations,2018,2,3531
+769,LBR,Labor Issues/Antitrust/Workplace,2014,2,628
+811,TOB,Tobacco,2021,3,125
+790,CDT,Commodities (Big Ticket),2014,1,54
+796,CSP,Consumer Issues/Safety/Protection,2013,4,314
+808,ECN,Economics/Economic Development,2017,4,274
+802,DEF,Defense,2015,4,1243
+823,URB,Urban Development/Municipalities,2024,4,230
+813,TOR,Torts,2016,4,69
+793,RES,Real Estate/Land Use/Conservation,2020,4,146
+758,ADV,Advertising,2018,3,36
+800,CPT,Copyright/Patent/Trademark,2023,3,389
+795,REL,Religion,2012,2,17
+819,TOU,Travel/Tourism,2010,3,65
+818,FIR,Firearms/Guns/Ammunition,2024,2,54
+788,CAW,Clean Air & Water (Quality),2023,2,428
+784,CHM,Chemicals/Chemical Industry,2015,4,160
+832,HCR,Health Issues,2019,1,2697
+825,UNM,Unemployment,2020,1,35
+826,FUE,Fuel/Gas/Oil,2022,2,188
+802,DEF,Defense,2016,3,1380
+804,DOC,District of Columbia,2010,2,14
+788,CAW,Clean Air & Water (Quality),2018,4,392
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2019,4,46
+793,RES,Real Estate/Land Use/Conservation,2024,3,164
+800,CPT,Copyright/Patent/Trademark,2019,4,440
+763,IND,Indian/Native American Affairs,2013,1,302
+826,FUE,Fuel/Gas/Oil,2018,3,195
+776,BAN,Banking,2021,3,585
+802,DEF,Defense,2020,2,1737
+758,ADV,Advertising,2022,2,30
+814,ENV,Environmental/Superfund,2017,3,928
+805,SPO,Sports/Athletics,2021,4,87
+833,WEL,Welfare,2014,2,39
+776,BAN,Banking,2017,4,455
+775,MAR,Marine/Maritime/Boating/Fisheries,2021,3,331
+810,EDU,Education,2013,1,828
+828,GAM,Gaming/Gambling/Casino,2013,4,94
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2013,2,253
+814,ENV,Environmental/Superfund,2021,2,1117
+801,SCI,Science/Technology,2014,2,371
+819,TOU,Travel/Tourism,2015,1,74
+770,ART,Arts/Entertainment,2020,2,76
+778,BNK,Bankruptcy,2013,4,28
+785,NAT,Natural Resources,2022,4,788
+775,MAR,Marine/Maritime/Boating/Fisheries,2017,4,312
+757,HOM,Homeland Security,2017,1,659
+825,UNM,Unemployment,2012,3,22
+758,ADV,Advertising,2014,1,57
+806,DIS,Disaster Planning/Emergencies,2022,3,298
+769,LBR,Labor Issues/Antitrust/Workplace,2018,4,714
+794,CPI,Computer Industry,2018,3,243
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2014,1,267
+794,CPI,Computer Industry,2022,2,379
+757,HOM,Homeland Security,2013,2,663
+808,ECN,Economics/Economic Development,2013,2,291
+814,ENV,Environmental/Superfund,2013,4,919
+820,FIN,Financial Institutions/Investments/Securities,2018,4,794
+768,APP,Apparel/Clothing Industry/Textiles,2024,2,26
+819,TOU,Travel/Tourism,2014,2,69
+813,TOR,Torts,2012,2,85
+761,IMM,Immigration,2024,3,459
+796,CSP,Consumer Issues/Safety/Protection,2013,1,323
+790,CDT,Commodities (Big Ticket),2014,4,47
+816,FAM,Family Issues/Abortion/Adoption,2010,3,64
+765,INS,Insurance,2012,1,289
+807,TAX,Taxation/Internal Revenue Code,2020,1,2535
+808,ECN,Economics/Economic Development,2017,1,259
+801,SCI,Science/Technology,2018,1,381
+799,ROD,Roads/Highway,2024,2,104
+814,ENV,Environmental/Superfund,2022,1,1152
+274245,TAR,Tariff Bills,2023,4,89
+783,MON,Minting/Money/Gold Standard,2012,4,15
+787,PHA,Pharmacy,2023,2,268
+825,UNM,Unemployment,2016,2,13
+770,ART,Arts/Entertainment,2024,1,84
+764,ALC,Alcohol & Drug Abuse,2022,1,77
+807,TAX,Taxation/Internal Revenue Code,2016,2,2692
+811,TOB,Tobacco,2017,4,96
+802,DEF,Defense,2012,1,1476
+795,REL,Religion,2016,1,21
+832,HCR,Health Issues,2023,3,3224
+827,UTI,Utilities,2012,2,158
+775,MAR,Marine/Maritime/Boating/Fisheries,2013,2,295
+770,ART,Arts/Entertainment,2012,4,57
+783,MON,Minting/Money/Gold Standard,2012,1,16
+799,ROD,Roads/Highway,2020,3,106
+782,BUD,Budget/Appropriations,2022,4,4604
+761,IMM,Immigration,2020,4,587
+784,CHM,Chemicals/Chemical Industry,2015,1,157
+823,URB,Urban Development/Municipalities,2024,1,261
+814,ENV,Environmental/Superfund,2013,1,917
+772,AUT,Automotive Industry,2014,1,106
+784,CHM,Chemicals/Chemical Industry,2011,2,145
+813,TOR,Torts,2016,1,74
+832,HCR,Health Issues,2019,4,2733
+820,FIN,Financial Institutions/Investments/Securities,2022,3,1035
+825,UNM,Unemployment,2020,4,59
+764,ALC,Alcohol & Drug Abuse,2018,2,89
+781,MMM,Medicare/Medicaid,2017,3,1331
+787,PHA,Pharmacy,2019,3,285
+793,RES,Real Estate/Land Use/Conservation,2016,2,140
+763,IND,Indian/Native American Affairs,2013,4,330
+770,ART,Arts/Entertainment,2016,3,61
+772,AUT,Automotive Industry,2010,2,156
+817,TRA,Transportation,2022,1,1860
+756,ACC,Accounting,2024,1,73
+777,MIA,Media (Information/Publishing),2011,3,38
+767,INT,Intelligence and Surveillance,2021,2,105
+807,TAX,Taxation/Internal Revenue Code,2012,3,2493
+775,MAR,Marine/Maritime/Boating/Fisheries,2017,1,288
+787,PHA,Pharmacy,2015,4,201
+833,WEL,Welfare,2010,3,55
+763,IND,Indian/Native American Affairs,2017,3,321
+764,ALC,Alcohol & Drug Abuse,2014,3,57
+805,SPO,Sports/Athletics,2021,1,89
+801,SCI,Science/Technology,2013,3,368
+799,ROD,Roads/Highway,2019,4,98
+793,RES,Real Estate/Land Use/Conservation,2020,1,143
+825,UNM,Unemployment,2011,4,34
+762,AGR,Agriculture,2023,1,1137
+802,DEF,Defense,2017,2,1398
+793,RES,Real Estate/Land Use/Conservation,2015,3,126
+781,MMM,Medicare/Medicaid,2018,2,1352
+789,POS,Postal,2014,1,133
+756,ACC,Accounting,2021,4,66
+769,LBR,Labor Issues/Antitrust/Workplace,2021,1,875
+809,TEC,Telecommunications,2010,1,553
+759,HOU,Housing,2010,1,319
+796,CSP,Consumer Issues/Safety/Protection,2010,4,341
+781,MMM,Medicare/Medicaid,2022,1,1546
+800,CPT,Copyright/Patent/Trademark,2022,1,423
+757,HOM,Homeland Security,2014,4,657
+789,POS,Postal,2010,2,70
+760,AER,Aerospace,2012,2,116
+823,URB,Urban Development/Municipalities,2023,2,245
+819,TOU,Travel/Tourism,2015,4,64
+784,CHM,Chemicals/Chemical Industry,2010,3,143
+767,INT,Intelligence and Surveillance,2022,1,111
+807,TAX,Taxation/Internal Revenue Code,2011,4,2444
+811,TOB,Tobacco,2022,2,116
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2022,1,54
+820,FIN,Financial Institutions/Investments/Securities,2015,1,759
+776,BAN,Banking,2020,1,579
+766,ANI,Animals,2010,3,94
+770,ART,Arts/Entertainment,2021,4,76
+811,TOB,Tobacco,2018,3,101
+790,CDT,Commodities (Big Ticket),2011,1,53
+832,HCR,Health Issues,2022,4,3179
+769,LBR,Labor Issues/Antitrust/Workplace,2017,2,709
+781,MMM,Medicare/Medicaid,2014,3,1164
+793,RES,Real Estate/Land Use/Conservation,2019,2,141
+795,REL,Religion,2013,4,14
+802,DEF,Defense,2021,1,1735
+760,AER,Aerospace,2011,3,113
+776,BAN,Banking,2016,2,433
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2018,2,50
+827,UTI,Utilities,2013,1,139
+828,GAM,Gaming/Gambling/Casino,2010,1,114
+771,LAW,Law Enforcement/Crime/Criminal Justice,2011,1,362
+778,BNK,Bankruptcy,2010,1,63
+777,MIA,Media (Information/Publishing),2010,4,39
+826,FUE,Fuel/Gas/Oil,2023,4,202
+794,CPI,Computer Industry,2023,1,389
+804,DOC,District of Columbia,2011,1,14
+787,PHA,Pharmacy,2020,2,282
+758,ADV,Advertising,2015,3,54
+819,TOU,Travel/Tourism,2020,2,125
+764,ALC,Alcohol & Drug Abuse,2019,1,78
+802,DEF,Defense,2012,4,1384
+788,CAW,Clean Air & Water (Quality),2019,3,383
+796,CSP,Consumer Issues/Safety/Protection,2019,1,409
+782,BUD,Budget/Appropriations,2019,1,3397
+758,ADV,Advertising,2011,4,74
+778,BNK,Bankruptcy,2014,3,36
+769,LBR,Labor Issues/Antitrust/Workplace,2013,3,561
+826,FUE,Fuel/Gas/Oil,2019,2,180
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2014,3,54
+772,AUT,Automotive Industry,2011,4,111
+813,TOR,Torts,2013,4,74
+787,PHA,Pharmacy,2024,1,273
+274245,TAR,Tariff Bills,2024,3,92
+793,RES,Real Estate/Land Use/Conservation,2023,4,160
+800,CPT,Copyright/Patent/Trademark,2022,4,419
+773,MAN,Manufacturing,2023,2,447
+810,EDU,Education,2010,4,979
+813,TOR,Torts,2017,3,85
+757,HOM,Homeland Security,2018,3,696
+788,CAW,Clean Air & Water (Quality),2015,4,437
+796,CSP,Consumer Issues/Safety/Protection,2014,3,329
+783,MON,Minting/Money/Gold Standard,2013,3,14
+758,ADV,Advertising,2019,2,40
+826,FUE,Fuel/Gas/Oil,2015,3,211
+824,FOR,Foreign Relations,2024,4,390
+805,SPO,Sports/Athletics,2018,4,44
+778,BNK,Bankruptcy,2015,2,47
+762,AGR,Agriculture,2023,4,1240
+796,CSP,Consumer Issues/Safety/Protection,2018,2,366
+812,ENG,Energy/Nuclear,2023,1,1556
+819,TOU,Travel/Tourism,2019,3,89
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2010,2,339
+832,HCR,Health Issues,2018,2,2726
+763,IND,Indian/Native American Affairs,2014,3,366
+814,ENV,Environmental/Superfund,2014,3,978
+757,HOM,Homeland Security,2014,1,648
+776,BAN,Banking,2024,3,612
+805,SPO,Sports/Athletics,2022,3,82
+799,ROD,Roads/Highway,2019,1,101
+825,UNM,Unemployment,2015,3,10
+775,MAR,Marine/Maritime/Boating/Fisheries,2014,4,273
+828,GAM,Gaming/Gambling/Casino,2010,4,118
+807,TAX,Taxation/Internal Revenue Code,2011,1,2297
+767,INT,Intelligence and Surveillance,2022,4,97
+775,MAR,Marine/Maritime/Boating/Fisheries,2018,3,341
+770,ART,Arts/Entertainment,2017,2,60
+810,EDU,Education,2010,1,1061
+819,TOU,Travel/Tourism,2011,2,65
+788,CAW,Clean Air & Water (Quality),2024,1,434
+796,CSP,Consumer Issues/Safety/Protection,2010,1,330
+814,ENV,Environmental/Superfund,2010,4,1066
+801,SCI,Science/Technology,2017,2,370
+833,WEL,Welfare,2011,2,43
+814,ENV,Environmental/Superfund,2018,2,911
+781,MMM,Medicare/Medicaid,2022,4,1537
+833,WEL,Welfare,2015,1,38
+775,MAR,Marine/Maritime/Boating/Fisheries,2022,2,348
+778,BNK,Bankruptcy,2010,4,51
+788,CAW,Clean Air & Water (Quality),2020,2,385
+808,ECN,Economics/Economic Development,2020,1,404
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2011,1,274
+825,UNM,Unemployment,2019,2,11
+832,HCR,Health Issues,2022,1,3288
+763,IND,Indian/Native American Affairs,2018,2,320
+828,GAM,Gaming/Gambling/Casino,2014,3,96
+825,UNM,Unemployment,2023,1,26
+758,ADV,Advertising,2023,1,30
+776,BAN,Banking,2020,4,590
+770,ART,Arts/Entertainment,2021,1,83
+794,CPI,Computer Industry,2019,2,266
+777,MIA,Media (Information/Publishing),2010,1,37
+757,HOM,Homeland Security,2010,2,675
+806,DIS,Disaster Planning/Emergencies,2023,2,256
+764,ALC,Alcohol & Drug Abuse,2019,4,80
+790,CDT,Commodities (Big Ticket),2011,4,55
+782,BUD,Budget/Appropriations,2019,4,3402
+820,FIN,Financial Institutions/Investments/Securities,2019,3,839
+817,TRA,Transportation,2021,2,1914
+826,FUE,Fuel/Gas/Oil,2023,1,195
+768,APP,Apparel/Clothing Industry/Textiles,2023,3,26
+812,ENG,Energy/Nuclear,2023,4,1610
+772,AUT,Automotive Industry,2011,1,118
+813,TOR,Torts,2013,1,69
+764,ALC,Alcohol & Drug Abuse,2015,2,55
+794,CPI,Computer Industry,2023,4,388
+807,TAX,Taxation/Internal Revenue Code,2019,2,2616
+787,PHA,Pharmacy,2016,3,236
+808,ECN,Economics/Economic Development,2016,2,275
+820,FIN,Financial Institutions/Investments/Securities,2015,4,795
+801,SCI,Science/Technology,2012,4,354
+795,REL,Religion,2013,1,18
+790,CDT,Commodities (Big Ticket),2015,3,44
+799,ROD,Roads/Highway,2023,3,114
+784,CHM,Chemicals/Chemical Industry,2018,1,131
+830,GOV,Government Issues,2023,4,690
+784,CHM,Chemicals/Chemical Industry,2014,2,146
+806,DIS,Disaster Planning/Emergencies,2024,1,264
+793,RES,Real Estate/Land Use/Conservation,2023,1,152
+770,ART,Arts/Entertainment,2013,3,58
+820,FIN,Financial Institutions/Investments/Securities,2023,2,1019
+825,UNM,Unemployment,2014,4,9
+782,BUD,Budget/Appropriations,2023,3,4807
+781,MMM,Medicare/Medicaid,2013,4,1151
+775,MAR,Marine/Maritime/Boating/Fisheries,2014,1,290
+774,AVI,Aviation/Aircraft/Airlines,2024,4,486
+761,IMM,Immigration,2023,4,497
+807,TAX,Taxation/Internal Revenue Code,2015,3,2783
+808,ECN,Economics/Economic Development,2012,3,280
+788,CAW,Clean Air & Water (Quality),2024,4,404
+784,CHM,Chemicals/Chemical Industry,2013,3,138
+811,TOB,Tobacco,2019,2,123
+795,REL,Religion,2014,3,16
+807,TAX,Taxation/Internal Revenue Code,2014,4,2715
+781,MMM,Medicare/Medicaid,2015,2,1236
+799,ROD,Roads/Highway,2022,4,126
+758,ADV,Advertising,2020,4,34
+789,POS,Postal,2011,1,70
+795,REL,Religion,2010,4,14
+778,BNK,Bankruptcy,2016,1,58
+829,VET,Veterans,2023,4,398
+826,FUE,Fuel/Gas/Oil,2024,3,199
+793,RES,Real Estate/Land Use/Conservation,2018,3,138
+762,AGR,Agriculture,2024,3,1234
+782,BUD,Budget/Appropriations,2024,2,5314
+765,INS,Insurance,2010,3,313
+802,DEF,Defense,2014,2,1311
+784,CHM,Chemicals/Chemical Industry,2012,4,129
+802,DEF,Defense,2018,1,1488
+826,FUE,Fuel/Gas/Oil,2020,4,156
+827,UTI,Utilities,2010,1,184
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2021,2,46
+808,ECN,Economics/Economic Development,2011,4,275
+801,SCI,Science/Technology,2015,4,376
+769,LBR,Labor Issues/Antitrust/Workplace,2020,2,803
+770,ART,Arts/Entertainment,2018,4,51
+800,CPT,Copyright/Patent/Trademark,2021,2,409
+776,BAN,Banking,2023,1,579
+820,FIN,Financial Institutions/Investments/Securities,2024,1,1028
+793,RES,Real Estate/Land Use/Conservation,2022,2,159
+817,TRA,Transportation,2020,3,1653
+823,URB,Urban Development/Municipalities,2022,3,236
+833,WEL,Welfare,2012,4,41
+773,MAN,Manufacturing,2024,1,475
+776,BAN,Banking,2019,2,523
+766,ANI,Animals,2011,2,82
+826,FUE,Fuel/Gas/Oil,2016,2,185
+796,CSP,Consumer Issues/Safety/Protection,2015,2,365
+794,CPI,Computer Industry,2020,1,293
+819,TOU,Travel/Tourism,2016,3,68
+769,LBR,Labor Issues/Antitrust/Workplace,2016,3,747
+760,AER,Aerospace,2010,4,103
+787,PHA,Pharmacy,2017,2,229
+764,ALC,Alcohol & Drug Abuse,2016,1,67
+763,IND,Indian/Native American Affairs,2019,1,303
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2017,3,51
+788,CAW,Clean Air & Water (Quality),2016,3,439
+816,FAM,Family Issues/Abortion/Adoption,2012,1,60
+778,BNK,Bankruptcy,2011,3,37
+756,ACC,Accounting,2022,3,76
+757,HOM,Homeland Security,2019,2,675
+801,SCI,Science/Technology,2012,1,375
+819,TOU,Travel/Tourism,2012,4,64
+779,MED,Medical/Disease Research/Clinical Labs,2023,4,282
+793,RES,Real Estate/Land Use/Conservation,2014,4,149
+796,CSP,Consumer Issues/Safety/Protection,2011,3,357
+757,HOM,Homeland Security,2011,4,653
+761,IMM,Immigration,2023,1,494
+813,TOR,Torts,2010,4,112
+776,BAN,Banking,2015,3,462
+781,MMM,Medicare/Medicaid,2019,1,1377
+787,PHA,Pharmacy,2021,1,258
+813,TOR,Torts,2014,3,72
+757,HOM,Homeland Security,2015,3,708
+769,LBR,Labor Issues/Antitrust/Workplace,2012,4,544
+758,ADV,Advertising,2012,3,64
+802,DEF,Defense,2013,3,1328
+811,TOB,Tobacco,2023,1,104
+783,MON,Minting/Money/Gold Standard,2010,3,11
+825,UNM,Unemployment,2014,1,31
+762,AGR,Agriculture,2020,4,827
+799,ROD,Roads/Highway,2022,1,127
+775,MAR,Marine/Maritime/Boating/Fisheries,2011,4,279
+831,WAS,Waste (hazardous/solid/interstate/nuclear),2013,4,62
+813,TOR,Torts,2018,2,74
+801,SCI,Science/Technology,2011,2,358
+783,MON,Minting/Money/Gold Standard,2014,2,11
+764,ALC,Alcohol & Drug Abuse,2020,3,66
+825,UNM,Unemployment,2018,3,8
+814,ENV,Environmental/Superfund,2011,3,1076
+757,HOM,Homeland Security,2011,1,579
+821,TRU,Trucking/Shipping,2010,2,61
+767,INT,Intelligence and Surveillance,2019,4,108
+832,HCR,Health Issues,2021,2,3288
+787,PHA,Pharmacy,2021,4,269
+825,UNM,Unemployment,2022,2,33
+775,MAR,Marine/Maritime/Boating/Fisheries,2015,3,285
+806,DIS,Disaster Planning/Emergencies,2024,4,267
+761,IMM,Immigration,2022,2,542
+807,TAX,Taxation/Internal Revenue Code,2014,1,2803
+799,ROD,Roads/Highway,2018,2,110
+758,ADV,Advertising,2016,2,41
+788,CAW,Clean Air & Water (Quality),2021,1,368
+763,IND,Indian/Native American Affairs,2011,3,295
+789,POS,Postal,2011,4,133
+763,IND,Indian/Native American Affairs,2015,2,331
+814,ENV,Environmental/Superfund,2015,2,975
+767,INT,Intelligence and Surveillance,2023,3,109
+770,ART,Arts/Entertainment,2018,1,53
+819,TOU,Travel/Tourism,2021,1,101
+764,ALC,Alcohol & Drug Abuse,2016,4,65
+772,AUT,Automotive Industry,2012,3,111
+805,SPO,Sports/Athletics,2023,2,92
+802,DEF,Defense,2018,4,1472
+805,SPO,Sports/Athletics,2019,3,43
+833,WEL,Welfare,2012,1,42
+775,MAR,Marine/Maritime/Boating/Fisheries,2019,2,333
+814,ENV,Environmental/Superfund,2019,1,908
+819,TOU,Travel/Tourism,2017,2,82
+777,MIA,Media (Information/Publishing),2013,1,38
+807,TAX,Taxation/Internal Revenue Code,2010,2,2463
+796,CSP,Consumer Issues/Safety/Protection,2016,1,363
+758,ADV,Advertising,2020,1,40
+770,ART,Arts/Entertainment,2014,2,54
+776,BAN,Banking,2023,4,598
+814,ENV,Environmental/Superfund,2019,4,974
+827,UTI,Utilities,2010,4,176
+830,GOV,Government Issues,2024,3,696
+781,MMM,Medicare/Medicaid,2023,3,1551
+810,EDU,Education,2011,3,956
+775,MAR,Marine/Maritime/Boating/Fisheries,2023,1,349
+770,ART,Arts/Entertainment,2022,3,70
+805,SPO,Sports/Athletics,2024,1,87
+828,GAM,Gaming/Gambling/Casino,2015,2,113
+801,SCI,Science/Technology,2016,3,374
+808,ECN,Economics/Economic Development,2019,2,334
+826,FUE,Fuel/Gas/Oil,2020,1,165
+782,BUD,Budget/Appropriations,2016,4,3066
+781,MMM,Medicare/Medicaid,2019,4,1387
+790,CDT,Commodities (Big Ticket),2012,3,52
+820,FIN,Financial Institutions/Investments/Securities,2012,4,763
+812,ENG,Energy/Nuclear,2024,3,1662
+817,TRA,Transportation,2024,2,1743
+791,RRR,Railroads,2024,4,129
+828,GAM,Gaming/Gambling/Casino,2011,3,113
+822,FOO,"Food Industry (Safety, Labeling, etc.)",2011,4,258
+782,BUD,Budget/Appropriations,2020,3,3920
+795,REL,Religion,2010,1,13
+820,FIN,Financial Institutions/Investments/Securities,2020,2,914
+832,HCR,Health Issues,2017,3,2702
+769,LBR,Labor Issues/Antitrust/Workplace,2012,1,655
+794,CPI,Computer Industry,2020,4,300
+794,CPI,Computer Industry,2024,3,384
+773,MAN,Manufacturing,2024,4,472
+819,TOU,Travel/Tourism,2012,1,74
+807,TAX,Taxation/Internal Revenue Code,2018,3,2781
+808,ECN,Economics/Economic Development,2015,3,258
+763,IND,Indian/Native American Affairs,2010,4,310
+784,CHM,Chemicals/Chemical Industry,2017,2,125
+790,CDT,Commodities (Big Ticket),2016,2,41
+818,FIR,Firearms/Guns/Ammunition,2022,4,63
+820,FIN,Financial Institutions/Investments/Securities,2016,3,824
+812,ENG,Energy/Nuclear,2020,4,1169
+768,APP,Apparel/Clothing Industry/Textiles,2022,4,28
+811,TOB,Tobacco,2023,4,111
